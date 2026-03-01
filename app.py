@@ -84,6 +84,24 @@ st.markdown("""
     gap: 0.5rem !important;
   }
 
+  /* ── Mobile Responsive ── */
+  @media (max-width: 768px) {
+    /* Sidebar toggle button always visible */
+    [data-testid="collapsedControl"] {
+      display: flex !important;
+      background: #1F4E79 !important;
+      color: white !important;
+      border-radius: 0 8px 8px 0 !important;
+      top: 10px !important;
+    }
+    /* Page title smaller on mobile */
+    .page-title-text { font-size: 16px !important; }
+    .page-title-sub  { font-size: 10px !important; }
+    /* Metric cards stack on mobile */
+    .metric-card { height: auto !important; margin-bottom: 8px; }
+    .metric-value { font-size: 18px !important; }
+  }
+
   /* ── Tabs ── */
   .stTabs [data-baseweb="tab"] {
     font-size: 14px !important;
