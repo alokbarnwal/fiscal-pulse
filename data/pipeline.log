@@ -1,0 +1,1449 @@
+2026-02-28 20:34:07,360 [INFO] 
+############################################################
+  Fiscal Pulse Pipeline | mode=state
+############################################################
+2026-02-28 20:34:07,402 [INFO] GSDP loaded for 30 states
+2026-02-28 20:34:07,402 [INFO] Loaded 1 manual overrides
+2026-02-28 20:34:07,402 [INFO] 
+==================================================
+  Processing: Chhattisgarh
+==================================================
+2026-02-28 20:34:09,069 [INFO]   [Chhattisgarh] Found 60 MKI PDFs
+2026-02-28 20:34:11,939 [INFO]     ✓ Chhattisgarh | 2025-26 | April | 25/26 indicators
+2026-02-28 20:34:14,553 [INFO]     ✓ Chhattisgarh | 2025-26 | May | 25/26 indicators
+2026-02-28 20:34:17,636 [INFO]     ✓ Chhattisgarh | 2025-26 | June | 25/26 indicators
+2026-02-28 20:34:20,269 [INFO]     ✓ Chhattisgarh | 2025-26 | July | 25/26 indicators
+2026-02-28 20:34:23,043 [INFO]     ✓ Chhattisgarh | 2025-26 | August | 25/26 indicators
+2026-02-28 20:34:25,998 [INFO]     ✓ Chhattisgarh | 2025-26 | September | 25/26 indicators
+2026-02-28 20:34:28,634 [INFO]     ✓ Chhattisgarh | 2025-26 | October | 25/26 indicators
+2026-02-28 20:34:31,251 [INFO]     ✓ Chhattisgarh | 2025-26 | November | 25/26 indicators
+2026-02-28 20:34:34,039 [INFO]     ✓ Chhattisgarh | 2025-26 | December | 25/26 indicators
+2026-02-28 20:34:36,887 [INFO]     ✓ Chhattisgarh | 2025-26 | January | 26/26 indicators
+2026-02-28 20:34:39,404 [INFO]     ✓ Chhattisgarh | 2024-25 | April | 25/26 indicators
+2026-02-28 20:34:41,800 [INFO]     ✓ Chhattisgarh | 2024-25 | May | 25/26 indicators
+2026-02-28 20:34:44,210 [INFO]     ✓ Chhattisgarh | 2024-25 | June | 25/26 indicators
+2026-02-28 20:34:46,663 [INFO]     ✓ Chhattisgarh | 2024-25 | July | 25/26 indicators
+2026-02-28 20:34:49,216 [INFO]     ✓ Chhattisgarh | 2024-25 | August | 25/26 indicators
+2026-02-28 20:34:51,968 [INFO]     ✓ Chhattisgarh | 2024-25 | September | 25/26 indicators
+2026-02-28 20:34:54,453 [INFO]     ✓ Chhattisgarh | 2024-25 | October | 25/26 indicators
+2026-02-28 20:34:56,974 [INFO]     ✓ Chhattisgarh | 2024-25 | November | 25/26 indicators
+2026-02-28 20:34:59,411 [INFO]     ✓ Chhattisgarh | 2024-25 | December | 25/26 indicators
+2026-02-28 20:35:02,554 [INFO]     ✓ Chhattisgarh | 2024-25 | January | 25/26 indicators
+2026-02-28 20:35:05,103 [INFO]     ✓ Chhattisgarh | 2024-25 | February | 25/26 indicators
+2026-02-28 20:35:07,827 [INFO]     ✓ Chhattisgarh | 2024-25 | March | 25/26 indicators
+2026-02-28 20:35:10,385 [INFO]     ✓ Chhattisgarh | 2024-25 | March | 25/26 indicators
+2026-02-28 20:35:13,034 [INFO]     ✓ Chhattisgarh | 2023-24 | April | 24/26 indicators
+2026-02-28 20:35:15,667 [INFO]     ✓ Chhattisgarh | 2023-24 | May | 24/26 indicators
+2026-02-28 20:35:18,613 [INFO]     ✓ Chhattisgarh | 2023-24 | June | 24/26 indicators
+2026-02-28 20:35:21,908 [INFO]     ✓ Chhattisgarh | 2023-24 | July | 24/26 indicators
+2026-02-28 20:35:25,061 [INFO]     ✓ Chhattisgarh | 2023-24 | August | 25/26 indicators
+2026-02-28 20:35:28,097 [INFO]     ✓ Chhattisgarh | 2023-24 | September | 25/26 indicators
+2026-02-28 20:35:31,379 [INFO]     ✓ Chhattisgarh | 2023-24 | October | 24/26 indicators
+2026-02-28 20:35:35,355 [INFO]     ✓ Chhattisgarh | 2023-24 | November | 25/26 indicators
+2026-02-28 20:35:39,174 [INFO]     ✓ Chhattisgarh | 2023-24 | December | 25/26 indicators
+2026-02-28 20:35:42,653 [INFO]     ✓ Chhattisgarh | 2023-24 | January | 25/26 indicators
+2026-02-28 20:35:45,794 [INFO]     ✓ Chhattisgarh | 2023-24 | February | 25/26 indicators
+2026-02-28 20:35:49,991 [INFO]     ✓ Chhattisgarh | 2023-24 | March | 25/26 indicators
+2026-02-28 20:35:54,099 [INFO]     ✓ Chhattisgarh | 2023-24 | March | 25/26 indicators
+2026-02-28 20:35:57,506 [INFO]     ✓ Chhattisgarh | 2022-23 | May | 23/26 indicators
+2026-02-28 20:36:01,271 [INFO]     ✓ Chhattisgarh | 2022-23 | June | 24/26 indicators
+2026-02-28 20:36:04,622 [INFO]     ✓ Chhattisgarh | 2022-23 | July | 23/26 indicators
+2026-02-28 20:36:08,240 [INFO]     ✓ Chhattisgarh | 2022-23 | August | 24/26 indicators
+2026-02-28 20:36:11,560 [INFO]     ✓ Chhattisgarh | 2022-23 | September | 24/26 indicators
+2026-02-28 20:36:15,420 [INFO]     ✓ Chhattisgarh | 2022-23 | October | 24/26 indicators
+2026-02-28 20:36:18,554 [INFO]     ✓ Chhattisgarh | 2022-23 | November | 24/26 indicators
+2026-02-28 20:36:21,864 [INFO]     ✓ Chhattisgarh | 2022-23 | December | 24/26 indicators
+2026-02-28 20:36:25,447 [INFO]     ✓ Chhattisgarh | 2022-23 | January | 24/26 indicators
+2026-02-28 20:36:28,942 [INFO]     ✓ Chhattisgarh | 2022-23 | February | 24/26 indicators
+2026-02-28 20:36:32,526 [INFO]     ✓ Chhattisgarh | 2022-23 | March | 24/26 indicators
+2026-02-28 20:36:36,178 [INFO]     ✓ Chhattisgarh | 2022-23 | March | 24/26 indicators
+2026-02-28 20:36:39,577 [INFO]     ✓ Chhattisgarh | 2022-23 | March | 24/26 indicators
+2026-02-28 20:36:43,260 [INFO]     ✓ Chhattisgarh | 2021-22 | April | 21/26 indicators
+2026-02-28 20:36:46,646 [INFO]     ✓ Chhattisgarh | 2021-22 | May | 21/26 indicators
+2026-02-28 20:36:50,262 [INFO]     ✓ Chhattisgarh | 2021-22 | June | 21/26 indicators
+2026-02-28 20:36:53,548 [INFO]     ✓ Chhattisgarh | 2021-22 | July | 21/26 indicators
+2026-02-28 20:36:57,386 [INFO]     ✓ Chhattisgarh | 2021-22 | August | 23/26 indicators
+2026-02-28 20:37:00,781 [INFO]     ✓ Chhattisgarh | 2021-22 | September | 23/26 indicators
+2026-02-28 20:37:04,314 [INFO]     ✓ Chhattisgarh | 2021-22 | October | 23/26 indicators
+2026-02-28 20:37:08,594 [INFO]     ✓ Chhattisgarh | 2021-22 | November | 23/26 indicators
+2026-02-28 20:37:12,318 [INFO]     ✓ Chhattisgarh | 2021-22 | December | 23/26 indicators
+2026-02-28 20:37:15,905 [INFO]     ✓ Chhattisgarh | 2021-22 | January | 21/26 indicators
+2026-02-28 20:37:19,337 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-13-2022-062c7ef712e4cf8-43476535.pdf
+2026-02-28 20:37:19,341 [INFO]   [Chhattisgarh] Done. 59 months parsed, 0 skipped
+2026-02-28 20:37:19,568 [INFO] Saved 1534 rows to master CSV
+2026-02-28 20:37:19,571 [INFO] 
+Completeness Scores:
+2026-02-28 20:37:19,571 [INFO]   Chhattisgarh                93.0%
+2026-02-28 20:37:24,907 [INFO] Office Excel saved: outputs/CAG_Monthly_Key_Indicators_Office.xlsx
+2026-02-28 20:37:24,910 [INFO] 
+✅ Pipeline complete. Processed 1 states.
+2026-03-01 10:01:08,415 [INFO] 
+############################################################
+  Fiscal Pulse Pipeline | mode=historical
+############################################################
+2026-03-01 10:01:08,458 [INFO] GSDP loaded for 30 states
+2026-03-01 10:01:08,466 [INFO] Loaded 1 manual overrides
+2026-03-01 10:01:08,492 [INFO] 
+==================================================
+  Processing: Andhra Pradesh
+==================================================
+2026-03-01 10:01:10,464 [INFO]   [Andhra Pradesh] Found 45 MKI PDFs
+2026-03-01 10:01:11,737 [ERROR] PDF text extraction error: No /Root object! - Is this really a PDF?
+2026-03-01 10:01:13,247 [WARNING]     PDF error: http://www.agaeapts.gov.in/MKIV/mkiV_Jul20.html
+2026-03-01 10:01:15,924 [INFO]     ✓ Andhra Pradesh | 2025-26 | April | 0/26 indicators
+2026-03-01 10:01:18,663 [INFO]     ✓ Andhra Pradesh | 2025-26 | May | 0/26 indicators
+2026-03-01 10:01:22,060 [INFO]     ✓ Andhra Pradesh | 2025-26 | June | 0/26 indicators
+2026-03-01 10:01:24,620 [INFO]     ✓ Andhra Pradesh | 2025-26 | July | 0/26 indicators
+2026-03-01 10:01:27,923 [INFO]     ✓ Andhra Pradesh | 2025-26 | July | 0/26 indicators
+2026-03-01 10:01:30,655 [INFO]     ✓ Andhra Pradesh | 2025-26 | Aug | 0/26 indicators
+2026-03-01 10:01:33,864 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Sept2025-068f0dd4d8ca5d4-74297246.pdf
+2026-03-01 10:01:36,800 [INFO]     ✓ Andhra Pradesh | 2025-26 | October | 0/26 indicators
+2026-03-01 10:01:39,881 [INFO]     ✓ Andhra Pradesh | 2025-26 | November | 0/26 indicators
+2026-03-01 10:01:42,875 [INFO]     ✓ Andhra Pradesh | 2025-26 | Dec | 0/26 indicators
+2026-03-01 10:01:45,597 [INFO]     ✓ Andhra Pradesh | 2025-26 | January | 0/26 indicators
+2026-03-01 10:01:48,421 [INFO]     ✓ Andhra Pradesh | 2024-25 | April | 0/26 indicators
+2026-03-01 10:01:54,919 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2024-0667bfd89475991-82767092.pdf
+2026-03-01 10:01:58,151 [INFO]     ✓ Andhra Pradesh | 2024-25 | June | 0/26 indicators
+2026-03-01 10:02:01,098 [INFO]     ✓ Andhra Pradesh | 2024-25 | July | 0/26 indicators
+2026-03-01 10:02:03,736 [INFO]     ✓ Andhra Pradesh | 2024-25 | August | 0/26 indicators
+2026-03-01 10:02:06,500 [INFO]     ✓ Andhra Pradesh | 2024-25 | September | 0/26 indicators
+2026-03-01 10:02:09,436 [INFO]     ✓ Andhra Pradesh | 2024-25 | October | 0/26 indicators
+2026-03-01 10:02:12,311 [INFO]     ✓ Andhra Pradesh | 2024-25 | November | 0/26 indicators
+2026-03-01 10:02:16,011 [INFO]     ✓ Andhra Pradesh | 2024-25 | December | 0/26 indicators
+2026-03-01 10:02:18,811 [INFO]     ✓ Andhra Pradesh | 2024-25 | January | 0/26 indicators
+2026-03-01 10:02:21,802 [INFO]     ✓ Andhra Pradesh | 2024-25 | February | 0/26 indicators
+2026-03-01 10:02:24,862 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Word-MAR-P-2025-3-068243d627801f0-80930028.pdf
+2026-03-01 10:02:27,760 [INFO]     ✓ Andhra Pradesh | 2023-24 | April | 0/26 indicators
+2026-03-01 10:02:30,292 [INFO]     ✓ Andhra Pradesh | 2023-24 | May | 0/26 indicators
+2026-03-01 10:02:32,948 [INFO]     ✓ Andhra Pradesh | 2023-24 | June | 0/26 indicators
+2026-03-01 10:02:36,028 [INFO]     ✓ Andhra Pradesh | 2023-24 | July | 0/26 indicators
+2026-03-01 10:02:39,295 [INFO]     ✓ Andhra Pradesh | 2023-24 | August | 0/26 indicators
+2026-03-01 10:02:41,832 [INFO]     ✓ Andhra Pradesh | 2023-24 | October | 0/26 indicators
+2026-03-01 10:02:44,513 [INFO]     ✓ Andhra Pradesh | 2023-24 | November | 0/26 indicators
+2026-03-01 10:02:47,194 [INFO]     ✓ Andhra Pradesh | 2023-24 | December | 0/26 indicators
+2026-03-01 10:02:49,831 [INFO]     ✓ Andhra Pradesh | 2023-24 | January | 0/26 indicators
+2026-03-01 10:02:53,729 [INFO]     ✓ Andhra Pradesh | 2023-24 | February | 0/26 indicators
+2026-03-01 10:02:56,748 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-S-2024-0668fc80c296787-21047882.pdf
+2026-03-01 10:03:00,217 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MAR-P-2024-06644985bb75bf3-72752377.pdf
+2026-03-01 10:03:02,883 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-july-2022-MKI-0632c4909efa0d4-79184283.pdf
+2026-03-01 10:03:05,776 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-s-2023-064b141c5554504-47692581.pdf
+2026-03-01 10:03:08,371 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-P-2023-0646dabcbd97069-81783405.pdf
+2026-03-01 10:03:11,009 [INFO]     ✓ Andhra Pradesh | 2021-22 | April | 0/26 indicators
+2026-03-01 10:03:13,915 [INFO]     ✓ Andhra Pradesh | 2021-22 | May | 0/26 indicators
+2026-03-01 10:03:16,826 [INFO]     ✓ Andhra Pradesh | 2021-22 | June | 0/26 indicators
+2026-03-01 10:03:20,024 [INFO]     ✓ Andhra Pradesh | 2021-22 | August | 0/26 indicators
+2026-03-01 10:03:22,357 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Sept21-ITA-06189095f348af0-49548369.pdf
+2026-03-01 10:03:25,247 [INFO]     ✓ Andhra Pradesh | 2021-22 | November | 0/26 indicators
+2026-03-01 10:03:25,247 [INFO]   [Andhra Pradesh] Done. 35 months parsed, 0 skipped
+2026-03-01 10:03:26,262 [INFO] 
+==================================================
+  Processing: Arunachal Pradesh
+==================================================
+2026-03-01 10:03:27,276 [INFO]   [Arunachal Pradesh] Found 61 MKI PDFs
+2026-03-01 10:03:29,614 [INFO]     ✓ Arunachal Pradesh | 2025-26 | April | 14/26 indicators
+2026-03-01 10:03:31,764 [INFO]     ✓ Arunachal Pradesh | 2025-26 | May | 14/26 indicators
+2026-03-01 10:03:33,988 [INFO]     ✓ Arunachal Pradesh | 2025-26 | June | 14/26 indicators
+2026-03-01 10:03:36,346 [INFO]     ✓ Arunachal Pradesh | 2025-26 | July | 14/26 indicators
+2026-03-01 10:03:38,712 [INFO]     ✓ Arunachal Pradesh | 2025-26 | August | 14/26 indicators
+2026-03-01 10:03:59,762 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-September-2025-0696e00460ff542-41144270.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-September-2025-0696e00460ff542-41144270.pdf (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025FCFE968B0>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond'))
+2026-03-01 10:04:01,273 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-September-2025-0696e00460ff542-41144270.pdf
+2026-03-01 10:04:03,490 [INFO]     ✓ Arunachal Pradesh | 2025-26 | October | 15/26 indicators
+2026-03-01 10:04:05,772 [INFO]     ✓ Arunachal Pradesh | 2025-26 | November | 15/26 indicators
+2026-03-01 10:04:07,911 [INFO]     ✓ Arunachal Pradesh | 2025-26 | December | 15/26 indicators
+2026-03-01 10:04:10,237 [INFO]     ✓ Arunachal Pradesh | 2024-25 | April | 14/26 indicators
+2026-03-01 10:04:12,529 [INFO]     ✓ Arunachal Pradesh | 2024-25 | May | 14/26 indicators
+2026-03-01 10:04:14,897 [INFO]     ✓ Arunachal Pradesh | 2024-25 | June | 14/26 indicators
+2026-03-01 10:04:17,079 [INFO]     ✓ Arunachal Pradesh | 2024-25 | July | 14/26 indicators
+2026-03-01 10:04:19,301 [INFO]     ✓ Arunachal Pradesh | 2024-25 | August | 14/26 indicators
+2026-03-01 10:04:21,490 [INFO]     ✓ Arunachal Pradesh | 2024-25 | September | 15/26 indicators
+2026-03-01 10:04:23,732 [INFO]     ✓ Arunachal Pradesh | 2024-25 | October | 15/26 indicators
+2026-03-01 10:04:25,953 [INFO]     ✓ Arunachal Pradesh | 2024-25 | November | 15/26 indicators
+2026-03-01 10:04:28,093 [INFO]     ✓ Arunachal Pradesh | 2024-25 | December | 15/26 indicators
+2026-03-01 10:04:30,239 [INFO]     ✓ Arunachal Pradesh | 2024-25 | January | 15/26 indicators
+2026-03-01 10:04:32,414 [INFO]     ✓ Arunachal Pradesh | 2024-25 | February | 15/26 indicators
+2026-03-01 10:04:34,967 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Supp-2025-0685935b6b8ea28-07223025.pdf
+2026-03-01 10:04:37,176 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2025-0682d739d7876f9-54256643.pdf
+2026-03-01 10:04:40,011 [INFO]     ✓ Arunachal Pradesh | 2023-24 | April | 8/26 indicators
+2026-03-01 10:04:42,476 [INFO]     ✓ Arunachal Pradesh | 2023-24 | May | 8/26 indicators
+2026-03-01 10:04:44,850 [INFO]     ✓ Arunachal Pradesh | 2023-24 | June | 8/26 indicators
+2026-03-01 10:04:47,361 [INFO]     ✓ Arunachal Pradesh | 2023-24 | July | 9/26 indicators
+2026-03-01 10:04:49,694 [INFO]     ✓ Arunachal Pradesh | 2023-24 | August | 9/26 indicators
+2026-03-01 10:04:51,857 [INFO]     ✓ Arunachal Pradesh | 2023-24 | September | 9/26 indicators
+2026-03-01 10:04:54,225 [INFO]     ✓ Arunachal Pradesh | 2023-24 | October | 9/26 indicators
+2026-03-01 10:04:56,697 [INFO]     ✓ Arunachal Pradesh | 2023-24 | November | 9/26 indicators
+2026-03-01 10:05:00,447 [INFO]     ✓ Arunachal Pradesh | 2023-24 | December | 9/26 indicators
+2026-03-01 10:05:02,724 [INFO]     ✓ Arunachal Pradesh | 2023-24 | January | 9/26 indicators
+2026-03-01 10:05:05,553 [INFO]     ✓ Arunachal Pradesh | 2023-24 | February | 15/26 indicators
+2026-03-01 10:05:08,243 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-Sup-2024-06698eb5354d203-03480178.pdf
+2026-03-01 10:05:10,558 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-Pre-2024-0667262366645e4-37645156.pdf
+2026-03-01 10:05:13,158 [INFO]     ✓ Arunachal Pradesh | 2022-23 | April | 8/26 indicators
+2026-03-01 10:05:15,388 [INFO]     ✓ Arunachal Pradesh | 2022-23 | May | 8/26 indicators
+2026-03-01 10:05:17,777 [INFO]     ✓ Arunachal Pradesh | 2022-23 | June | 8/26 indicators
+2026-03-01 10:05:19,949 [INFO]     ✓ Arunachal Pradesh | 2022-23 | July | 8/26 indicators
+2026-03-01 10:05:22,318 [INFO]     ✓ Arunachal Pradesh | 2022-23 | August | 8/26 indicators
+2026-03-01 10:05:24,697 [INFO]     ✓ Arunachal Pradesh | 2022-23 | September | 9/26 indicators
+2026-03-01 10:05:27,363 [INFO]     ✓ Arunachal Pradesh | 2022-23 | October | 9/26 indicators
+2026-03-01 10:05:29,748 [INFO]     ✓ Arunachal Pradesh | 2022-23 | November | 9/26 indicators
+2026-03-01 10:05:32,052 [INFO]     ✓ Arunachal Pradesh | 2022-23 | December | 9/26 indicators
+2026-03-01 10:05:34,227 [INFO]     ✓ Arunachal Pradesh | 2022-23 | January | 9/26 indicators
+2026-03-01 10:05:36,515 [INFO]     ✓ Arunachal Pradesh | 2022-23 | February | 9/26 indicators
+2026-03-01 10:05:38,783 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-Pre-2023-0646ca44e0de420-02227727.pdf
+2026-03-01 10:05:41,330 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-Supp-2023-06492dc3a325ce5-17368341.pdf
+2026-03-01 10:05:43,314 [INFO]     ✓ Arunachal Pradesh | 2021-22 | April | 14/26 indicators
+2026-03-01 10:05:45,413 [INFO]     ✓ Arunachal Pradesh | 2021-22 | May | 14/26 indicators
+2026-03-01 10:05:47,399 [INFO]     ✓ Arunachal Pradesh | 2021-22 | June | 14/26 indicators
+2026-03-01 10:05:49,363 [INFO]     ✓ Arunachal Pradesh | 2021-22 | July | 14/26 indicators
+2026-03-01 10:05:51,371 [INFO]     ✓ Arunachal Pradesh | 2021-22 | August | 14/26 indicators
+2026-03-01 10:05:53,426 [INFO]     ✓ Arunachal Pradesh | 2021-22 | September | 15/26 indicators
+2026-03-01 10:05:55,409 [INFO]     ✓ Arunachal Pradesh | 2021-22 | October | 15/26 indicators
+2026-03-01 10:05:57,410 [INFO]     ✓ Arunachal Pradesh | 2021-22 | November | 15/26 indicators
+2026-03-01 10:05:59,479 [INFO]     ✓ Arunachal Pradesh | 2021-22 | December | 15/26 indicators
+2026-03-01 10:06:01,486 [INFO]     ✓ Arunachal Pradesh | 2021-22 | January | 15/26 indicators
+2026-03-01 10:06:03,808 [INFO]     ✓ Arunachal Pradesh | 2021-22 | February | 9/26 indicators
+2026-03-01 10:06:06,088 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2022-0628f0d91e84d92-50998248.pdf
+2026-03-01 10:06:08,415 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Supp-2022-062b3f659cb3817-44510995.pdf
+2026-03-01 10:06:08,415 [INFO]   [Arunachal Pradesh] Done. 52 months parsed, 0 skipped
+2026-03-01 10:06:09,428 [INFO] 
+==================================================
+  Processing: Assam
+==================================================
+2026-03-01 10:06:11,194 [INFO]   [Assam] Found 52 MKI PDFs
+2026-03-01 10:06:13,521 [INFO]     ✓ Assam | 2025-26 | April | 14/26 indicators
+2026-03-01 10:06:16,030 [INFO]     ✓ Assam | 2025-26 | May | 14/26 indicators
+2026-03-01 10:06:18,410 [INFO]     ✓ Assam | 2025-26 | June | 14/26 indicators
+2026-03-01 10:06:20,702 [INFO]     ✓ Assam | 2025-26 | July | 14/26 indicators
+2026-03-01 10:06:23,369 [INFO]     ✓ Assam | 2025-26 | August | 14/26 indicators
+2026-03-01 10:06:25,732 [INFO]     ✓ Assam | 2025-26 | October | 14/26 indicators
+2026-03-01 10:06:28,398 [INFO]     ✓ Assam | 2025-26 | November | 14/26 indicators
+2026-03-01 10:06:30,878 [INFO]     ✓ Assam | 2025-26 | December | 14/26 indicators
+2026-03-01 10:06:33,128 [INFO]     ✓ Assam | 2025-26 | January | 14/26 indicators
+2026-03-01 10:06:35,293 [INFO]     ✓ Assam | 2024-25 | April | 14/26 indicators
+2026-03-01 10:06:37,405 [INFO]     ✓ Assam | 2024-25 | May | 14/26 indicators
+2026-03-01 10:06:39,546 [INFO]     ✓ Assam | 2024-25 | June | 14/26 indicators
+2026-03-01 10:06:42,012 [INFO]     ✓ Assam | 2024-25 | July | 14/26 indicators
+2026-03-01 10:06:44,436 [INFO]     ✓ Assam | 2024-25 | August | 14/26 indicators
+2026-03-01 10:06:46,938 [INFO]     ✓ Assam | 2024-25 | September | 14/26 indicators
+2026-03-01 10:06:49,293 [INFO]     ✓ Assam | 2024-25 | October | 14/26 indicators
+2026-03-01 10:06:51,621 [INFO]     ✓ Assam | 2024-25 | November | 14/26 indicators
+2026-03-01 10:06:53,725 [INFO]     ✓ Assam | 2024-25 | January | 14/26 indicators
+2026-03-01 10:06:56,238 [INFO]     ✓ Assam | 2024-25 | February | 14/26 indicators
+2026-03-01 10:06:58,710 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar25-S-0686945fa2d8847-32392506.pdf
+2026-03-01 10:07:01,040 [INFO]     ✓ Assam | 2024-25 | March | 14/26 indicators
+2026-03-01 10:07:03,180 [INFO]     ✓ Assam | 2023-24 | May | 14/26 indicators
+2026-03-01 10:07:05,421 [INFO]     ✓ Assam | 2023-24 | June | 14/26 indicators
+2026-03-01 10:07:07,683 [INFO]     ✓ Assam | 2023-24 | July | 14/26 indicators
+2026-03-01 10:07:09,843 [INFO]     ✓ Assam | 2023-24 | August | 14/26 indicators
+2026-03-01 10:07:12,319 [INFO]     ✓ Assam | 2023-24 | September | 14/26 indicators
+2026-03-01 10:07:14,731 [INFO]     ✓ Assam | 2023-24 | October | 14/26 indicators
+2026-03-01 10:07:16,935 [INFO]     ✓ Assam | 2023-24 | November | 14/26 indicators
+2026-03-01 10:07:19,399 [INFO]     ✓ Assam | 2023-24 | February | 14/26 indicators
+2026-03-01 10:07:21,602 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-S-0668300648855d2-31242298.pdf
+2026-03-01 10:07:25,133 [INFO]     ✓ Assam | 2022-23 | April | 14/26 indicators
+2026-03-01 10:07:27,619 [INFO]     ✓ Assam | 2022-23 | May | 14/26 indicators
+2026-03-01 10:07:30,229 [INFO]     ✓ Assam | 2022-23 | June | 14/26 indicators
+2026-03-01 10:07:33,131 [INFO]     ✓ Assam | 2022-23 | July | 14/26 indicators
+2026-03-01 10:07:35,301 [INFO]     ✓ Assam | 2022-23 | September | 14/26 indicators
+2026-03-01 10:07:37,537 [INFO]     ✓ Assam | 2022-23 | November | 14/26 indicators
+2026-03-01 10:07:39,810 [INFO]     ✓ Assam | 2022-23 | December | 14/26 indicators
+2026-03-01 10:07:41,970 [INFO]     ✓ Assam | 2022-23 | January | 14/26 indicators
+2026-03-01 10:07:44,103 [INFO]     ✓ Assam | 2022-23 | March | 14/26 indicators
+2026-03-01 10:07:46,436 [INFO]     ✓ Assam | 2021-22 | April | 14/26 indicators
+2026-03-01 10:07:48,541 [INFO]     ✓ Assam | 2021-22 | May | 14/26 indicators
+2026-03-01 10:07:50,668 [INFO]     ✓ Assam | 2021-22 | June | 14/26 indicators
+2026-03-01 10:07:52,695 [INFO]     ✓ Assam | 2021-22 | August | 14/26 indicators
+2026-03-01 10:07:54,766 [INFO]     ✓ Assam | 2021-22 | August | 14/26 indicators
+2026-03-01 10:07:56,828 [INFO]     ✓ Assam | 2021-22 | September | 14/26 indicators
+2026-03-01 10:07:58,928 [INFO]     ✓ Assam | 2021-22 | October | 14/26 indicators
+2026-03-01 10:08:01,139 [INFO]     ✓ Assam | 2021-22 | November | 14/26 indicators
+2026-03-01 10:08:03,281 [INFO]     ✓ Assam | 2021-22 | December | 14/26 indicators
+2026-03-01 10:08:06,004 [INFO]     ✓ Assam | 2021-22 | January | 14/26 indicators
+2026-03-01 10:08:08,296 [INFO]     ✓ Assam | 2021-22 | February | 14/26 indicators
+2026-03-01 10:08:10,805 [INFO]     ✓ Assam | 2021-22 | March | 14/26 indicators
+2026-03-01 10:08:13,337 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2022-062d2a70bc6c860-00737787.pdf
+2026-03-01 10:08:13,337 [INFO]   [Assam] Done. 49 months parsed, 0 skipped
+2026-03-01 10:08:14,344 [INFO] 
+==================================================
+  Processing: Bihar
+==================================================
+2026-03-01 10:08:15,743 [INFO]   [Bihar] Found 61 MKI PDFs
+2026-03-01 10:08:19,537 [INFO]     ✓ Bihar | 2025-26 | April | 24/26 indicators
+2026-03-01 10:08:22,527 [INFO]     ✓ Bihar | 2025-26 | May | 24/26 indicators
+2026-03-01 10:08:25,480 [INFO]     ✓ Bihar | 2025-26 | June | 24/26 indicators
+2026-03-01 10:08:28,074 [INFO]     ✓ Bihar | 2025-26 | July | 24/26 indicators
+2026-03-01 10:08:30,985 [INFO]     ✓ Bihar | 2025-26 | August | 24/26 indicators
+2026-03-01 10:08:33,578 [INFO]     ✓ Bihar | 2025-26 | September | 24/26 indicators
+2026-03-01 10:08:36,120 [INFO]     ✓ Bihar | 2025-26 | October | 24/26 indicators
+2026-03-01 10:08:39,024 [INFO]     ✓ Bihar | 2025-26 | November | 24/26 indicators
+2026-03-01 10:08:41,680 [INFO]     ✓ Bihar | 2025-26 | December | 24/26 indicators
+2026-03-01 10:08:44,807 [INFO]     ✓ Bihar | 2025-26 | January | 24/26 indicators
+2026-03-01 10:08:47,440 [INFO]     ✓ Bihar | 2024-25 | April | 24/26 indicators
+2026-03-01 10:08:50,134 [INFO]     ✓ Bihar | 2024-25 | May | 24/26 indicators
+2026-03-01 10:08:52,642 [INFO]     ✓ Bihar | 2024-25 | June | 24/26 indicators
+2026-03-01 10:08:55,238 [INFO]     ✓ Bihar | 2024-25 | July | 24/26 indicators
+2026-03-01 10:08:57,677 [INFO]     ✓ Bihar | 2024-25 | August | 24/26 indicators
+2026-03-01 10:09:00,304 [INFO]     ✓ Bihar | 2024-25 | September | 24/26 indicators
+2026-03-01 10:09:02,845 [INFO]     ✓ Bihar | 2024-25 | October | 24/26 indicators
+2026-03-01 10:09:05,391 [INFO]     ✓ Bihar | 2024-25 | November | 24/26 indicators
+2026-03-01 10:09:07,823 [INFO]     ✓ Bihar | 2024-25 | December | 24/26 indicators
+2026-03-01 10:09:10,302 [INFO]     ✓ Bihar | 2024-25 | January | 24/26 indicators
+2026-03-01 10:09:12,749 [INFO]     ✓ Bihar | 2024-25 | February | 24/26 indicators
+2026-03-01 10:09:16,687 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-S-2025-06899b8e488f4f0-35480120.pdf
+2026-03-01 10:09:19,145 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-S-2025-REVISED-068bfdaea3b79e3-75266040.pdf
+2026-03-01 10:09:21,620 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-PRE-2025-0688726a10dc423-27705236.pdf
+2026-03-01 10:09:24,458 [INFO]     ✓ Bihar | 2023-24 | April | 24/26 indicators
+2026-03-01 10:09:27,162 [INFO]     ✓ Bihar | 2023-24 | May | 24/26 indicators
+2026-03-01 10:09:29,722 [INFO]     ✓ Bihar | 2023-24 | June | 24/26 indicators
+2026-03-01 10:09:33,190 [INFO]     ✓ Bihar | 2023-24 | August | 24/26 indicators
+2026-03-01 10:09:35,694 [INFO]     ✓ Bihar | 2023-24 | September | 24/26 indicators
+2026-03-01 10:09:38,408 [INFO]     ✓ Bihar | 2023-24 | October | 24/26 indicators
+2026-03-01 10:09:41,014 [INFO]     ✓ Bihar | 2023-24 | November | 24/26 indicators
+2026-03-01 10:09:43,646 [INFO]     ✓ Bihar | 2023-24 | December | 24/26 indicators
+2026-03-01 10:09:46,228 [INFO]     ✓ Bihar | 2023-24 | January | 24/26 indicators
+2026-03-01 10:09:48,859 [INFO]     ✓ Bihar | 2023-24 | February | 24/26 indicators
+2026-03-01 10:09:51,470 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-S-2023-2024-0667ea64f5fe3c5-21811227.pdf
+2026-03-01 10:09:54,233 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-P-2024-0663b6a26d24c71-80450582.pdf
+2026-03-01 10:09:56,468 [INFO]     ✓ Bihar | 2022-23 | April | 24/26 indicators
+2026-03-01 10:09:58,713 [INFO]     ✓ Bihar | 2022-23 | May | 24/26 indicators
+2026-03-01 10:10:00,952 [INFO]     ✓ Bihar | 2022-23 | May | 24/26 indicators
+2026-03-01 10:10:03,258 [INFO]     ✓ Bihar | 2022-23 | June | 24/26 indicators
+2026-03-01 10:10:05,655 [INFO]     ✓ Bihar | 2022-23 | July | 24/26 indicators
+2026-03-01 10:10:07,968 [INFO]     ✓ Bihar | 2022-23 | August | 24/26 indicators
+2026-03-01 10:10:10,332 [INFO]     ✓ Bihar | 2022-23 | September | 24/26 indicators
+2026-03-01 10:10:12,610 [INFO]     ✓ Bihar | 2022-23 | October | 24/26 indicators
+2026-03-01 10:10:14,895 [INFO]     ✓ Bihar | 2022-23 | November | 24/26 indicators
+2026-03-01 10:10:17,109 [INFO]     ✓ Bihar | 2022-23 | December | 24/26 indicators
+2026-03-01 10:10:19,386 [INFO]     ✓ Bihar | 2022-23 | January | 24/26 indicators
+2026-03-01 10:10:21,928 [INFO]     ✓ Bihar | 2022-23 | February | 24/26 indicators
+2026-03-01 10:10:25,542 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-S-2023-064a7a1971242d4-23365573.pdf
+2026-03-01 10:10:28,443 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-P-2023-06475e2bfc8bc63-35719295.pdf
+2026-03-01 10:10:30,717 [INFO]     ✓ Bihar | 2021-22 | April | 24/26 indicators
+2026-03-01 10:10:32,950 [INFO]     ✓ Bihar | 2021-22 | June | 24/26 indicators
+2026-03-01 10:10:35,227 [INFO]     ✓ Bihar | 2021-22 | August | 24/26 indicators
+2026-03-01 10:10:37,507 [INFO]     ✓ Bihar | 2021-22 | September | 24/26 indicators
+2026-03-01 10:10:39,991 [INFO]     ✓ Bihar | 2021-22 | October | 24/26 indicators
+2026-03-01 10:10:42,414 [INFO]     ✓ Bihar | 2021-22 | November | 24/26 indicators
+2026-03-01 10:10:44,652 [INFO]     ✓ Bihar | 2021-22 | December | 24/26 indicators
+2026-03-01 10:10:46,905 [INFO]     ✓ Bihar | 2021-22 | January | 24/26 indicators
+2026-03-01 10:10:49,343 [INFO]     ✓ Bihar | 2021-22 | February | 24/26 indicators
+2026-03-01 10:10:51,706 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2022-062bc04ce68c5f8-58675953.pdf
+2026-03-01 10:10:54,264 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2022-0628786c1b22360-09135762.pdf
+2026-03-01 10:10:54,264 [INFO]   [Bihar] Done. 52 months parsed, 0 skipped
+2026-03-01 10:10:55,272 [INFO] 
+==================================================
+  Processing: Chhattisgarh
+==================================================
+2026-03-01 10:10:56,904 [INFO]   [Chhattisgarh] Found 60 MKI PDFs
+2026-03-01 10:10:59,360 [INFO]     ✓ Chhattisgarh | 2025-26 | April | 25/26 indicators
+2026-03-01 10:11:01,929 [INFO]     ✓ Chhattisgarh | 2025-26 | May | 25/26 indicators
+2026-03-01 10:11:04,478 [INFO]     ✓ Chhattisgarh | 2025-26 | June | 25/26 indicators
+2026-03-01 10:11:06,937 [INFO]     ✓ Chhattisgarh | 2025-26 | July | 25/26 indicators
+2026-03-01 10:11:09,407 [INFO]     ✓ Chhattisgarh | 2025-26 | August | 25/26 indicators
+2026-03-01 10:11:11,915 [INFO]     ✓ Chhattisgarh | 2025-26 | September | 25/26 indicators
+2026-03-01 10:11:14,512 [INFO]     ✓ Chhattisgarh | 2025-26 | October | 25/26 indicators
+2026-03-01 10:11:17,059 [INFO]     ✓ Chhattisgarh | 2025-26 | November | 25/26 indicators
+2026-03-01 10:11:20,010 [INFO]     ✓ Chhattisgarh | 2025-26 | December | 25/26 indicators
+2026-03-01 10:11:22,500 [INFO]     ✓ Chhattisgarh | 2025-26 | January | 26/26 indicators
+2026-03-01 10:11:24,863 [INFO]     ✓ Chhattisgarh | 2024-25 | April | 25/26 indicators
+2026-03-01 10:11:27,495 [INFO]     ✓ Chhattisgarh | 2024-25 | May | 25/26 indicators
+2026-03-01 10:11:29,963 [INFO]     ✓ Chhattisgarh | 2024-25 | June | 25/26 indicators
+2026-03-01 10:11:32,577 [INFO]     ✓ Chhattisgarh | 2024-25 | July | 25/26 indicators
+2026-03-01 10:11:35,024 [INFO]     ✓ Chhattisgarh | 2024-25 | August | 25/26 indicators
+2026-03-01 10:11:37,456 [INFO]     ✓ Chhattisgarh | 2024-25 | September | 25/26 indicators
+2026-03-01 10:11:40,671 [INFO]     ✓ Chhattisgarh | 2024-25 | October | 25/26 indicators
+2026-03-01 10:11:43,708 [INFO]     ✓ Chhattisgarh | 2024-25 | November | 25/26 indicators
+2026-03-01 10:11:46,471 [INFO]     ✓ Chhattisgarh | 2024-25 | December | 25/26 indicators
+2026-03-01 10:11:49,093 [INFO]     ✓ Chhattisgarh | 2024-25 | January | 25/26 indicators
+2026-03-01 10:11:51,643 [INFO]     ✓ Chhattisgarh | 2024-25 | February | 25/26 indicators
+2026-03-01 10:11:54,318 [INFO]     ✓ Chhattisgarh | 2024-25 | March | 25/26 indicators
+2026-03-01 10:11:57,022 [INFO]     ✓ Chhattisgarh | 2024-25 | March | 25/26 indicators
+2026-03-01 10:12:00,502 [INFO]     ✓ Chhattisgarh | 2023-24 | April | 24/26 indicators
+2026-03-01 10:12:03,263 [INFO]     ✓ Chhattisgarh | 2023-24 | May | 24/26 indicators
+2026-03-01 10:12:05,981 [INFO]     ✓ Chhattisgarh | 2023-24 | June | 24/26 indicators
+2026-03-01 10:12:08,559 [INFO]     ✓ Chhattisgarh | 2023-24 | July | 24/26 indicators
+2026-03-01 10:12:11,920 [INFO]     ✓ Chhattisgarh | 2023-24 | August | 25/26 indicators
+2026-03-01 10:12:14,443 [INFO]     ✓ Chhattisgarh | 2023-24 | September | 25/26 indicators
+2026-03-01 10:12:16,965 [INFO]     ✓ Chhattisgarh | 2023-24 | October | 24/26 indicators
+2026-03-01 10:12:19,436 [INFO]     ✓ Chhattisgarh | 2023-24 | November | 25/26 indicators
+2026-03-01 10:12:22,106 [INFO]     ✓ Chhattisgarh | 2023-24 | December | 25/26 indicators
+2026-03-01 10:12:24,636 [INFO]     ✓ Chhattisgarh | 2023-24 | January | 25/26 indicators
+2026-03-01 10:12:27,390 [INFO]     ✓ Chhattisgarh | 2023-24 | February | 25/26 indicators
+2026-03-01 10:12:29,891 [INFO]     ✓ Chhattisgarh | 2023-24 | March | 25/26 indicators
+2026-03-01 10:12:32,312 [INFO]     ✓ Chhattisgarh | 2023-24 | March | 25/26 indicators
+2026-03-01 10:12:34,977 [INFO]     ✓ Chhattisgarh | 2022-23 | May | 23/26 indicators
+2026-03-01 10:12:37,491 [INFO]     ✓ Chhattisgarh | 2022-23 | June | 24/26 indicators
+2026-03-01 10:12:39,934 [INFO]     ✓ Chhattisgarh | 2022-23 | July | 23/26 indicators
+2026-03-01 10:12:42,657 [INFO]     ✓ Chhattisgarh | 2022-23 | August | 24/26 indicators
+2026-03-01 10:12:46,784 [INFO]     ✓ Chhattisgarh | 2022-23 | September | 24/26 indicators
+2026-03-01 10:12:49,175 [INFO]     ✓ Chhattisgarh | 2022-23 | October | 24/26 indicators
+2026-03-01 10:12:51,515 [INFO]     ✓ Chhattisgarh | 2022-23 | November | 24/26 indicators
+2026-03-01 10:12:54,226 [INFO]     ✓ Chhattisgarh | 2022-23 | December | 24/26 indicators
+2026-03-01 10:12:56,566 [INFO]     ✓ Chhattisgarh | 2022-23 | January | 24/26 indicators
+2026-03-01 10:12:58,894 [INFO]     ✓ Chhattisgarh | 2022-23 | February | 24/26 indicators
+2026-03-01 10:13:01,231 [INFO]     ✓ Chhattisgarh | 2022-23 | March | 24/26 indicators
+2026-03-01 10:13:03,627 [INFO]     ✓ Chhattisgarh | 2022-23 | March | 24/26 indicators
+2026-03-01 10:13:06,033 [INFO]     ✓ Chhattisgarh | 2022-23 | March | 24/26 indicators
+2026-03-01 10:13:08,462 [INFO]     ✓ Chhattisgarh | 2021-22 | April | 21/26 indicators
+2026-03-01 10:13:11,030 [INFO]     ✓ Chhattisgarh | 2021-22 | May | 21/26 indicators
+2026-03-01 10:13:13,828 [INFO]     ✓ Chhattisgarh | 2021-22 | June | 21/26 indicators
+2026-03-01 10:13:16,391 [INFO]     ✓ Chhattisgarh | 2021-22 | July | 21/26 indicators
+2026-03-01 10:13:19,053 [INFO]     ✓ Chhattisgarh | 2021-22 | August | 23/26 indicators
+2026-03-01 10:13:21,803 [INFO]     ✓ Chhattisgarh | 2021-22 | September | 23/26 indicators
+2026-03-01 10:13:24,597 [INFO]     ✓ Chhattisgarh | 2021-22 | October | 23/26 indicators
+2026-03-01 10:13:27,151 [INFO]     ✓ Chhattisgarh | 2021-22 | November | 23/26 indicators
+2026-03-01 10:13:30,406 [INFO]     ✓ Chhattisgarh | 2021-22 | December | 23/26 indicators
+2026-03-01 10:13:33,396 [INFO]     ✓ Chhattisgarh | 2021-22 | January | 21/26 indicators
+2026-03-01 10:13:36,047 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-13-2022-062c7ef712e4cf8-43476535.pdf
+2026-03-01 10:13:36,047 [INFO]   [Chhattisgarh] Done. 59 months parsed, 0 skipped
+2026-03-01 10:13:37,062 [INFO] ⏭  Delhi: no monthly CAG data — skipping
+2026-03-01 10:13:37,062 [INFO] ⏭  Goa: no monthly CAG data — skipping
+2026-03-01 10:13:37,062 [INFO] 
+==================================================
+  Processing: Gujarat
+==================================================
+2026-03-01 10:13:38,156 [INFO]   [Gujarat] Found 61 MKI PDFs
+2026-03-01 10:13:40,581 [INFO]     ✓ Gujarat | 2025-26 | April | 15/26 indicators
+2026-03-01 10:13:43,011 [INFO]     ✓ Gujarat | 2025-26 | May | 15/26 indicators
+2026-03-01 10:13:45,912 [INFO]     ✓ Gujarat | 2025-26 | June | 15/26 indicators
+2026-03-01 10:13:48,284 [INFO]     ✓ Gujarat | 2025-26 | July | 15/26 indicators
+2026-03-01 10:13:50,960 [INFO]     ✓ Gujarat | 2025-26 | August | 15/26 indicators
+2026-03-01 10:13:53,388 [INFO]     ✓ Gujarat | 2025-26 | September | 15/26 indicators
+2026-03-01 10:13:55,866 [INFO]     ✓ Gujarat | 2025-26 | October | 15/26 indicators
+2026-03-01 10:13:58,510 [INFO]     ✓ Gujarat | 2025-26 | November | 15/26 indicators
+2026-03-01 10:14:01,224 [INFO]     ✓ Gujarat | 2025-26 | December | 15/26 indicators
+2026-03-01 10:14:03,652 [INFO]     ✓ Gujarat | 2025-26 | January | 15/26 indicators
+2026-03-01 10:14:07,401 [INFO]     ✓ Gujarat | 2024-25 | April | 12/26 indicators
+2026-03-01 10:14:11,818 [INFO]     ✓ Gujarat | 2024-25 | May | 15/26 indicators
+2026-03-01 10:14:14,261 [INFO]     ✓ Gujarat | 2024-25 | June | 15/26 indicators
+2026-03-01 10:14:17,226 [INFO]     ✓ Gujarat | 2024-25 | July | 15/26 indicators
+2026-03-01 10:14:20,379 [INFO]     ✓ Gujarat | 2024-25 | August | 15/26 indicators
+2026-03-01 10:14:22,683 [INFO]     ✓ Gujarat | 2024-25 | September | 15/26 indicators
+2026-03-01 10:14:25,073 [INFO]     ✓ Gujarat | 2024-25 | October | 15/26 indicators
+2026-03-01 10:14:27,732 [INFO]     ✓ Gujarat | 2024-25 | November | 15/26 indicators
+2026-03-01 10:14:30,125 [INFO]     ✓ Gujarat | 2024-25 | December | 15/26 indicators
+2026-03-01 10:14:33,204 [INFO]     ✓ Gujarat | 2024-25 | January | 15/26 indicators
+2026-03-01 10:14:35,869 [INFO]     ✓ Gujarat | 2024-25 | February | 15/26 indicators
+2026-03-01 10:14:38,138 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2025-with-Loan-Data-068650f60251bc4-71901899.pdf
+2026-03-01 10:14:41,154 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-with-Loan-Data-March-P-2025-1-06826e98c1701d2-77083021.pdf
+2026-03-01 10:14:43,478 [INFO]     ✓ Gujarat | 2023-24 | April | 15/26 indicators
+2026-03-01 10:14:45,815 [INFO]     ✓ Gujarat | 2023-24 | May | 15/26 indicators
+2026-03-01 10:14:48,273 [INFO]     ✓ Gujarat | 2023-24 | June | 15/26 indicators
+2026-03-01 10:14:50,366 [INFO]     ✓ Gujarat | 2023-24 | July | 15/26 indicators
+2026-03-01 10:14:52,930 [INFO]     ✓ Gujarat | 2023-24 | August | 15/26 indicators
+2026-03-01 10:14:55,502 [INFO]     ✓ Gujarat | 2023-24 | September | 15/26 indicators
+2026-03-01 10:14:58,054 [INFO]     ✓ Gujarat | 2023-24 | October | 15/26 indicators
+2026-03-01 10:15:00,687 [INFO]     ✓ Gujarat | 2023-24 | November | 15/26 indicators
+2026-03-01 10:15:03,005 [INFO]     ✓ Gujarat | 2023-24 | December | 15/26 indicators
+2026-03-01 10:15:05,666 [INFO]     ✓ Gujarat | 2023-24 | January | 15/26 indicators
+2026-03-01 10:15:08,233 [INFO]     ✓ Gujarat | 2023-24 | February | 15/26 indicators
+2026-03-01 10:15:12,378 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2024-with-loan-data-066877da10ec097-73735930.pdf
+2026-03-01 10:15:14,710 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2024-with-loan-data-06644a9fb54a994-50091150.pdf
+2026-03-01 10:15:16,872 [INFO]     ✓ Gujarat | 2022-23 | April | 15/26 indicators
+2026-03-01 10:15:18,986 [INFO]     ✓ Gujarat | 2022-23 | May | 15/26 indicators
+2026-03-01 10:15:21,195 [INFO]     ✓ Gujarat | 2022-23 | June | 15/26 indicators
+2026-03-01 10:15:23,316 [INFO]     ✓ Gujarat | 2022-23 | July | 15/26 indicators
+2026-03-01 10:15:25,560 [INFO]     ✓ Gujarat | 2022-23 | August | 15/26 indicators
+2026-03-01 10:15:27,878 [INFO]     ✓ Gujarat | 2022-23 | September | 15/26 indicators
+2026-03-01 10:15:30,322 [INFO]     ✓ Gujarat | 2022-23 | October | 15/26 indicators
+2026-03-01 10:15:32,749 [INFO]     ✓ Gujarat | 2022-23 | November | 15/26 indicators
+2026-03-01 10:15:34,879 [INFO]     ✓ Gujarat | 2022-23 | December | 15/26 indicators
+2026-03-01 10:15:37,406 [INFO]     ✓ Gujarat | 2022-23 | January | 15/26 indicators
+2026-03-01 10:15:39,529 [INFO]     ✓ Gujarat | 2022-23 | February | 15/26 indicators
+2026-03-01 10:15:41,745 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2023-064ae906f139d97-19115670.pdf
+2026-03-01 10:15:44,071 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2023-064636392561174-78602871.pdf
+2026-03-01 10:15:46,126 [INFO]     ✓ Gujarat | 2021-22 | April | 15/26 indicators
+2026-03-01 10:15:48,259 [INFO]     ✓ Gujarat | 2021-22 | May | 15/26 indicators
+2026-03-01 10:15:50,359 [INFO]     ✓ Gujarat | 2021-22 | June | 15/26 indicators
+2026-03-01 10:15:52,487 [INFO]     ✓ Gujarat | 2021-22 | July | 15/26 indicators
+2026-03-01 10:15:54,596 [INFO]     ✓ Gujarat | 2021-22 | August | 15/26 indicators
+2026-03-01 10:15:56,722 [INFO]     ✓ Gujarat | 2021-22 | September | 15/26 indicators
+2026-03-01 10:15:58,972 [INFO]     ✓ Gujarat | 2021-22 | October | 15/26 indicators
+2026-03-01 10:16:01,102 [INFO]     ✓ Gujarat | 2021-22 | November | 15/26 indicators
+2026-03-01 10:16:03,360 [INFO]     ✓ Gujarat | 2021-22 | December | 15/26 indicators
+2026-03-01 10:16:05,785 [INFO]     ✓ Gujarat | 2021-22 | January | 15/26 indicators
+2026-03-01 10:16:08,064 [INFO]     ✓ Gujarat | 2021-22 | February | 15/26 indicators
+2026-03-01 10:16:10,272 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2022-0627ceda0461025-20733660.pdf
+2026-03-01 10:16:10,272 [INFO]   [Gujarat] Done. 54 months parsed, 0 skipped
+2026-03-01 10:16:11,288 [INFO] 
+==================================================
+  Processing: Haryana
+==================================================
+2026-03-01 10:16:12,666 [INFO]   [Haryana] Found 61 MKI PDFs
+2026-03-01 10:16:14,975 [INFO]     ✓ Haryana | 2025-26 | April | 15/26 indicators
+2026-03-01 10:16:17,318 [INFO]     ✓ Haryana | 2025-26 | May | 14/26 indicators
+2026-03-01 10:16:19,538 [INFO]     ✓ Haryana | 2025-26 | June | 14/26 indicators
+2026-03-01 10:16:21,995 [INFO]     ✓ Haryana | 2025-26 | July | 14/26 indicators
+2026-03-01 10:16:24,186 [INFO]     ✓ Haryana | 2025-26 | August | 14/26 indicators
+2026-03-01 10:16:26,514 [INFO]     ✓ Haryana | 2025-26 | September | 15/26 indicators
+2026-03-01 10:16:28,789 [INFO]     ✓ Haryana | 2025-26 | October | 15/26 indicators
+2026-03-01 10:16:31,589 [INFO]     ✓ Haryana | 2025-26 | November | 15/26 indicators
+2026-03-01 10:16:33,904 [INFO]     ✓ Haryana | 2025-26 | December | 15/26 indicators
+2026-03-01 10:16:36,318 [INFO]     ✓ Haryana | 2025-26 | Jan | 16/26 indicators
+2026-03-01 10:16:38,645 [INFO]     ✓ Haryana | 2024-25 | April | 15/26 indicators
+2026-03-01 10:16:41,137 [INFO]     ✓ Haryana | 2024-25 | May | 14/26 indicators
+2026-03-01 10:16:43,591 [INFO]     ✓ Haryana | 2024-25 | June | 13/26 indicators
+2026-03-01 10:16:46,814 [INFO]     ✓ Haryana | 2024-25 | July | 13/26 indicators
+2026-03-01 10:16:49,253 [INFO]     ✓ Haryana | 2024-25 | August | 14/26 indicators
+2026-03-01 10:16:51,868 [INFO]     ✓ Haryana | 2024-25 | September | 14/26 indicators
+2026-03-01 10:16:54,380 [INFO]     ✓ Haryana | 2024-25 | October | 15/26 indicators
+2026-03-01 10:16:57,212 [INFO]     ✓ Haryana | 2024-25 | November | 11/26 indicators
+2026-03-01 10:16:59,736 [INFO]     ✓ Haryana | 2024-25 | December | 15/26 indicators
+2026-03-01 10:17:01,954 [INFO]     ✓ Haryana | 2024-25 | January | 15/26 indicators
+2026-03-01 10:17:04,414 [INFO]     ✓ Haryana | 2024-25 | February | 15/26 indicators
+2026-03-01 10:17:07,240 [INFO]     ✓ Haryana | 2024-25 | March | 15/26 indicators
+2026-03-01 10:17:09,476 [INFO]     ✓ Haryana | 2024-25 | March | 14/26 indicators
+2026-03-01 10:17:11,655 [INFO]     ✓ Haryana | 2023-24 | April | 15/26 indicators
+2026-03-01 10:17:13,814 [INFO]     ✓ Haryana | 2023-24 | May | 15/26 indicators
+2026-03-01 10:17:16,350 [INFO]     ✓ Haryana | 2023-24 | June | 15/26 indicators
+2026-03-01 10:17:18,744 [INFO]     ✓ Haryana | 2023-24 | July | 15/26 indicators
+2026-03-01 10:17:21,130 [INFO]     ✓ Haryana | 2023-24 | August | 15/26 indicators
+2026-03-01 10:17:23,357 [INFO]     ✓ Haryana | 2023-24 | September | 15/26 indicators
+2026-03-01 10:17:25,863 [INFO]     ✓ Haryana | 2023-24 | October | 15/26 indicators
+2026-03-01 10:17:28,235 [INFO]     ✓ Haryana | 2023-24 | November | 15/26 indicators
+2026-03-01 10:17:30,533 [INFO]     ✓ Haryana | 2023-24 | December | 15/26 indicators
+2026-03-01 10:17:32,912 [INFO]     ✓ Haryana | 2023-24 | January | 14/26 indicators
+2026-03-01 10:17:35,459 [INFO]     ✓ Haryana | 2023-24 | March | 13/26 indicators
+2026-03-01 10:17:37,952 [INFO]     ✓ Haryana | 2023-24 | March | 14/26 indicators
+2026-03-01 10:17:40,181 [INFO]     ✓ Haryana | 2022-23 | April | 15/26 indicators
+2026-03-01 10:17:42,587 [INFO]     ✓ Haryana | 2022-23 | May | 15/26 indicators
+2026-03-01 10:17:44,944 [INFO]     ✓ Haryana | 2022-23 | June | 15/26 indicators
+2026-03-01 10:17:47,501 [INFO]     ✓ Haryana | 2022-23 | July | 15/26 indicators
+2026-03-01 10:17:49,785 [INFO]     ✓ Haryana | 2022-23 | August | 15/26 indicators
+2026-03-01 10:17:52,052 [INFO]     ✓ Haryana | 2022-23 | September | 15/26 indicators
+2026-03-01 10:17:54,440 [INFO]     ✓ Haryana | 2022-23 | October | 15/26 indicators
+2026-03-01 10:17:56,806 [INFO]     ✓ Haryana | 2022-23 | November | 15/26 indicators
+2026-03-01 10:17:59,052 [INFO]     ✓ Haryana | 2022-23 | December | 15/26 indicators
+2026-03-01 10:18:01,434 [INFO]     ✓ Haryana | 2022-23 | January | 15/26 indicators
+2026-03-01 10:18:03,842 [INFO]     ✓ Haryana | 2022-23 | February | 15/26 indicators
+2026-03-01 10:18:06,293 [INFO]     ✓ Haryana | 2022-23 | March | 15/26 indicators
+2026-03-01 10:18:08,644 [INFO]     ✓ Haryana | 2022-23 | March | 15/26 indicators
+2026-03-01 10:18:10,844 [INFO]     ✓ Haryana | 2021-22 | April | 15/26 indicators
+2026-03-01 10:18:13,078 [INFO]     ✓ Haryana | 2021-22 | May | 15/26 indicators
+2026-03-01 10:18:15,547 [INFO]     ✓ Haryana | 2021-22 | June | 15/26 indicators
+2026-03-01 10:18:17,977 [INFO]     ✓ Haryana | 2021-22 | July | 15/26 indicators
+2026-03-01 10:18:20,339 [INFO]     ✓ Haryana | 2021-22 | August | 15/26 indicators
+2026-03-01 10:18:22,682 [INFO]     ✓ Haryana | 2021-22 | September | 15/26 indicators
+2026-03-01 10:18:25,103 [INFO]     ✓ Haryana | 2021-22 | October | 15/26 indicators
+2026-03-01 10:18:27,392 [INFO]     ✓ Haryana | 2021-22 | November | 15/26 indicators
+2026-03-01 10:18:29,857 [INFO]     ✓ Haryana | 2021-22 | December | 15/26 indicators
+2026-03-01 10:18:32,033 [INFO]     ✓ Haryana | 2021-22 | January | 15/26 indicators
+2026-03-01 10:18:34,583 [INFO]     ✓ Haryana | 2021-22 | February | 15/26 indicators
+2026-03-01 10:18:37,034 [INFO]     ✓ Haryana | 2021-22 | March | 15/26 indicators
+2026-03-01 10:18:39,396 [INFO]     ✓ Haryana | 2021-22 | March | 15/26 indicators
+2026-03-01 10:18:39,396 [INFO]   [Haryana] Done. 61 months parsed, 0 skipped
+2026-03-01 10:18:40,404 [INFO] 
+==================================================
+  Processing: Himachal Pradesh
+==================================================
+2026-03-01 10:18:42,398 [INFO]   [Himachal Pradesh] Found 29 MKI PDFs
+2026-03-01 10:18:44,829 [INFO]     ✓ Himachal Pradesh | 2025-26 | August | 14/26 indicators
+2026-03-01 10:18:47,135 [INFO]     ✓ Himachal Pradesh | 2025-26 | October | 14/26 indicators
+2026-03-01 10:18:49,354 [INFO]     ✓ Himachal Pradesh | 2025-26 | November | 14/26 indicators
+2026-03-01 10:18:51,956 [INFO]     ✓ Himachal Pradesh | 2025-26 | December | 14/26 indicators
+2026-03-01 10:18:54,872 [INFO]     ✓ Himachal Pradesh | 2025-26 | January | 14/26 indicators
+2026-03-01 10:18:57,154 [INFO]     ✓ Himachal Pradesh | 2024-25 | May | 0/26 indicators
+2026-03-01 10:18:59,721 [INFO]     ✓ Himachal Pradesh | 2024-25 | July | 15/26 indicators
+2026-03-01 10:19:02,310 [INFO]     ✓ Himachal Pradesh | 2024-25 | August | 15/26 indicators
+2026-03-01 10:19:04,854 [INFO]     ✓ Himachal Pradesh | 2024-25 | September | 15/26 indicators
+2026-03-01 10:19:07,346 [INFO]     ✓ Himachal Pradesh | 2024-25 | October | 15/26 indicators
+2026-03-01 10:19:09,840 [INFO]     ✓ Himachal Pradesh | 2024-25 | November | 15/26 indicators
+2026-03-01 10:19:12,354 [INFO]     ✓ Himachal Pradesh | 2024-25 | December | 15/26 indicators
+2026-03-01 10:19:14,894 [INFO]     ✓ Himachal Pradesh | 2024-25 | January | 15/26 indicators
+2026-03-01 10:19:17,287 [INFO]     ✓ Himachal Pradesh | 2024-25 | February | 15/26 indicators
+2026-03-01 10:19:19,729 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-English-1-06899782f4ef0c0-92741743.pdf
+2026-03-01 10:19:22,252 [INFO]     ✓ Himachal Pradesh | 2023-24 | September | 15/26 indicators
+2026-03-01 10:19:24,760 [INFO]     ✓ Himachal Pradesh | 2023-24 | October | 15/26 indicators
+2026-03-01 10:19:27,190 [INFO]     ✓ Himachal Pradesh | 2023-24 | November | 15/26 indicators
+2026-03-01 10:19:29,672 [INFO]     ✓ Himachal Pradesh | 2023-24 | December | 14/26 indicators
+2026-03-01 10:19:32,228 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-eng-03-2024-final-066828ba29f1705-93177031.pdf
+2026-03-01 10:19:34,770 [INFO]     ✓ Himachal Pradesh | 2022-23 | April | 16/26 indicators
+2026-03-01 10:19:37,294 [INFO]     ✓ Himachal Pradesh | 2022-23 | May | 16/26 indicators
+2026-03-01 10:19:40,125 [INFO]     ✓ Himachal Pradesh | 2022-23 | June | 15/26 indicators
+2026-03-01 10:19:42,705 [INFO]     ✓ Himachal Pradesh | 2022-23 | July | 15/26 indicators
+2026-03-01 10:19:45,243 [INFO]     ✓ Himachal Pradesh | 2022-23 | August | 15/26 indicators
+2026-03-01 10:19:47,688 [INFO]     ✓ Himachal Pradesh | 2022-23 | September | 15/26 indicators
+2026-03-01 10:19:50,345 [INFO]     ✓ Himachal Pradesh | 2021-22 | December | 16/26 indicators
+2026-03-01 10:19:52,907 [INFO]     ✓ Himachal Pradesh | 2021-22 | January | 16/26 indicators
+2026-03-01 10:19:55,705 [INFO]     ✓ Himachal Pradesh | 2021-22 | March | 16/26 indicators
+2026-03-01 10:19:55,706 [INFO]   [Himachal Pradesh] Done. 27 months parsed, 0 skipped
+2026-03-01 10:19:56,711 [INFO] 
+==================================================
+  Processing: Jharkhand
+==================================================
+2026-03-01 10:19:58,192 [INFO]   [Jharkhand] Found 24 MKI PDFs
+2026-03-01 10:20:01,122 [INFO]     ✓ Jharkhand | 2025-26 | April | 21/26 indicators
+2026-03-01 10:20:04,003 [INFO]     ✓ Jharkhand | 2025-26 | May | 21/26 indicators
+2026-03-01 10:20:06,736 [INFO]     ✓ Jharkhand | 2025-26 | June | 21/26 indicators
+2026-03-01 10:20:09,425 [INFO]     ✓ Jharkhand | 2025-26 | July | 21/26 indicators
+2026-03-01 10:20:12,299 [INFO]     ✓ Jharkhand | 2025-26 | August | 23/26 indicators
+2026-03-01 10:20:15,205 [INFO]     ✓ Jharkhand | 2025-26 | September | 23/26 indicators
+2026-03-01 10:20:17,850 [INFO]     ✓ Jharkhand | 2025-26 | October | 21/26 indicators
+2026-03-01 10:20:20,457 [INFO]     ✓ Jharkhand | 2025-26 | November | 22/26 indicators
+2026-03-01 10:20:22,949 [INFO]     ✓ Jharkhand | 2025-26 | December | 21/26 indicators
+2026-03-01 10:20:26,374 [INFO]     ✓ Jharkhand | 2025-26 | January | 21/26 indicators
+2026-03-01 10:20:29,551 [INFO]     ✓ Jharkhand | 2024-25 | May | 23/26 indicators
+2026-03-01 10:20:32,483 [INFO]     ✓ Jharkhand | 2024-25 | June | 23/26 indicators
+2026-03-01 10:20:34,796 [INFO]     ✓ Jharkhand | 2024-25 | June | 23/26 indicators
+2026-03-01 10:20:37,297 [INFO]     ✓ Jharkhand | 2024-25 | August | 23/26 indicators
+2026-03-01 10:20:40,296 [INFO]     ✓ Jharkhand | 2024-25 | September | 23/26 indicators
+2026-03-01 10:20:43,405 [INFO]     ✓ Jharkhand | 2024-25 | October | 23/26 indicators
+2026-03-01 10:20:45,972 [INFO]     ✓ Jharkhand | 2024-25 | November | 23/26 indicators
+2026-03-01 10:20:48,528 [INFO]     ✓ Jharkhand | 2024-25 | December | 23/26 indicators
+2026-03-01 10:20:51,305 [INFO]     ✓ Jharkhand | 2024-25 | January | 22/26 indicators
+2026-03-01 10:20:54,128 [INFO]     ✓ Jharkhand | 2024-25 | February | 21/26 indicators
+2026-03-01 10:20:56,880 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-2025-0686d17a3598248-62154768.pdf
+2026-03-01 10:21:01,079 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2025-0682c878724e0b7-14752564.pdf
+2026-03-01 10:21:04,951 [INFO]     ✓ Jharkhand | 2023-24 | January | 23/26 indicators
+2026-03-01 10:21:07,563 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-sy-2024-06684ffe4dcd736-73833133.pdf
+2026-03-01 10:21:07,563 [INFO]   [Jharkhand] Done. 21 months parsed, 0 skipped
+2026-03-01 10:21:08,568 [INFO] 
+==================================================
+  Processing: Karnataka
+==================================================
+2026-03-01 10:21:09,782 [INFO]   [Karnataka] Found 53 MKI PDFs
+2026-03-01 10:21:12,266 [INFO]     ✓ Karnataka | 2025-26 | April | 9/26 indicators
+2026-03-01 10:21:14,750 [INFO]     ✓ Karnataka | 2025-26 | May | 9/26 indicators
+2026-03-01 10:21:17,358 [INFO]     ✓ Karnataka | 2024-25 | April | 14/26 indicators
+2026-03-01 10:21:19,755 [INFO]     ✓ Karnataka | 2024-25 | May | 12/26 indicators
+2026-03-01 10:21:22,374 [INFO]     ✓ Karnataka | 2024-25 | June | 13/26 indicators
+2026-03-01 10:21:24,803 [INFO]     ✓ Karnataka | 2024-25 | July | 12/26 indicators
+2026-03-01 10:21:27,273 [INFO]     ✓ Karnataka | 2024-25 | August | 12/26 indicators
+2026-03-01 10:21:29,836 [INFO]     ✓ Karnataka | 2024-25 | September | 12/26 indicators
+2026-03-01 10:21:32,341 [INFO]     ✓ Karnataka | 2024-25 | October | 10/26 indicators
+2026-03-01 10:21:34,597 [INFO]     ✓ Karnataka | 2024-25 | November | 9/26 indicators
+2026-03-01 10:21:37,011 [INFO]     ✓ Karnataka | 2024-25 | December | 12/26 indicators
+2026-03-01 10:21:39,404 [INFO]     ✓ Karnataka | 2024-25 | January | 9/26 indicators
+2026-03-01 10:21:41,741 [INFO]     ✓ Karnataka | 2024-25 | February | 9/26 indicators
+2026-03-01 10:21:44,062 [INFO]     ✓ Karnataka | 2024-25 | Mar | 9/26 indicators
+2026-03-01 10:21:46,527 [INFO]     ✓ Karnataka | 2023-24 | April | 8/26 indicators
+2026-03-01 10:21:48,968 [INFO]     ✓ Karnataka | 2023-24 | May | 9/26 indicators
+2026-03-01 10:21:51,711 [INFO]     ✓ Karnataka | 2023-24 | June | 9/26 indicators
+2026-03-01 10:21:53,995 [INFO]     ✓ Karnataka | 2023-24 | July | 12/26 indicators
+2026-03-01 10:21:56,527 [INFO]     ✓ Karnataka | 2023-24 | August | 8/26 indicators
+2026-03-01 10:21:58,827 [INFO]     ✓ Karnataka | 2023-24 | September | 11/26 indicators
+2026-03-01 10:22:02,213 [INFO]     ✓ Karnataka | 2023-24 | October | 11/26 indicators
+2026-03-01 10:22:05,158 [INFO]     ✓ Karnataka | 2023-24 | November | 12/26 indicators
+2026-03-01 10:22:07,655 [INFO]     ✓ Karnataka | 2023-24 | December | 10/26 indicators
+2026-03-01 10:22:10,242 [INFO]     ✓ Karnataka | 2023-24 | Jan | 12/26 indicators
+2026-03-01 10:22:12,758 [INFO]     ✓ Karnataka | 2023-24 | Feb | 13/26 indicators
+2026-03-01 10:22:15,342 [INFO]     ✓ Karnataka | 2023-24 | March | 12/26 indicators
+2026-03-01 10:22:17,757 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-P-2024-0663483afcc4118-75610838.pdf
+2026-03-01 10:22:20,071 [INFO]     ✓ Karnataka | 2022-23 | April | 8/26 indicators
+2026-03-01 10:22:22,951 [INFO]     ✓ Karnataka | 2022-23 | May | 8/26 indicators
+2026-03-01 10:22:25,659 [INFO]     ✓ Karnataka | 2022-23 | June | 11/26 indicators
+2026-03-01 10:22:28,052 [INFO]     ✓ Karnataka | 2022-23 | July | 11/26 indicators
+2026-03-01 10:22:31,773 [INFO]     ✓ Karnataka | 2022-23 | August | 8/26 indicators
+2026-03-01 10:22:34,180 [INFO]     ✓ Karnataka | 2022-23 | September | 8/26 indicators
+2026-03-01 10:22:36,726 [INFO]     ✓ Karnataka | 2022-23 | October | 8/26 indicators
+2026-03-01 10:22:39,162 [INFO]     ✓ Karnataka | 2022-23 | November | 11/26 indicators
+2026-03-01 10:22:41,696 [INFO]     ✓ Karnataka | 2022-23 | December | 11/26 indicators
+2026-03-01 10:22:44,123 [INFO]     ✓ Karnataka | 2022-23 | January | 8/26 indicators
+2026-03-01 10:22:46,653 [INFO]     ✓ Karnataka | 2022-23 | February | 11/26 indicators
+2026-03-01 10:22:49,112 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2023-064a6a593716835-73482610.pdf
+2026-03-01 10:22:51,774 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-P-2023-0644e34789de578-91400038.pdf
+2026-03-01 10:22:54,527 [INFO]     ✓ Karnataka | 2021-22 | April | 10/26 indicators
+2026-03-01 10:22:56,952 [INFO]     ✓ Karnataka | 2021-22 | May | 10/26 indicators
+2026-03-01 10:22:59,428 [INFO]     ✓ Karnataka | 2021-22 | June | 12/26 indicators
+2026-03-01 10:23:02,121 [INFO]     ✓ Karnataka | 2021-22 | July | 10/26 indicators
+2026-03-01 10:23:04,466 [INFO]     ✓ Karnataka | 2021-22 | August | 8/26 indicators
+2026-03-01 10:23:07,012 [INFO]     ✓ Karnataka | 2021-22 | September | 9/26 indicators
+2026-03-01 10:23:09,389 [INFO]     ✓ Karnataka | 2021-22 | October | 9/26 indicators
+2026-03-01 10:23:11,743 [INFO]     ✓ Karnataka | 2021-22 | November | 8/26 indicators
+2026-03-01 10:23:14,061 [INFO]     ✓ Karnataka | 2021-22 | December | 8/26 indicators
+2026-03-01 10:23:16,606 [INFO]     ✓ Karnataka | 2021-22 | January | 8/26 indicators
+2026-03-01 10:23:19,031 [INFO]     ✓ Karnataka | 2021-22 | February | 9/26 indicators
+2026-03-01 10:23:21,791 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sup-2022-062b44f3656f769-97603643.pdf
+2026-03-01 10:23:24,168 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2022-0626261848b8e87-40434715.pdf
+2026-03-01 10:23:24,169 [INFO]   [Karnataka] Done. 48 months parsed, 0 skipped
+2026-03-01 10:23:25,173 [INFO] 
+==================================================
+  Processing: Kerala
+==================================================
+2026-03-01 10:23:27,141 [INFO]   [Kerala] Found 48 MKI PDFs
+2026-03-01 10:23:29,679 [INFO]     ✓ Kerala | 2025-26 | April | 10/26 indicators
+2026-03-01 10:23:32,465 [INFO]     ✓ Kerala | 2025-26 | May | 11/26 indicators
+2026-03-01 10:23:34,889 [INFO]     ✓ Kerala | 2025-26 | June | 9/26 indicators
+2026-03-01 10:23:37,416 [INFO]     ✓ Kerala | 2025-26 | July | 10/26 indicators
+2026-03-01 10:23:40,412 [INFO]     ✓ Kerala | 2025-26 | August | 11/26 indicators
+2026-03-01 10:23:44,512 [INFO]     ✓ Kerala | 2025-26 | September | 11/26 indicators
+2026-03-01 10:23:47,296 [INFO]     ✓ Kerala | 2025-26 | October | 11/26 indicators
+2026-03-01 10:23:49,781 [INFO]     ✓ Kerala | 2025-26 | November | 11/26 indicators
+2026-03-01 10:23:52,180 [INFO]     ✓ Kerala | 2025-26 | December | 11/26 indicators
+2026-03-01 10:23:54,901 [INFO]     ✓ Kerala | 2025-26 | January | 11/26 indicators
+2026-03-01 10:23:57,556 [INFO]     ✓ Kerala | 2024-25 | April | 12/26 indicators
+2026-03-01 10:24:00,353 [INFO]     ✓ Kerala | 2024-25 | May | 15/26 indicators
+2026-03-01 10:24:02,853 [INFO]     ✓ Kerala | 2024-25 | June | 15/26 indicators
+2026-03-01 10:24:05,442 [INFO]     ✓ Kerala | 2024-25 | July | 15/26 indicators
+2026-03-01 10:24:08,181 [INFO]     ✓ Kerala | 2024-25 | August | 11/26 indicators
+2026-03-01 10:24:10,807 [INFO]     ✓ Kerala | 2024-25 | September | 11/26 indicators
+2026-03-01 10:24:13,462 [INFO]     ✓ Kerala | 2024-25 | November | 11/26 indicators
+2026-03-01 10:24:15,901 [INFO]     ✓ Kerala | 2024-25 | December | 11/26 indicators
+2026-03-01 10:24:18,258 [INFO]     ✓ Kerala | 2024-25 | January | 10/26 indicators
+2026-03-01 10:24:20,571 [INFO]     ✓ Kerala | 2024-25 | February | 10/26 indicators
+2026-03-01 10:24:23,135 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Supply-2025-English-068666f3a956fd9-94314714.pdf
+2026-03-01 10:24:25,571 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2025-English-0680b6c70ad9414-67352604.pdf
+2026-03-01 10:24:28,358 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-24-English-1-2-00-066d01775a3e2b0-91448118.pdf
+2026-03-01 10:24:30,919 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-24-English-066c31e8b695085-90724385.pdf
+2026-03-01 10:24:33,965 [INFO]     ✓ Kerala | 2022-23 | April | 9/26 indicators
+2026-03-01 10:24:36,427 [INFO]     ✓ Kerala | 2022-23 | May | 9/26 indicators
+2026-03-01 10:24:38,944 [INFO]     ✓ Kerala | 2022-23 | June | 9/26 indicators
+2026-03-01 10:24:41,418 [INFO]     ✓ Kerala | 2022-23 | July | 9/26 indicators
+2026-03-01 10:24:44,089 [INFO]     ✓ Kerala | 2022-23 | August | 9/26 indicators
+2026-03-01 10:24:46,497 [INFO]     ✓ Kerala | 2022-23 | September | 9/26 indicators
+2026-03-01 10:24:48,902 [INFO]     ✓ Kerala | 2022-23 | October | 9/26 indicators
+2026-03-01 10:24:51,175 [INFO]     ✓ Kerala | 2022-23 | November | 9/26 indicators
+2026-03-01 10:24:53,605 [INFO]     ✓ Kerala | 2022-23 | December | 9/26 indicators
+2026-03-01 10:24:56,176 [INFO]     ✓ Kerala | 2022-23 | January | 6/26 indicators
+2026-03-01 10:24:58,962 [INFO]     ✓ Kerala | 2022-23 | February | 8/26 indicators
+2026-03-01 10:25:01,496 [INFO]     ✓ Kerala | 2022-23 | March | 6/26 indicators
+2026-03-01 10:25:03,980 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MAR-SUPPL-23English-064a551f0a043a0-33700839.pdf
+2026-03-01 10:25:06,496 [INFO]     ✓ Kerala | 2021-22 | April | 9/26 indicators
+2026-03-01 10:25:08,975 [INFO]     ✓ Kerala | 2021-22 | May | 9/26 indicators
+2026-03-01 10:25:11,427 [INFO]     ✓ Kerala | 2021-22 | June | 9/26 indicators
+2026-03-01 10:25:13,813 [INFO]     ✓ Kerala | 2021-22 | August | 5/26 indicators
+2026-03-01 10:25:16,089 [INFO]     ✓ Kerala | 2021-22 | September | 5/26 indicators
+2026-03-01 10:25:18,731 [INFO]     ✓ Kerala | 2021-22 | October | 5/26 indicators
+2026-03-01 10:25:21,086 [INFO]     ✓ Kerala | 2021-22 | November | 5/26 indicators
+2026-03-01 10:25:23,781 [INFO]     ✓ Kerala | 2021-22 | December | 5/26 indicators
+2026-03-01 10:25:26,141 [INFO]     ✓ Kerala | 2021-22 | January | 5/26 indicators
+2026-03-01 10:25:28,816 [INFO]     ✓ Kerala | 2021-22 | February | 5/26 indicators
+2026-03-01 10:25:31,113 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-supply-22English-062c6b867472637-64667251.pdf
+2026-03-01 10:25:31,113 [INFO]   [Kerala] Done. 42 months parsed, 0 skipped
+2026-03-01 10:25:32,121 [INFO] ⏭  Madhya Pradesh: no monthly CAG data — skipping
+2026-03-01 10:25:32,122 [INFO] 
+==================================================
+  Processing: Maharashtra
+==================================================
+2026-03-01 10:25:33,851 [INFO]   [Maharashtra] Found 58 MKI PDFs
+2026-03-01 10:25:36,355 [INFO]     ✓ Maharashtra | 2025-26 | April | 15/26 indicators
+2026-03-01 10:25:39,129 [INFO]     ✓ Maharashtra | 2025-26 | May | 15/26 indicators
+2026-03-01 10:25:42,122 [INFO]     ✓ Maharashtra | 2025-26 | May | 15/26 indicators
+2026-03-01 10:25:44,580 [INFO]     ✓ Maharashtra | 2025-26 | July | 15/26 indicators
+2026-03-01 10:25:47,224 [INFO]     ✓ Maharashtra | 2025-26 | August | 15/26 indicators
+2026-03-01 10:25:49,808 [INFO]     ✓ Maharashtra | 2025-26 | September | 15/26 indicators
+2026-03-01 10:25:52,419 [INFO]     ✓ Maharashtra | 2025-26 | October | 15/26 indicators
+2026-03-01 10:25:54,897 [INFO]     ✓ Maharashtra | 2025-26 | November | 15/26 indicators
+2026-03-01 10:25:57,505 [INFO]     ✓ Maharashtra | 2025-26 | December | 15/26 indicators
+2026-03-01 10:25:59,924 [INFO]     ✓ Maharashtra | 2025-26 | January | 15/26 indicators
+2026-03-01 10:26:03,407 [INFO]     ✓ Maharashtra | 2024-25 | April | 15/26 indicators
+2026-03-01 10:26:06,066 [INFO]     ✓ Maharashtra | 2024-25 | May | 15/26 indicators
+2026-03-01 10:26:08,714 [INFO]     ✓ Maharashtra | 2024-25 | June | 15/26 indicators
+2026-03-01 10:26:11,313 [INFO]     ✓ Maharashtra | 2024-25 | July | 15/26 indicators
+2026-03-01 10:26:13,883 [INFO]     ✓ Maharashtra | 2024-25 | August | 15/26 indicators
+2026-03-01 10:26:16,434 [INFO]     ✓ Maharashtra | 2024-25 | September | 15/26 indicators
+2026-03-01 10:26:19,463 [INFO]     ✓ Maharashtra | 2024-25 | October | 15/26 indicators
+2026-03-01 10:26:21,944 [INFO]     ✓ Maharashtra | 2024-25 | November | 15/26 indicators
+2026-03-01 10:26:25,106 [INFO]     ✓ Maharashtra | 2024-25 | December | 15/26 indicators
+2026-03-01 10:26:27,603 [INFO]     ✓ Maharashtra | 2024-25 | January | 16/26 indicators
+2026-03-01 10:26:30,656 [INFO]     ✓ Maharashtra | 2024-25 | February | 16/26 indicators
+2026-03-01 10:26:33,267 [INFO]     ✓ Maharashtra | 2024-25 | March | 15/26 indicators
+2026-03-01 10:26:35,689 [INFO]     ✓ Maharashtra | 2023-24 | April | 15/26 indicators
+2026-03-01 10:26:38,227 [INFO]     ✓ Maharashtra | 2023-24 | May | 15/26 indicators
+2026-03-01 10:26:40,751 [INFO]     ✓ Maharashtra | 2023-24 | June | 16/26 indicators
+2026-03-01 10:26:43,390 [INFO]     ✓ Maharashtra | 2023-24 | July | 16/26 indicators
+2026-03-01 10:26:45,724 [INFO]     ✓ Maharashtra | 2023-24 | August | 16/26 indicators
+2026-03-01 10:26:48,220 [INFO]     ✓ Maharashtra | 2023-24 | August | 15/26 indicators
+2026-03-01 10:26:51,261 [INFO]     ✓ Maharashtra | 2023-24 | October | 15/26 indicators
+2026-03-01 10:26:53,885 [INFO]     ✓ Maharashtra | 2023-24 | November | 15/26 indicators
+2026-03-01 10:26:56,608 [INFO]     ✓ Maharashtra | 2023-24 | December | 16/26 indicators
+2026-03-01 10:26:59,241 [INFO]     ✓ Maharashtra | 2023-24 | January | 15/26 indicators
+2026-03-01 10:27:01,883 [INFO]     ✓ Maharashtra | 2023-24 | February | 15/26 indicators
+2026-03-01 10:27:04,485 [INFO]     ✓ Maharashtra | 2023-24 | March | 15/26 indicators
+2026-03-01 10:27:07,660 [INFO]     ✓ Maharashtra | 2022-23 | April | 16/26 indicators
+2026-03-01 10:27:10,375 [INFO]     ✓ Maharashtra | 2022-23 | May | 16/26 indicators
+2026-03-01 10:27:13,103 [INFO]     ✓ Maharashtra | 2022-23 | June | 16/26 indicators
+2026-03-01 10:27:15,651 [INFO]     ✓ Maharashtra | 2022-23 | July | 16/26 indicators
+2026-03-01 10:27:18,913 [INFO]     ✓ Maharashtra | 2022-23 | August | 14/26 indicators
+2026-03-01 10:27:21,742 [INFO]     ✓ Maharashtra | 2022-23 | September | 15/26 indicators
+2026-03-01 10:27:24,391 [INFO]     ✓ Maharashtra | 2022-23 | October | 15/26 indicators
+2026-03-01 10:27:27,375 [INFO]     ✓ Maharashtra | 2022-23 | November | 15/26 indicators
+2026-03-01 10:27:29,928 [INFO]     ✓ Maharashtra | 2022-23 | December | 15/26 indicators
+2026-03-01 10:27:32,372 [INFO]     ✓ Maharashtra | 2022-23 | January | 15/26 indicators
+2026-03-01 10:27:35,072 [INFO]     ✓ Maharashtra | 2022-23 | February | 16/26 indicators
+2026-03-01 10:27:37,495 [INFO]     ✓ Maharashtra | 2022-23 | March | 15/26 indicators
+2026-03-01 10:27:39,898 [INFO]     ✓ Maharashtra | 2021-22 | April | 16/26 indicators
+2026-03-01 10:27:42,169 [INFO]     ✓ Maharashtra | 2021-22 | May | 16/26 indicators
+2026-03-01 10:27:44,565 [INFO]     ✓ Maharashtra | 2021-22 | June | 16/26 indicators
+2026-03-01 10:27:46,798 [INFO]     ✓ Maharashtra | 2021-22 | July | 16/26 indicators
+2026-03-01 10:27:49,100 [INFO]     ✓ Maharashtra | 2021-22 | August | 16/26 indicators
+2026-03-01 10:27:51,472 [INFO]     ✓ Maharashtra | 2021-22 | September | 16/26 indicators
+2026-03-01 10:27:54,042 [INFO]     ✓ Maharashtra | 2021-22 | October | 16/26 indicators
+2026-03-01 10:27:56,547 [INFO]     ✓ Maharashtra | 2021-22 | November | 16/26 indicators
+2026-03-01 10:27:59,237 [INFO]     ✓ Maharashtra | 2021-22 | December | 16/26 indicators
+2026-03-01 10:28:01,927 [INFO]     ✓ Maharashtra | 2021-22 | January | 16/26 indicators
+2026-03-01 10:28:04,554 [INFO]     ✓ Maharashtra | 2021-22 | February | 16/26 indicators
+2026-03-01 10:28:06,947 [INFO]     ✓ Maharashtra | 2021-22 | March | 16/26 indicators
+2026-03-01 10:28:06,947 [INFO]   [Maharashtra] Done. 58 months parsed, 0 skipped
+2026-03-01 10:28:07,949 [INFO] 
+==================================================
+  Processing: Manipur
+==================================================
+2026-03-01 10:28:09,683 [INFO]   [Manipur] Found 58 MKI PDFs
+2026-03-01 10:28:12,674 [INFO]     ✓ Manipur | 2025-26 | April | 6/26 indicators
+2026-03-01 10:28:18,931 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2025-06895c3cceb0509-16914594.pdf
+2026-03-01 10:28:22,110 [INFO]     ✓ Manipur | 2025-26 | July | 12/26 indicators
+2026-03-01 10:28:25,465 [INFO]     ✓ Manipur | 2025-26 | August | 13/26 indicators
+2026-03-01 10:28:28,107 [INFO]     ✓ Manipur | 2025-26 | September | 13/26 indicators
+2026-03-01 10:28:30,544 [INFO]     ✓ Manipur | 2025-26 | October | 19/26 indicators
+2026-03-01 10:28:33,032 [INFO]     ✓ Manipur | 2025-26 | November | 15/26 indicators
+2026-03-01 10:28:35,523 [INFO]     ✓ Manipur | 2025-26 | December | 15/26 indicators
+2026-03-01 10:28:39,002 [INFO]     ✓ Manipur | 2024-25 | April | 12/26 indicators
+2026-03-01 10:28:43,197 [INFO]     ✓ Manipur | 2024-25 | May | 12/26 indicators
+2026-03-01 10:28:45,751 [INFO]     ✓ Manipur | 2024-25 | June | 12/26 indicators
+2026-03-01 10:28:48,165 [INFO]     ✓ Manipur | 2024-25 | July | 12/26 indicators
+2026-03-01 10:28:51,806 [INFO]     ✓ Manipur | 2024-25 | August | 12/26 indicators
+2026-03-01 10:28:54,371 [INFO]     ✓ Manipur | 2024-25 | September | 12/26 indicators
+2026-03-01 10:28:57,458 [INFO]     ✓ Manipur | 2024-25 | October | 12/26 indicators
+2026-03-01 10:28:59,964 [INFO]     ✓ Manipur | 2024-25 | November | 12/26 indicators
+2026-03-01 10:29:03,363 [INFO]     ✓ Manipur | 2024-25 | December | 12/26 indicators
+2026-03-01 10:29:11,537 [INFO]     ✓ Manipur | 2024-25 | January | 12/26 indicators
+2026-03-01 10:29:15,142 [INFO]     ✓ Manipur | 2024-25 | February | 12/26 indicators
+2026-03-01 10:29:17,904 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-1-2025-0689099c286b093-84481295.pdf
+2026-03-01 10:29:21,268 [INFO]     ✓ Manipur | 2024-25 | March | 17/26 indicators
+2026-03-01 10:29:25,305 [INFO]     ✓ Manipur | 2023-24 | April | 11/26 indicators
+2026-03-01 10:29:27,908 [INFO]     ✓ Manipur | 2023-24 | May | 12/26 indicators
+2026-03-01 10:29:30,527 [INFO]     ✓ Manipur | 2023-24 | June | 12/26 indicators
+2026-03-01 10:29:33,159 [INFO]     ✓ Manipur | 2023-24 | July | 12/26 indicators
+2026-03-01 10:29:35,632 [INFO]     ✓ Manipur | 2023-24 | August | 12/26 indicators
+2026-03-01 10:29:38,122 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-SEPT-2023-065d43ad4137a84-94231128.pdf
+2026-03-01 10:29:40,665 [INFO]     ✓ Manipur | 2023-24 | Oct | 12/26 indicators
+2026-03-01 10:29:43,704 [INFO]     ✓ Manipur | 2023-24 | Nov | 12/26 indicators
+2026-03-01 10:29:46,457 [INFO]     ✓ Manipur | 2023-24 | December | 13/26 indicators
+2026-03-01 10:29:49,192 [INFO]     ✓ Manipur | 2023-24 | Jan | 12/26 indicators
+2026-03-01 10:29:51,693 [INFO]     ✓ Manipur | 2023-24 | Feb | 12/26 indicators
+2026-03-01 10:29:54,216 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-066d80a2f0d76e2-63835440.pdf
+2026-03-01 10:29:56,396 [INFO]     ✓ Manipur | 2022-23 | April | 13/26 indicators
+2026-03-01 10:29:58,964 [INFO]     ✓ Manipur | 2022-23 | May | 12/26 indicators
+2026-03-01 10:30:02,173 [INFO]     ✓ Manipur | 2022-23 | June | 12/26 indicators
+2026-03-01 10:30:05,733 [INFO]     ✓ Manipur | 2022-23 | July | 12/26 indicators
+2026-03-01 10:30:10,654 [INFO]     ✓ Manipur | 2022-23 | August | 13/26 indicators
+2026-03-01 10:30:13,249 [INFO]     ✓ Manipur | 2022-23 | Sep | 13/26 indicators
+2026-03-01 10:30:15,898 [INFO]     ✓ Manipur | 2022-23 | Oct | 13/26 indicators
+2026-03-01 10:30:22,892 [INFO]     ✓ Manipur | 2022-23 | Nov | 13/26 indicators
+2026-03-01 10:30:25,431 [INFO]     ✓ Manipur | 2022-23 | Dec | 13/26 indicators
+2026-03-01 10:30:33,595 [INFO]     ✓ Manipur | 2022-23 | Feb | 14/26 indicators
+2026-03-01 10:30:38,450 [INFO]     ✓ Manipur | 2022-23 | Mar | 14/26 indicators
+2026-03-01 10:30:45,695 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-SY-23-0650036c481e5c9-56244696.pdf
+2026-03-01 10:30:49,002 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MERGE-MKI421-06112579b171336-56685525.pdf
+2026-03-01 10:30:51,867 [INFO]     ✓ Manipur | 2021-22 | May | 12/26 indicators
+2026-03-01 10:30:54,212 [INFO]     ✓ Manipur | 2021-22 | June | 13/26 indicators
+2026-03-01 10:30:57,376 [INFO]     ✓ Manipur | 2021-22 | July | 12/26 indicators
+2026-03-01 10:31:01,852 [INFO]     ✓ Manipur | 2021-22 | August | 12/26 indicators
+2026-03-01 10:31:04,248 [INFO]     ✓ Manipur | 2021-22 | September | 12/26 indicators
+2026-03-01 10:31:08,229 [INFO]     ✓ Manipur | 2021-22 | October | 12/26 indicators
+2026-03-01 10:31:11,230 [INFO]     ✓ Manipur | 2021-22 | November | 0/26 indicators
+2026-03-01 10:31:16,638 [INFO]     ✓ Manipur | 2021-22 | December | 12/26 indicators
+2026-03-01 10:31:19,406 [INFO]     ✓ Manipur | 2021-22 | January | 12/26 indicators
+2026-03-01 10:31:22,083 [INFO]     ✓ Manipur | 2021-22 | February | 12/26 indicators
+2026-03-01 10:31:25,113 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-SY-2022-merged-062c40eae3c53a8-95600875.pdf
+2026-03-01 10:31:27,958 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-M-P-2022-PDF-0627e21bbe6bc63-29789653.pdf
+2026-03-01 10:31:27,958 [INFO]   [Manipur] Done. 50 months parsed, 0 skipped
+2026-03-01 10:31:28,959 [INFO] 
+==================================================
+  Processing: Meghalaya
+==================================================
+2026-03-01 10:31:30,469 [INFO]   [Meghalaya] Found 54 MKI PDFs
+2026-03-01 10:31:32,573 [INFO]     ✓ Meghalaya | 2025-26 | April | 22/26 indicators
+2026-03-01 10:31:34,959 [INFO]     ✓ Meghalaya | 2025-26 | May | 22/26 indicators
+2026-03-01 10:31:37,249 [INFO]     ✓ Meghalaya | 2025-26 | June | 22/26 indicators
+2026-03-01 10:31:39,540 [INFO]     ✓ Meghalaya | 2025-26 | July | 22/26 indicators
+2026-03-01 10:31:41,769 [INFO]     ✓ Meghalaya | 2025-26 | August | 22/26 indicators
+2026-03-01 10:31:44,057 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-up-to-the-month-of-September-2025-Accounts-068f9d2938c6ed3-52276312.pdf
+2026-03-01 10:31:47,321 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-Oct-2025-0692fcbe709cbc0-76032855.pdf
+2026-03-01 10:31:49,528 [INFO]     ✓ Meghalaya | 2025-26 | November | 21/26 indicators
+2026-03-01 10:31:51,714 [INFO]     ✓ Meghalaya | 2025-26 | December | 22/26 indicators
+2026-03-01 10:31:53,832 [INFO]     ✓ Meghalaya | 2025-26 | January | 21/26 indicators
+2026-03-01 10:31:56,913 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FOR-THE-MONTH-OF-APRIL-2024-066697be21e0404-13854602.pdf
+2026-03-01 10:31:59,793 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-of-MAY-2024-0667d507ac7b9e7-62590010.pdf
+2026-03-01 10:32:02,093 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JUNE-2024-066b9ca2d7fbbc0-09313379.pdf
+2026-03-01 10:32:04,434 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JULY-2024-0001-066cc13ac225fc0-95802081.pdf
+2026-03-01 10:32:06,565 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-August-2024-066f2a6ca705271-15531899.pdf
+2026-03-01 10:32:13,508 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-September-2024-0671bb4b3c243c7-12467268.pdf
+2026-03-01 10:32:15,891 [INFO]     ✓ Meghalaya | 2024-25 | October | 21/26 indicators
+2026-03-01 10:32:17,968 [INFO]     ✓ Meghalaya | 2024-25 | November | 20/26 indicators
+2026-03-01 10:32:20,374 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-December-2024-0679777b40776f2-92174048.pdf
+2026-03-01 10:32:22,849 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-January-2025-067b6d784027b44-51140673.pdf
+2026-03-01 10:32:25,755 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-Feb-MKI-2025-067dd368398c070-46463220.pdf
+2026-03-01 10:32:27,938 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-March-Pre-2025-068257c3487e036-40962831.pdf
+2026-03-01 10:32:30,059 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-March-Sy-2025-0686b96b67fdca0-87199010.pdf
+2026-03-01 10:32:33,549 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-May-2023-064d082aab3f507-26234716.pdf
+2026-03-01 10:32:36,330 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JULY-2023-0650a860ee2a246-27126601.pdf
+2026-03-01 10:32:39,026 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-August-2023-a-0651fd7cc6108d4-30670104.pdf
+2026-03-01 10:32:42,561 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FOR-THE-MONTH-OF-SEPTEMBER-2023-0654dc701ddeae2-29983023.pdf
+2026-03-01 10:32:45,656 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-OCTOBER-2023-065769fb9e3dad2-78658748.pdf
+2026-03-01 10:32:49,147 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-November-2023-A-065978917c5e8a6-93230488.pdf
+2026-03-01 10:32:51,668 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-December-2023-1-9-065bb369849bd89-41261948.pdf
+2026-03-01 10:32:54,650 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-January-2024-065e5a8b2330845-95415370.pdf
+2026-03-01 10:32:57,893 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-February-2024-0660bd97825dc28-25915913.pdf
+2026-03-01 10:33:02,253 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-pre-2024-06641e4db03cf04-37458156.pdf
+2026-03-01 10:33:06,494 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-March-Sy-2024-0668691a27b21e3-58034763.pdf
+2026-03-01 10:33:08,353 [INFO]     ✓ Meghalaya | 2022-23 | April | 17/26 indicators
+2026-03-01 10:33:11,150 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-May-2022-Revised-062e25d5a8e5401-69824631.pdf
+2026-03-01 10:33:14,322 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JUNE-2022-062f0df828121a2-18239714.pdf
+2026-03-01 10:33:16,420 [INFO]     ✓ Meghalaya | 2022-23 | August | 22/26 indicators
+2026-03-01 10:33:19,393 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-september-2022-0636bb4955f62b9-75808333.pdf
+2026-03-01 10:33:22,592 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-october-2022-new-0638f083326c8f3-03422041.pdf
+2026-03-01 10:33:25,236 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-NOVEMBER-2022-063a9842daf1e03-86808773.pdf
+2026-03-01 10:33:28,627 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-December-2022-063ec7447063260-89899065.pdf
+2026-03-01 10:33:33,583 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-JANUARY-2023-0641d83dc500181-03999169.pdf
+2026-03-01 10:33:39,342 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-february-2023-06441196cc00db6-70852339.pdf
+2026-03-01 10:33:42,668 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-March-Sy-2023-064ae4eb2461fe8-76466962.pdf
+2026-03-01 10:33:45,865 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FOR-THE-MONTH-OF-MARCH-2023-064786edccb5fe7-99104438.pdf
+2026-03-01 10:33:47,839 [INFO]     ✓ Meghalaya | 2021-22 | May | 22/26 indicators
+2026-03-01 10:33:49,756 [INFO]     ✓ Meghalaya | 2021-22 | July | 22/26 indicators
+2026-03-01 10:33:52,201 [INFO]     ✓ Meghalaya | 2021-22 | August | 18/26 indicators
+2026-03-01 10:33:54,914 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-November-2021-061d2d3d808ecc5-09062483.pdf
+2026-03-01 10:33:56,864 [INFO]     ✓ Meghalaya | 2021-22 | December | 22/26 indicators
+2026-03-01 10:33:58,867 [INFO]     ✓ Meghalaya | 2021-22 | January | 22/26 indicators
+2026-03-01 10:34:00,925 [INFO]     ✓ Meghalaya | 2021-22 | February | 22/26 indicators
+2026-03-01 10:34:02,974 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-SUPPLEMENTARY-062c560748a5d67-32246261.pdf
+2026-03-01 10:34:02,974 [INFO]   [Meghalaya] Done. 18 months parsed, 0 skipped
+2026-03-01 10:34:03,985 [INFO] 
+==================================================
+  Processing: Mizoram
+==================================================
+2026-03-01 10:34:05,466 [INFO]   [Mizoram] Found 28 MKI PDFs
+2026-03-01 10:34:07,569 [INFO]     ✓ Mizoram | 2025-26 | April | 0/26 indicators
+2026-03-01 10:34:09,754 [INFO]     ✓ Mizoram | 2025-26 | May | 0/26 indicators
+2026-03-01 10:34:11,947 [INFO]     ✓ Mizoram | 2025-26 | June | 0/26 indicators
+2026-03-01 10:34:14,077 [INFO]     ✓ Mizoram | 2025-26 | July | 0/26 indicators
+2026-03-01 10:34:16,282 [INFO]     ✓ Mizoram | 2025-26 | August | 0/26 indicators
+2026-03-01 10:34:18,414 [INFO]     ✓ Mizoram | 2025-26 | September | 0/26 indicators
+2026-03-01 10:34:20,634 [INFO]     ✓ Mizoram | 2025-26 | October | 0/26 indicators
+2026-03-01 10:34:22,951 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-2025-0692d7e6ac28c74-85276510.pdf
+2026-03-01 10:34:25,136 [INFO]     ✓ Mizoram | 2025-26 | November | 0/26 indicators
+2026-03-01 10:34:27,565 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-November-revised-2025-06979d0c0dbc7f6-67100073.pdf
+2026-03-01 10:34:29,763 [INFO]     ✓ Mizoram | 2025-26 | December | 0/26 indicators
+2026-03-01 10:34:32,018 [INFO]     ✓ Mizoram | 2025-26 | December | 0/26 indicators
+2026-03-01 10:34:34,134 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Janurary-2026-0699d6a056f7d11-16097052.pdf
+2026-03-01 10:34:36,582 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-Janurary-2026-0699d6a38b73f70-15585200.pdf
+2026-03-01 10:34:38,809 [INFO]     ✓ Mizoram | 2024-25 | June | 0/26 indicators
+2026-03-01 10:34:41,190 [INFO]     ✓ Mizoram | 2024-25 | June | 0/26 indicators
+2026-03-01 10:34:43,419 [INFO]     ✓ Mizoram | 2024-25 | July | 0/26 indicators
+2026-03-01 10:34:45,979 [INFO]     ✓ Mizoram | 2024-25 | July | 0/26 indicators
+2026-03-01 10:34:48,199 [INFO]     ✓ Mizoram | 2024-25 | August | 0/26 indicators
+2026-03-01 10:34:52,372 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-September-2024-06720bddf771a50-05255289.pdf
+2026-03-01 10:34:54,822 [INFO]     ✓ Mizoram | 2024-25 | October | 0/26 indicators
+2026-03-01 10:34:57,134 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-2-MKI-2024-25-October-24-067498c09307274-79645940.pdf
+2026-03-01 10:34:59,405 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Nov-1-0676fb625a72167-33539113.pdf
+2026-03-01 10:35:01,636 [INFO]     ✓ Mizoram | 2024-25 | November | 0/26 indicators
+2026-03-01 10:35:03,709 [INFO]     ✓ Mizoram | 2024-25 | December | 0/26 indicators
+2026-03-01 10:35:06,947 [INFO]     ✓ Mizoram | 2024-25 | January | 0/26 indicators
+2026-03-01 10:35:09,068 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-2024-25-March-Pre-25-06819a6ef416da3-52206565.pdf
+2026-03-01 10:35:11,505 [INFO]     ✓ Mizoram | 2023-24 | November | 0/26 indicators
+2026-03-01 10:35:11,505 [INFO]   [Mizoram] Done. 20 months parsed, 0 skipped
+2026-03-01 10:35:12,511 [INFO] 
+==================================================
+  Processing: Nagaland
+==================================================
+2026-03-01 10:35:14,110 [INFO]   [Nagaland] Found 52 MKI PDFs
+2026-03-01 10:35:16,312 [INFO]     ✓ Nagaland | 2025-26 | April | 16/26 indicators
+2026-03-01 10:35:18,305 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Report-2025-26-0685ba1c6b92fd4-13742377.pdf
+2026-03-01 10:35:20,585 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Report-2025-26-068ca81cceff392-05786865.pdf
+2026-03-01 10:35:23,006 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-068da0aa5e37597-70922073.pdf
+2026-03-01 10:35:25,226 [INFO]     ✓ Nagaland | 692-3 | September | 16/26 indicators
+2026-03-01 10:35:27,367 [INFO]     ✓ Nagaland | 2025-26 | October | 16/26 indicators
+2026-03-01 10:35:29,645 [INFO]     ✓ Nagaland | 2025-26 | November | 16/26 indicators
+2026-03-01 10:35:32,412 [INFO]     ✓ Nagaland | 2025-26 | Dec | 16/26 indicators
+2026-03-01 10:35:36,189 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2024-0665ed19b9cab45-07024491.pdf
+2026-03-01 10:35:38,756 [INFO]     ✓ Nagaland | 2024-25 | May | 16/26 indicators
+2026-03-01 10:35:41,302 [INFO]     ✓ Nagaland | 2024-25 | June | 16/26 indicators
+2026-03-01 10:35:43,669 [INFO]     ✓ Nagaland | 2024-25 | July | 16/26 indicators
+2026-03-01 10:35:46,035 [INFO]     ✓ Nagaland | 2024-25 | August | 16/26 indicators
+2026-03-01 10:35:48,505 [INFO]     ✓ Nagaland | 2024-25 | September | 16/26 indicators
+2026-03-01 10:35:50,910 [INFO]     ✓ Nagaland | 2024-25 | October | 16/26 indicators
+2026-03-01 10:35:53,516 [INFO]     ✓ Nagaland | 2024-25 | November | 16/26 indicators
+2026-03-01 10:35:56,172 [INFO]     ✓ Nagaland | 2024-25 | February | 16/26 indicators
+2026-03-01 10:35:58,862 [INFO]     ✓ Nagaland | 2024-25 | March | 16/26 indicators
+2026-03-01 10:36:01,199 [INFO]     ✓ Nagaland | 2023-24 | April | 16/26 indicators
+2026-03-01 10:36:03,589 [INFO]     ✓ Nagaland | 2023-24 | May | 16/26 indicators
+2026-03-01 10:36:05,679 [INFO]     ✓ Nagaland | 2023-24 | June | 15/26 indicators
+2026-03-01 10:36:08,006 [INFO]     ✓ Nagaland | 2023-24 | July | 16/26 indicators
+2026-03-01 10:36:11,165 [INFO]     ✓ Nagaland | 2023-24 | August | 16/26 indicators
+2026-03-01 10:36:13,555 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-September2023-0653b727d9d0dc8-06642135.pdf
+2026-03-01 10:36:15,983 [INFO]     ✓ Nagaland | 2023-24 | October | 16/26 indicators
+2026-03-01 10:36:18,069 [INFO]     ✓ Nagaland | 2023-24 | November | 16/26 indicators
+2026-03-01 10:36:20,482 [INFO]     ✓ Nagaland | 2023-24 | December | 16/26 indicators
+2026-03-01 10:36:22,998 [INFO]     ✓ Nagaland | 2023-24 | January | 16/26 indicators
+2026-03-01 10:36:25,569 [INFO]     ✓ Nagaland | 2023-24 | February | 16/26 indicators
+2026-03-01 10:36:27,662 [INFO]     ✓ Nagaland | 2023-24 | March | 15/26 indicators
+2026-03-01 10:36:29,664 [INFO]     ✓ Nagaland | 2022-23 | April | 15/26 indicators
+2026-03-01 10:36:31,866 [INFO]     ✓ Nagaland | 2022-23 | May | 15/26 indicators
+2026-03-01 10:36:33,873 [INFO]     ✓ Nagaland | 2022-23 | June | 15/26 indicators
+2026-03-01 10:36:36,057 [INFO]     ✓ Nagaland | 2022-23 | August | 16/26 indicators
+2026-03-01 10:36:38,326 [INFO]     ✓ Nagaland | 2022-23 | October | 16/26 indicators
+2026-03-01 10:36:40,355 [INFO]     ✓ Nagaland | 2022-23 | November | 15/26 indicators
+2026-03-01 10:36:42,440 [INFO]     ✓ Nagaland | 2022-23 | December | 15/26 indicators
+2026-03-01 10:36:44,590 [INFO]     ✓ Nagaland | 2022-23 | January | 15/26 indicators
+2026-03-01 10:36:47,165 [INFO]     ✓ Nagaland | 2022-23 | February | 16/26 indicators
+2026-03-01 10:36:49,608 [INFO]     ✓ Nagaland | 2022-23 | March | 16/26 indicators
+2026-03-01 10:36:54,890 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-april-2021-060e2e4962a7f01-54477059.pdf
+2026-03-01 10:36:59,317 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-060f6988da01f22-45984629.pdf
+2026-03-01 10:37:03,772 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-0610923df271ad2-76708383.pdf
+2026-03-01 10:37:07,960 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July-2021-061289a3578f927-27242166.pdf
+2026-03-01 10:37:11,042 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-August-2021-0615431c67f0a35-49376543.pdf
+2026-03-01 10:37:13,564 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-06177e386c9a930-51213539.pdf
+2026-03-01 10:37:17,327 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-October-2021-MKI-061a4a01dae9028-55878805.pdf
+2026-03-01 10:37:20,472 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-November-061c046ca87d378-33943571.pdf
+2026-03-01 10:37:23,562 [INFO]     ✓ Nagaland | 2021-22 | December | 11/26 indicators
+2026-03-01 10:37:26,217 [INFO]     ✓ Nagaland | 2020-21 | January | 11/26 indicators
+2026-03-01 10:37:30,440 [INFO]     ✓ Nagaland | 2021-22 | February | 17/26 indicators
+2026-03-01 10:37:32,768 [INFO]     ✓ Nagaland | 2021-22 | March | 15/26 indicators
+2026-03-01 10:37:32,768 [INFO]   [Nagaland] Done. 39 months parsed, 0 skipped
+2026-03-01 10:37:33,785 [INFO] 
+==================================================
+  Processing: Odisha
+==================================================
+2026-03-01 10:37:35,292 [INFO]   [Odisha] Found 45 MKI PDFs
+2026-03-01 10:37:37,343 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-04-25-merged-06839a96ba166a4-19720678.pdf
+2026-03-01 10:37:39,531 [INFO]     ✓ Odisha | 687-8 | June | 1/26 indicators
+2026-03-01 10:37:41,668 [INFO]     ✓ Odisha | 689-0 | July | 1/26 indicators
+2026-03-01 10:37:43,730 [INFO]     ✓ Odisha | 2025-26 | Aug | 1/26 indicators
+2026-03-01 10:37:45,889 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-September-068f2424f4be1c2-86843719.pdf
+2026-03-01 10:37:48,121 [INFO]     ✓ Odisha | 2025-26 | October | 1/26 indicators
+2026-03-01 10:37:50,313 [INFO]     ✓ Odisha | 2025-26 | November | 1/26 indicators
+2026-03-01 10:37:52,481 [INFO]     ✓ Odisha | 696-7 | December | 1/26 indicators
+2026-03-01 10:37:54,607 [INFO]     ✓ Odisha | 698-9 | January | 1/26 indicators
+2026-03-01 10:37:56,751 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-1-merged-06655c978334dc4-15541391.pdf
+2026-03-01 10:38:00,524 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Trend-05-2024-merged-066758485788a70-05876975.pdf
+2026-03-01 10:38:02,647 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-06-24-merged-0669a68a4de5695-90736485.pdf
+2026-03-01 10:38:04,753 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-07-24-merged-066c493c5c8d127-47299017.pdf
+2026-03-01 10:38:06,872 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Trend-08-2024-merged-06777d683bf7293-13478228.pdf
+2026-03-01 10:38:09,096 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-09-merged-2-06777d6ab82bc13-83104791.pdf
+2026-03-01 10:38:11,250 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-10-2024-merged-06777d6c1c79416-09417900.pdf
+2026-03-01 10:38:13,527 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-11-2024-merged-06760283c688bc6-08792804.pdf
+2026-03-01 10:38:15,702 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-12-2024-merged-0678902ec91a282-46337400.pdf
+2026-03-01 10:38:17,844 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-2025-JAN-067c5afdc31f5a2-60104797.pdf
+2026-03-01 10:38:19,970 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-feb-24-25-067d813d1ec3972-75946638.pdf
+2026-03-01 10:38:22,022 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Trend-merged-0647736a7a15694-04743271.pdf
+2026-03-01 10:38:24,257 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Trends-merged-064a2c3a1829966-67236791.pdf
+2026-03-01 10:38:26,481 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-merged-064c25f48921829-97015883.pdf
+2026-03-01 10:38:28,682 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Trends-merged-1-064f07f96139072-66195519.pdf
+2026-03-01 10:38:31,369 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Trend-merged-1-06516c8f22a98e6-46383284.pdf
+2026-03-01 10:38:33,448 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Trend-9-2023-merged-0653a5725e35dd3-61440979.pdf
+2026-03-01 10:38:35,688 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Trend-10-2023-merged-065687ee549f706-66038141.pdf
+2026-03-01 10:38:37,901 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Trend-11-2023-merged-0658eb0edd8a139-18312686.pdf
+2026-03-01 10:38:40,138 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Trend-1-merged-065ba357d91dab9-50816723.pdf
+2026-03-01 10:38:42,286 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-merged-065e0807a1399e9-02491372.pdf
+2026-03-01 10:38:44,406 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-02-2024-merged-065fc3669a880d9-05723112.pdf
+2026-03-01 10:38:46,580 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-03-2024-merged-0663b0aa66251d1-61125209.pdf
+2026-03-01 10:38:48,747 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-may-062bad4c117c055-84861277.pdf
+2026-03-01 10:38:50,823 [INFO]     ✓ Odisha | 2022-23 | Sep | 1/26 indicators
+2026-03-01 10:38:53,025 [INFO]     ✓ Odisha | 2022-23 | Oct | 1/26 indicators
+2026-03-01 10:38:55,281 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Nov-22-063aaa9dd8411f8-23278332.pdf
+2026-03-01 10:38:57,495 [INFO]     ✓ Odisha | 2023-24 | Dec | 1/26 indicators
+2026-03-01 10:38:59,635 [INFO]     ✓ Odisha | 2022-23 | Jan | 1/26 indicators
+2026-03-01 10:39:01,830 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Trend-merged-06453a5472d5de8-34045357.pdf
+2026-03-01 10:39:03,969 [INFO]     ✓ Odisha | 2021-22 | April | 1/26 indicators
+2026-03-01 10:39:06,255 [INFO]     ✓ Odisha | 2021-22 | May | 1/26 indicators
+2026-03-01 10:39:08,523 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-june-hqr-06101241ce5d301-24217615.pdf
+2026-03-01 10:39:10,619 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-sept-hqr-061791e2f7e5b40-17433290.pdf
+2026-03-01 10:39:12,799 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-OCT-hqr-061a46dd1eb2943-47084772.pdf
+2026-03-01 10:39:14,917 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Hqr-062726f43186107-50592274.pdf
+2026-03-01 10:39:14,917 [INFO]   [Odisha] Done. 13 months parsed, 0 skipped
+2026-03-01 10:39:15,919 [INFO] ⏭  Punjab: no monthly CAG data — skipping
+2026-03-01 10:39:15,919 [INFO] 
+==================================================
+  Processing: Rajasthan
+==================================================
+2026-03-01 10:39:17,476 [INFO]   [Rajasthan] Found 62 MKI PDFs
+2026-03-01 10:39:20,161 [INFO]     ✓ Rajasthan | 2025-26 | April | 1/26 indicators
+2026-03-01 10:39:22,899 [INFO]     ✓ Rajasthan | 2025-26 | May | 1/26 indicators
+2026-03-01 10:39:25,582 [INFO]     ✓ Rajasthan | 2025-26 | June | 1/26 indicators
+2026-03-01 10:39:27,859 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-summary-1-merged-06899be4d6ef7c7-93832240.pdf
+2026-03-01 10:39:30,532 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-pdf-08-2025-068c28dc37eef75-43764077.pdf
+2026-03-01 10:39:33,009 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI09-2025-068e8e88fb47263-93539970.pdf
+2026-03-01 10:39:35,434 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-at-a-glance-merged-06932b8bb19c5b8-74961676.pdf
+2026-03-01 10:39:37,866 [INFO]     ✓ Rajasthan | 2025-26 | November | 1/26 indicators
+2026-03-01 10:39:40,342 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-December-merged-8-1-06965d78ff02843-00399646.pdf
+2026-03-01 10:39:42,893 [INFO]     ✓ Rajasthan | 2025-26 | January | 1/26 indicators
+2026-03-01 10:39:45,710 [INFO]     ✓ Rajasthan | 2024-25 | April | 24/26 indicators
+2026-03-01 10:39:48,544 [INFO]     ✓ Rajasthan | 2024-25 | May | 24/26 indicators
+2026-03-01 10:39:51,631 [INFO]     ✓ Rajasthan | 2024-25 | June | 24/26 indicators
+2026-03-01 10:39:54,566 [INFO]     ✓ Rajasthan | 2024-25 | June | 24/26 indicators
+2026-03-01 10:39:57,665 [INFO]     ✓ Rajasthan | 2024-25 | August | 24/26 indicators
+2026-03-01 10:40:00,603 [INFO]     ✓ Rajasthan | 2024-25 | September | 24/26 indicators
+2026-03-01 10:40:03,472 [INFO]     ✓ Rajasthan | 2024-25 | October | 24/26 indicators
+2026-03-01 10:40:06,640 [INFO]     ✓ Rajasthan | 2024-25 | November | 24/26 indicators
+2026-03-01 10:40:11,094 [INFO]     ✓ Rajasthan | 2024-25 | December | 0/26 indicators
+2026-03-01 10:40:13,679 [INFO]     ✓ Rajasthan | 2024-25 | January | 0/26 indicators
+2026-03-01 10:40:16,168 [INFO]     ✓ Rajasthan | 2024-25 | February | 1/26 indicators
+2026-03-01 10:40:18,493 [INFO]     ✓ Rajasthan | 2024-25 | March | 1/26 indicators
+2026-03-01 10:40:21,921 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-13-2025-0684a971bc60bd7-70594874.pdf
+2026-03-01 10:40:24,533 [INFO]     ✓ Rajasthan | 2023-24 | April | 24/26 indicators
+2026-03-01 10:40:27,626 [INFO]     ✓ Rajasthan | 2023-24 | May | 24/26 indicators
+2026-03-01 10:40:30,418 [INFO]     ✓ Rajasthan | 2023-24 | June | 24/26 indicators
+2026-03-01 10:40:32,964 [INFO]     ✓ Rajasthan | 2023-24 | July | 24/26 indicators
+2026-03-01 10:40:36,220 [INFO]     ✓ Rajasthan | 2023-24 | August | 24/26 indicators
+2026-03-01 10:40:38,678 [INFO]     ✓ Rajasthan | 2023-24 | September | 24/26 indicators
+2026-03-01 10:41:07,405 [INFO]     ✓ Rajasthan | 2023-24 | October | 24/26 indicators
+2026-03-01 10:41:13,739 [INFO]     ✓ Rajasthan | 2023-24 | November | 24/26 indicators
+2026-03-01 10:41:16,243 [INFO]     ✓ Rajasthan | 2023-24 | December | 24/26 indicators
+2026-03-01 10:41:19,051 [INFO]     ✓ Rajasthan | 2023-24 | January | 24/26 indicators
+2026-03-01 10:41:21,701 [INFO]     ✓ Rajasthan | 2023-24 | February | 24/26 indicators
+2026-03-01 10:41:24,350 [INFO]     ✓ Rajasthan | 2023-24 | March | 24/26 indicators
+2026-03-01 10:41:27,397 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-13-2024-0666937cc33eae3-51820424.pdf
+2026-03-01 10:41:29,949 [INFO]     ✓ Rajasthan | 2022-23 | April | 24/26 indicators
+2026-03-01 10:41:32,446 [INFO]     ✓ Rajasthan | 2022-23 | May | 24/26 indicators
+2026-03-01 10:41:34,906 [INFO]     ✓ Rajasthan | 2022-23 | June | 24/26 indicators
+2026-03-01 10:41:37,383 [INFO]     ✓ Rajasthan | 2022-23 | July | 24/26 indicators
+2026-03-01 10:41:39,942 [INFO]     ✓ Rajasthan | 2022-23 | August | 24/26 indicators
+2026-03-01 10:41:42,379 [INFO]     ✓ Rajasthan | 2022-23 | September | 24/26 indicators
+2026-03-01 10:41:44,795 [INFO]     ✓ Rajasthan | 2022-23 | October | 24/26 indicators
+2026-03-01 10:41:47,245 [INFO]     ✓ Rajasthan | 2022-23 | November | 24/26 indicators
+2026-03-01 10:41:50,957 [INFO]     ✓ Rajasthan | 2022-23 | December | 24/26 indicators
+2026-03-01 10:41:53,312 [INFO]     ✓ Rajasthan | 2022-23 | January | 24/26 indicators
+2026-03-01 10:41:55,768 [INFO]     ✓ Rajasthan | 2022-23 | February | 24/26 indicators
+2026-03-01 10:41:58,106 [INFO]     ✓ Rajasthan | 2022-23 | March | 24/26 indicators
+2026-03-01 10:42:01,159 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-13-2023-2-064873389afba65-37985072.pdf
+2026-03-01 10:42:03,551 [INFO]     ✓ Rajasthan | 2021-22 | April | 24/26 indicators
+2026-03-01 10:42:06,085 [INFO]     ✓ Rajasthan | 2021-22 | May | 24/26 indicators
+2026-03-01 10:42:08,749 [INFO]     ✓ Rajasthan | 2021-22 | June | 24/26 indicators
+2026-03-01 10:42:11,798 [INFO]     ✓ Rajasthan | 2021-22 | July | 24/26 indicators
+2026-03-01 10:42:14,936 [INFO]     ✓ Rajasthan | 2021-22 | August | 24/26 indicators
+2026-03-01 10:42:17,488 [INFO]     ✓ Rajasthan | 2021-22 | September | 24/26 indicators
+2026-03-01 10:42:20,068 [INFO]     ✓ Rajasthan | 2021-22 | October | 24/26 indicators
+2026-03-01 10:42:24,370 [INFO]     ✓ Rajasthan | 2021-22 | November | 24/26 indicators
+2026-03-01 10:42:27,531 [INFO]     ✓ Rajasthan | 2021-22 | December | 24/26 indicators
+2026-03-01 10:42:31,045 [INFO]     ✓ Rajasthan | 2021-22 | January | 24/26 indicators
+2026-03-01 10:42:33,670 [INFO]     ✓ Rajasthan | 2021-22 | February | 24/26 indicators
+2026-03-01 10:42:36,941 [INFO]     ✓ Rajasthan | 2021-22 | March | 24/26 indicators
+2026-03-01 10:42:39,436 [INFO]     ✓ Rajasthan | 2021-22 | March | 24/26 indicators
+2026-03-01 10:42:39,436 [INFO]   [Rajasthan] Done. 54 months parsed, 0 skipped
+2026-03-01 10:42:40,443 [INFO] 
+==================================================
+  Processing: Sikkim
+==================================================
+2026-03-01 10:42:41,567 [INFO]   [Sikkim] Found 60 MKI PDFs
+2026-03-01 10:42:44,530 [INFO]     ✓ Sikkim | 2025-26 | April | 6/26 indicators
+2026-03-01 10:42:46,881 [INFO]     ✓ Sikkim | 2025-26 | May | 6/26 indicators
+2026-03-01 10:42:50,173 [INFO]     ✓ Sikkim | 2025-26 | June | 6/26 indicators
+2026-03-01 10:42:53,165 [INFO]     ✓ Sikkim | 2025-26 | July | 6/26 indicators
+2026-03-01 10:42:55,638 [INFO]     ✓ Sikkim | 2025-26 | August | 6/26 indicators
+2026-03-01 10:42:58,063 [INFO]     ✓ Sikkim | 2025-26 | September | 6/26 indicators
+2026-03-01 10:43:00,557 [INFO]     ✓ Sikkim | 2025-26 | Oct | 6/26 indicators
+2026-03-01 10:43:03,011 [INFO]     ✓ Sikkim | 695-6 | Nov | 6/26 indicators
+2026-03-01 10:43:05,483 [INFO]     ✓ Sikkim | 2025-26 | Dec | 6/26 indicators
+2026-03-01 10:43:07,897 [INFO]     ✓ Sikkim | 2025-26 | Jan | 6/26 indicators
+2026-03-01 10:43:10,371 [INFO]     ✓ Sikkim | 2024-25 | April | 0/26 indicators
+2026-03-01 10:43:13,582 [INFO]     ✓ Sikkim | 2024-25 | May | 0/26 indicators
+2026-03-01 10:43:15,979 [INFO]     ✓ Sikkim | 2024-25 | June | 0/26 indicators
+2026-03-01 10:43:18,406 [INFO]     ✓ Sikkim | 2024-25 | July | 0/26 indicators
+2026-03-01 10:43:20,926 [INFO]     ✓ Sikkim | 2024-25 | August | 6/26 indicators
+2026-03-01 10:43:24,921 [INFO]     ✓ Sikkim | 2024-25 | September | 6/26 indicators
+2026-03-01 10:43:28,420 [INFO]     ✓ Sikkim | 2024-25 | October | 6/26 indicators
+2026-03-01 10:43:31,059 [INFO]     ✓ Sikkim | 2024-25 | November | 6/26 indicators
+2026-03-01 10:43:33,521 [INFO]     ✓ Sikkim | 2024-25 | December | 6/26 indicators
+2026-03-01 10:43:36,090 [INFO]     ✓ Sikkim | 2024-25 | January | 5/26 indicators
+2026-03-01 10:43:38,500 [INFO]     ✓ Sikkim | 2024-25 | February | 6/26 indicators
+2026-03-01 10:43:41,047 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-S-2025-0686617978c62a0-25649619.pdf
+2026-03-01 10:43:43,582 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-068231277d930f9-15789883.pdf
+2026-03-01 10:43:45,944 [INFO]     ✓ Sikkim | 2023-24 | April | 6/26 indicators
+2026-03-01 10:43:48,571 [INFO]     ✓ Sikkim | 2023-24 | May | 6/26 indicators
+2026-03-01 10:43:51,242 [INFO]     ✓ Sikkim | 2023-24 | June | 6/26 indicators
+2026-03-01 10:43:53,811 [INFO]     ✓ Sikkim | 2023-24 | July | 6/26 indicators
+2026-03-01 10:43:56,532 [INFO]     ✓ Sikkim | 2023-24 | August | 6/26 indicators
+2026-03-01 10:43:59,019 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Sept-2023-06538a4680cd253-20729422.pdf
+2026-03-01 10:44:01,504 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-OCT-23-06566fbed1af6c1-35242751.pdf
+2026-03-01 10:44:04,158 [INFO]     ✓ Sikkim | 2023-24 | Nov | 6/26 indicators
+2026-03-01 10:44:07,060 [INFO]     ✓ Sikkim | 2023-24 | Dec | 6/26 indicators
+2026-03-01 10:44:09,583 [INFO]     ✓ Sikkim | 2023-24 | Jan | 6/26 indicators
+2026-03-01 10:44:12,140 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FEB24-0660294c12269f8-30252725.pdf
+2026-03-01 10:44:15,326 [INFO]     ✓ Sikkim | 2023-24 | March | 6/26 indicators
+2026-03-01 10:44:18,058 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MAR-S-24-06683c9829cd071-06090838.pdf
+2026-03-01 10:44:20,515 [INFO]     ✓ Sikkim | 2022-23 | April | 5/26 indicators
+2026-03-01 10:44:22,912 [INFO]     ✓ Sikkim | 2022-23 | May | 6/26 indicators
+2026-03-01 10:44:25,205 [INFO]     ✓ Sikkim | 2022-23 | June | 6/26 indicators
+2026-03-01 10:44:27,628 [INFO]     ✓ Sikkim | 2022-23 | July | 6/26 indicators
+2026-03-01 10:44:29,931 [INFO]     ✓ Sikkim | 2022-23 | Aug | 6/26 indicators
+2026-03-01 10:44:32,324 [INFO]     ✓ Sikkim | 2022-23 | Sep | 6/26 indicators
+2026-03-01 10:44:34,631 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-NOV-063cfa39e8d3531-58048109.pdf
+2026-03-01 10:44:36,915 [INFO]     ✓ Sikkim | 2022-23 | Dec | 6/26 indicators
+2026-03-01 10:44:39,270 [INFO]     ✓ Sikkim | 2022-23 | January | 6/26 indicators
+2026-03-01 10:44:41,586 [INFO]     ✓ Sikkim | 641-2 | Feb | 6/26 indicators
+2026-03-01 10:44:43,895 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2023-0645cc0430cac36-25897688.pdf
+2026-03-01 10:44:46,428 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2023-064a65bc52bf6c1-67609246.pdf
+2026-03-01 10:44:48,864 [INFO]     ✓ Sikkim | 2021-22 | April | 5/26 indicators
+2026-03-01 10:44:51,324 [INFO]     ✓ Sikkim | 2021-22 | May | 5/26 indicators
+2026-03-01 10:44:53,850 [INFO]     ✓ Sikkim | 2021-22 | June | 5/26 indicators
+2026-03-01 10:44:56,480 [INFO]     ✓ Sikkim | 2021-22 | July | 5/26 indicators
+2026-03-01 10:44:59,259 [INFO]     ✓ Sikkim | 2021-22 | August | 5/26 indicators
+2026-03-01 10:45:01,770 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Sept-2021-06188e9f69c80a2-74895750.pdf
+2026-03-01 10:45:04,197 [INFO]     ✓ Sikkim | 2021-22 | Oct | 5/26 indicators
+2026-03-01 10:45:06,666 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-NOV-21-061c4099d843196-23230648.pdf
+2026-03-01 10:45:09,103 [INFO]     ✓ Sikkim | 2021-22 | December | 5/26 indicators
+2026-03-01 10:45:11,417 [INFO]     ✓ Sikkim | 2021-22 | Jan | 5/26 indicators
+2026-03-01 10:45:14,039 [INFO]     ✓ Sikkim | 2021-22 | Feb | 5/26 indicators
+2026-03-01 10:45:16,408 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2022-062c7b1febf2b13-44344674.pdf
+2026-03-01 10:45:16,408 [INFO]   [Sikkim] Done. 48 months parsed, 0 skipped
+2026-03-01 10:45:17,423 [INFO] 
+==================================================
+  Processing: Tamil Nadu
+==================================================
+2026-03-01 10:45:18,945 [INFO]   [Tamil Nadu] Found 21 MKI PDFs
+2026-03-01 10:45:21,364 [INFO]     ✓ Tamil Nadu | 2025-26 | May | 13/26 indicators
+2026-03-01 10:45:23,858 [INFO]     ✓ Tamil Nadu | 2025-26 | June | 13/26 indicators
+2026-03-01 10:45:26,618 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-july-25-upld-068a7050acac430-65757932.pdf
+2026-03-01 10:45:28,771 [INFO]     ✓ Tamil Nadu | 2025-26 | Aug | 13/26 indicators
+2026-03-01 10:45:30,891 [INFO]     ✓ Tamil Nadu | 2025-26 | Sep | 13/26 indicators
+2026-03-01 10:45:33,418 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-OCT-25-0691db262c26bd7-32604773.pdf
+2026-03-01 10:45:35,975 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-november-25-mrgd-final-069453f40876252-25236706.pdf
+2026-03-01 10:45:39,375 [INFO]     ✓ Tamil Nadu | 2025-26 | December | 13/26 indicators
+2026-03-01 10:45:43,402 [INFO]     ✓ Tamil Nadu | 2025-26 | Jan | 13/26 indicators
+2026-03-01 10:45:45,746 [INFO]     ✓ Tamil Nadu | 2024-25 | April | 13/26 indicators
+2026-03-01 10:45:47,978 [INFO]     ✓ Tamil Nadu | 2024-25 | May | 13/26 indicators
+2026-03-01 10:45:50,346 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JUNE-r-2024-066d1b845912b29-53280508.pdf
+2026-03-01 10:45:53,023 [INFO]     ✓ Tamil Nadu | 2024-25 | July | 13/26 indicators
+2026-03-01 10:45:55,431 [INFO]     ✓ Tamil Nadu | 2024-25 | August | 13/26 indicators
+2026-03-01 10:45:57,877 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-OCT-24-MRGD-067499eac9e24b0-33403823.pdf
+2026-03-01 10:46:00,302 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-NOV-24-MKI-MRGD-0676406d2bad255-41809204.pdf
+2026-03-01 10:46:02,962 [INFO]     ✓ Tamil Nadu | 2024-25 | Dec | 13/26 indicators
+2026-03-01 10:46:05,290 [INFO]     ✓ Tamil Nadu | 2024-25 | January | 13/26 indicators
+2026-03-01 10:46:07,832 [INFO]     ✓ Tamil Nadu | 2024-25 | February | 13/26 indicators
+2026-03-01 10:46:10,718 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Merged-MKI-March-P-2025-06826d55ea262f1-19597375.pdf
+2026-03-01 10:46:13,270 [INFO]     ✓ Tamil Nadu | 2022-23 | November | 6/26 indicators
+2026-03-01 10:46:13,271 [INFO]   [Tamil Nadu] Done. 14 months parsed, 0 skipped
+2026-03-01 10:46:14,278 [INFO] 
+==================================================
+  Processing: Telangana
+==================================================
+2026-03-01 10:46:15,715 [INFO]   [Telangana] Found 56 MKI PDFs
+2026-03-01 10:46:18,475 [INFO]     ✓ Telangana | 2025-26 | April | 0/26 indicators
+2026-03-01 10:46:21,155 [INFO]     ✓ Telangana | 2025-26 | May | 0/26 indicators
+2026-03-01 10:46:23,703 [INFO]     ✓ Telangana | 2025-26 | June | 0/26 indicators
+2026-03-01 10:46:26,456 [INFO]     ✓ Telangana | 2025-26 | July | 0/26 indicators
+2026-03-01 10:46:29,180 [INFO]     ✓ Telangana | 2025-26 | August | 0/26 indicators
+2026-03-01 10:46:31,677 [INFO]     ✓ Telangana | 2025-26 | September | 0/26 indicators
+2026-03-01 10:46:34,477 [INFO]     ✓ Telangana | 2025-26 | October | 0/26 indicators
+2026-03-01 10:46:37,247 [INFO]     ✓ Telangana | 2025-26 | November | 3/26 indicators
+2026-03-01 10:46:40,292 [INFO]     ✓ Telangana | 2025-26 | December | 3/26 indicators
+2026-03-01 10:46:42,646 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-January-combined-2026-Final-06993099ff28c44-44224783.pdf
+2026-03-01 10:46:45,275 [INFO]     ✓ Telangana | 2024-25 | April | 0/26 indicators
+2026-03-01 10:46:47,906 [INFO]     ✓ Telangana | 2024-25 | May | 0/26 indicators
+2026-03-01 10:46:50,831 [INFO]     ✓ Telangana | 2024-25 | June | 0/26 indicators
+2026-03-01 10:46:53,803 [INFO]     ✓ Telangana | 2024-25 | July | 0/26 indicators
+2026-03-01 10:46:56,577 [INFO]     ✓ Telangana | 2024-25 | August | 0/26 indicators
+2026-03-01 10:46:59,447 [INFO]     ✓ Telangana | 2024-25 | September | 0/26 indicators
+2026-03-01 10:47:02,178 [INFO]     ✓ Telangana | 2024-25 | October | 0/26 indicators
+2026-03-01 10:47:04,930 [INFO]     ✓ Telangana | 2024-25 | November | 0/26 indicators
+2026-03-01 10:47:07,803 [INFO]     ✓ Telangana | 2024-25 | December | 0/26 indicators
+2026-03-01 10:47:10,562 [INFO]     ✓ Telangana | 2024-25 | January | 0/26 indicators
+2026-03-01 10:47:13,346 [INFO]     ✓ Telangana | 2024-25 | February | 0/26 indicators
+2026-03-01 10:47:16,132 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-P-2025-06826ef930e1de8-34710562.pdf
+2026-03-01 10:47:19,013 [INFO]     ✓ Telangana | 2023-24 | April | 0/26 indicators
+2026-03-01 10:47:21,584 [INFO]     ✓ Telangana | 2023-24 | May | 0/26 indicators
+2026-03-01 10:47:24,346 [INFO]     ✓ Telangana | 2023-24 | June | 0/26 indicators
+2026-03-01 10:47:27,014 [INFO]     ✓ Telangana | 2023-24 | July | 0/26 indicators
+2026-03-01 10:47:29,410 [INFO]     ✓ Telangana | 2023-24 | August | 0/26 indicators
+2026-03-01 10:47:31,708 [INFO]     ✓ Telangana | 2023-24 | September | 0/26 indicators
+2026-03-01 10:47:34,087 [INFO]     ✓ Telangana | 2023-24 | October | 0/26 indicators
+2026-03-01 10:47:36,473 [INFO]     ✓ Telangana | 2023-24 | November | 0/26 indicators
+2026-03-01 10:47:39,089 [INFO]     ✓ Telangana | 2023-24 | December | 0/26 indicators
+2026-03-01 10:47:41,475 [INFO]     ✓ Telangana | 2023-24 | January | 0/26 indicators
+2026-03-01 10:47:43,856 [INFO]     ✓ Telangana | 2023-24 | February | 0/26 indicators
+2026-03-01 10:47:46,422 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-P-2024-revised-0666ae33ccdf242-09690173.pdf
+2026-03-01 10:47:48,847 [INFO]     ✓ Telangana | 2022-23 | April | 0/26 indicators
+2026-03-01 10:47:51,190 [INFO]     ✓ Telangana | 2022-23 | May | 0/26 indicators
+2026-03-01 10:47:53,635 [INFO]     ✓ Telangana | 2022-23 | June | 0/26 indicators
+2026-03-01 10:47:56,320 [INFO]     ✓ Telangana | 2022-23 | July | 0/26 indicators
+2026-03-01 10:47:58,997 [INFO]     ✓ Telangana | 2022-23 | August | 0/26 indicators
+2026-03-01 10:48:01,441 [INFO]     ✓ Telangana | 2022-23 | October | 0/26 indicators
+2026-03-01 10:48:03,848 [INFO]     ✓ Telangana | 2022-23 | November | 0/26 indicators
+2026-03-01 10:48:06,287 [INFO]     ✓ Telangana | 2022-23 | December | 0/26 indicators
+2026-03-01 10:48:08,988 [INFO]     ✓ Telangana | 2022-23 | January | 0/26 indicators
+2026-03-01 10:48:11,384 [INFO]     ✓ Telangana | 2022-23 | February | 0/26 indicators
+2026-03-01 10:48:13,958 [INFO]     ✓ Telangana | 2022-23 | Mar | 0/26 indicators
+2026-03-01 10:48:16,413 [INFO]     ✓ Telangana | 2021-22 | April | 0/26 indicators
+2026-03-01 10:48:18,713 [INFO]     ✓ Telangana | 2021-22 | May | 0/26 indicators
+2026-03-01 10:48:20,983 [INFO]     ✓ Telangana | 2021-22 | June | 0/26 indicators
+2026-03-01 10:48:23,410 [INFO]     ✓ Telangana | 2021-22 | August | 0/26 indicators
+2026-03-01 10:48:25,929 [INFO]     ✓ Telangana | 2021-22 | September | 0/26 indicators
+2026-03-01 10:48:28,443 [INFO]     ✓ Telangana | 2021-22 | October | 0/26 indicators
+2026-03-01 10:48:30,879 [INFO]     ✓ Telangana | 2021-22 | November | 0/26 indicators
+2026-03-01 10:48:33,215 [INFO]     ✓ Telangana | 2021-22 | December | 0/26 indicators
+2026-03-01 10:48:35,773 [INFO]     ✓ Telangana | 2021-22 | January | 0/26 indicators
+2026-03-01 10:48:38,223 [INFO]     ✓ Telangana | 2021-22 | February | 0/26 indicators
+2026-03-01 10:48:40,538 [INFO]     ✓ Telangana | 2021-22 | March | 0/26 indicators
+2026-03-01 10:48:40,538 [INFO]   [Telangana] Done. 53 months parsed, 0 skipped
+2026-03-01 10:48:41,551 [INFO] 
+==================================================
+  Processing: Tripura
+==================================================
+2026-03-01 10:48:42,603 [INFO]   [Tripura] Found 53 MKI PDFs
+2026-03-01 10:48:44,830 [INFO]     ✓ Tripura | 2025-26 | April | 13/26 indicators
+2026-03-01 10:48:47,276 [INFO]     ✓ Tripura | 2025-26 | May | 13/26 indicators
+2026-03-01 10:48:49,604 [INFO]     ✓ Tripura | 2025-26 | June | 13/26 indicators
+2026-03-01 10:48:51,808 [INFO]     ✓ Tripura | 2025-26 | July | 13/26 indicators
+2026-03-01 10:48:54,200 [INFO]     ✓ Tripura | 2025-26 | August | 13/26 indicators
+2026-03-01 10:48:56,402 [INFO]     ✓ Tripura | 2025-26 | September | 13/26 indicators
+2026-03-01 10:48:58,490 [INFO]     ✓ Tripura | 2025-26 | October | 13/26 indicators
+2026-03-01 10:49:00,854 [INFO]     ✓ Tripura | 2025-26 | November | 13/26 indicators
+2026-03-01 10:49:03,122 [INFO]     ✓ Tripura | 2025-26 | December | 13/26 indicators
+2026-03-01 10:49:05,407 [INFO]     ✓ Tripura | 2025-26 | January | 13/26 indicators
+2026-03-01 10:49:08,041 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2024-0664c97556e4830-56661910.pdf
+2026-03-01 10:49:10,352 [INFO]     ✓ Tripura | 2024-25 | May | 13/26 indicators
+2026-03-01 10:49:12,668 [INFO]     ✓ Tripura | 2024-25 | June | 13/26 indicators
+2026-03-01 10:49:15,080 [INFO]     ✓ Tripura | 2024-25 | July | 13/26 indicators
+2026-03-01 10:49:17,483 [INFO]     ✓ Tripura | 2024-25 | August | 13/26 indicators
+2026-03-01 10:49:19,771 [INFO]     ✓ Tripura | 2024-25 | September | 13/26 indicators
+2026-03-01 10:49:22,004 [INFO]     ✓ Tripura | 2024-25 | October | 13/26 indicators
+2026-03-01 10:49:24,293 [INFO]     ✓ Tripura | 2024-25 | November | 13/26 indicators
+2026-03-01 10:49:26,509 [INFO]     ✓ Tripura | 2024-25 | December | 13/26 indicators
+2026-03-01 10:49:28,712 [INFO]     ✓ Tripura | 2024-25 | January | 13/26 indicators
+2026-03-01 10:49:31,175 [INFO]     ✓ Tripura | 2024-25 | February | 13/26 indicators
+2026-03-01 10:49:33,425 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-2025-068666e40deb430-32981145.pdf
+2026-03-01 10:49:35,698 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2025-068121088245974-69421861.pdf
+2026-03-01 10:49:39,816 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-23-0646d9933ab1b49-83395390.pdf
+2026-03-01 10:49:42,394 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-7-2023-064e89eec341f80-47293479.pdf
+2026-03-01 10:49:44,587 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-August-2023-0651276232f5e87-37007432.pdf
+2026-03-01 10:49:46,818 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-9-2023-0653119d94ab136-19921107.pdf
+2026-03-01 10:49:48,991 [INFO]     ✓ Tripura | 2023-24 | October | 13/26 indicators
+2026-03-01 10:49:51,516 [INFO]     ✓ Tripura | 2023-24 | November | 13/26 indicators
+2026-03-01 10:49:53,667 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-DEC-2023-065a8c1aaa06403-70615739.pdf
+2026-03-01 10:49:56,077 [INFO]     ✓ Tripura | 2023-24 | January | 13/26 indicators
+2026-03-01 10:49:58,662 [INFO]     ✓ Tripura | 2023-24 | February | 13/26 indicators
+2026-03-01 10:50:01,063 [INFO]     ✓ Tripura | 2023-24 | March | 13/26 indicators
+2026-03-01 10:50:03,483 [INFO]     ✓ Tripura | 2023-24 | March | 13/26 indicators
+2026-03-01 10:50:06,193 [INFO]     ✓ Tripura | 2022-23 | April | 16/26 indicators
+2026-03-01 10:50:08,477 [INFO]     ✓ Tripura | 2022-23 | May | 16/26 indicators
+2026-03-01 10:50:10,734 [INFO]     ✓ Tripura | 2022-23 | June | 16/26 indicators
+2026-03-01 10:50:12,997 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July-22-0630f288ce98ff2-91197782.pdf
+2026-03-01 10:50:14,961 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Dec-2022-063c92343b44ca5-46115194.pdf
+2026-03-01 10:50:17,341 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-23-0644f5b51097e02-76407562.pdf
+2026-03-01 10:50:19,434 [INFO]     ✓ Tripura | 2021-22 | April | 16/26 indicators
+2026-03-01 10:50:21,739 [INFO]     ✓ Tripura | 2021-22 | May | 16/26 indicators
+2026-03-01 10:50:23,924 [INFO]     ✓ Tripura | 2021-22 | June | 16/26 indicators
+2026-03-01 10:50:26,201 [INFO]     ✓ Tripura | 2021-22 | July | 16/26 indicators
+2026-03-01 10:50:28,425 [INFO]     ✓ Tripura | 2021-22 | August | 16/26 indicators
+2026-03-01 10:50:30,660 [INFO]     ✓ Tripura | 2021-22 | September | 16/26 indicators
+2026-03-01 10:50:32,812 [INFO]     ✓ Tripura | 2021-22 | October | 16/26 indicators
+2026-03-01 10:50:34,930 [INFO]     ✓ Tripura | 2021-22 | November | 16/26 indicators
+2026-03-01 10:50:37,214 [INFO]     ✓ Tripura | 2021-22 | December | 16/26 indicators
+2026-03-01 10:50:39,417 [INFO]     ✓ Tripura | 2021-22 | January | 16/26 indicators
+2026-03-01 10:50:41,593 [INFO]     ✓ Tripura | 2021-22 | February | 16/26 indicators
+2026-03-01 10:50:43,774 [INFO]     ✓ Tripura | 2021-22 | March | 16/26 indicators
+2026-03-01 10:50:46,119 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-14-MKI-March-Sy-2022-062c543243c6b56-07939265.pdf
+2026-03-01 10:50:46,120 [INFO]   [Tripura] Done. 41 months parsed, 0 skipped
+2026-03-01 10:50:47,125 [INFO] 
+==================================================
+  Processing: Uttar Pradesh
+==================================================
+2026-03-01 10:50:48,819 [INFO]   [Uttar Pradesh] Found 12 MKI PDFs
+2026-03-01 10:50:51,579 [INFO]     ✓ Uttar Pradesh | 2025-26 | July | 14/26 indicators
+2026-03-01 10:50:53,923 [INFO]     ✓ Uttar Pradesh | 2025-26 | August | 14/26 indicators
+2026-03-01 10:50:56,781 [INFO]     ✓ Uttar Pradesh | 2025-26 | September | 14/26 indicators
+2026-03-01 10:50:59,182 [INFO]     ✓ Uttar Pradesh | 2025-26 | October | 14/26 indicators
+2026-03-01 10:51:01,629 [INFO]     ✓ Uttar Pradesh | 2025-26 | November | 14/26 indicators
+2026-03-01 10:51:04,257 [INFO]     ✓ Uttar Pradesh | 2025-26 | December | 14/26 indicators
+2026-03-01 10:51:06,653 [INFO]     ✓ Uttar Pradesh | 2024-25 | April | 2/26 indicators
+2026-03-01 10:51:09,137 [INFO]     ✓ Uttar Pradesh | 2024-25 | August | 14/26 indicators
+2026-03-01 10:51:11,831 [INFO]     ✓ Uttar Pradesh | 2024-25 | Dec | 14/26 indicators
+2026-03-01 10:51:14,560 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-account-report-MKI-March-pre2025-06895e89e502f35-47338196.pdf
+2026-03-01 10:51:17,084 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Revised-MKI-Sup2025-069a134d9685f14-90388484.pdf
+2026-03-01 10:51:19,655 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-sy-2024-19-09-2024-066ed2a8543f7b2-59941864.pdf
+2026-03-01 10:51:19,655 [INFO]   [Uttar Pradesh] Done. 9 months parsed, 0 skipped
+2026-03-01 10:51:20,662 [INFO] 
+==================================================
+  Processing: Uttarakhand
+==================================================
+2026-03-01 10:51:22,268 [INFO]   [Uttarakhand] Found 6 MKI PDFs
+2026-03-01 10:51:25,026 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-APR-2025-0682c15bd5477d3-71258584.pdf
+2026-03-01 10:51:27,604 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JULY-2025-068a31ba287b0a8-21163839.pdf
+2026-03-01 10:51:31,549 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-nov-25-06948cddb06ace5-80204039.pdf
+2026-03-01 10:51:34,642 [INFO]     ✓ Uttarakhand | 2025-26 | January | 12/26 indicators
+2026-03-01 10:51:37,745 [INFO]     ✓ Uttarakhand | 2024-25 | February | 12/26 indicators
+2026-03-01 10:51:40,828 [INFO]     ✓ Uttarakhand | 2023-24 | June | 22/26 indicators
+2026-03-01 10:51:40,829 [INFO]   [Uttarakhand] Done. 3 months parsed, 0 skipped
+2026-03-01 10:51:41,832 [INFO] 
+==================================================
+  Processing: West Bengal
+==================================================
+2026-03-01 10:51:43,777 [INFO]   [West Bengal] Found 57 MKI PDFs
+2026-03-01 10:51:46,306 [INFO]     ✓ West Bengal | 2025-26 | January | 16/26 indicators
+2026-03-01 10:51:48,471 [INFO]     ✓ West Bengal | 2025-26 | April | 16/26 indicators
+2026-03-01 10:51:50,978 [INFO]     ✓ West Bengal | 2025-26 | May | 16/26 indicators
+2026-03-01 10:51:53,285 [INFO]     ✓ West Bengal | 2025-26 | June | 16/26 indicators
+2026-03-01 10:51:55,699 [INFO]     ✓ West Bengal | 2025-26 | August | 16/26 indicators
+2026-03-01 10:51:57,802 [INFO]     ✓ West Bengal | 2025-26 | September | 16/26 indicators
+2026-03-01 10:51:59,927 [INFO]     ✓ West Bengal | 2025-26 | October | 16/26 indicators
+2026-03-01 10:52:02,436 [INFO]     ✓ West Bengal | 2025-26 | November | 16/26 indicators
+2026-03-01 10:52:04,537 [INFO]     ✓ West Bengal | 2024-25 | April | 16/26 indicators
+2026-03-01 10:52:06,732 [INFO]     ✓ West Bengal | 2024-25 | May | 16/26 indicators
+2026-03-01 10:52:08,915 [INFO]     ✓ West Bengal | 2024-25 | June | 16/26 indicators
+2026-03-01 10:52:11,182 [INFO]     ✓ West Bengal | 2024-25 | July | 16/26 indicators
+2026-03-01 10:52:13,429 [INFO]     ✓ West Bengal | 2024-25 | August | 16/26 indicators
+2026-03-01 10:52:15,808 [INFO]     ✓ West Bengal | 2024-25 | September | 16/26 indicators
+2026-03-01 10:52:17,968 [INFO]     ✓ West Bengal | 2024-25 | October | 16/26 indicators
+2026-03-01 10:52:20,512 [INFO]     ✓ West Bengal | 2024-25 | November | 16/26 indicators
+2026-03-01 10:52:22,674 [INFO]     ✓ West Bengal | 2024-25 | January | 16/26 indicators
+2026-03-01 10:52:24,859 [INFO]     ✓ West Bengal | 2024-25 | February | 16/26 indicators
+2026-03-01 10:52:27,128 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FOR-MARCH-SY-2025-0686d3f37180546-68931347.pdf
+2026-03-01 10:52:29,396 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MARCH-PRE-MKI-Details-24-25-0682ebe3b0cf9d6-80981029.pdf
+2026-03-01 10:52:31,555 [INFO]     ✓ West Bengal | 2023-24 | April | 15/26 indicators
+2026-03-01 10:52:33,775 [INFO]     ✓ West Bengal | 2023-24 | June | 15/26 indicators
+2026-03-01 10:52:35,898 [INFO]     ✓ West Bengal | 2023-24 | July | 15/26 indicators
+2026-03-01 10:52:38,082 [INFO]     ✓ West Bengal | 2023-24 | August | 15/26 indicators
+2026-03-01 10:52:40,386 [INFO]     ✓ West Bengal | 2023-24 | September | 16/26 indicators
+2026-03-01 10:52:42,595 [INFO]     ✓ West Bengal | 2023-24 | November | 16/26 indicators
+2026-03-01 10:52:44,976 [INFO]     ✓ West Bengal | 2023-24 | December | 16/26 indicators
+2026-03-01 10:52:47,205 [INFO]     ✓ West Bengal | 2023-24 | January | 16/26 indicators
+2026-03-01 10:52:49,370 [INFO]     ✓ West Bengal | 2023-24 | February | 16/26 indicators
+2026-03-01 10:52:51,469 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MARCH-MKI-MARCH-SY-Details-23-24-066869b43692401-31602205.pdf
+2026-03-01 10:52:53,703 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MARCH-MKI-Details-23-24-06644454b0dc1a6-15871572.pdf
+2026-03-01 10:53:13,544 [INFO]     ✓ West Bengal | 2022-23 | April | 16/26 indicators
+2026-03-01 10:53:15,729 [INFO]     ✓ West Bengal | 2022-23 | May | 15/26 indicators
+2026-03-01 10:53:17,848 [INFO]     ✓ West Bengal | 2022-23 | June | 15/26 indicators
+2026-03-01 10:53:19,995 [INFO]     ✓ West Bengal | 2022-23 | July | 15/26 indicators
+2026-03-01 10:53:22,229 [INFO]     ✓ West Bengal | 2022-23 | August | 15/26 indicators
+2026-03-01 10:53:24,391 [INFO]     ✓ West Bengal | 2022-23 | September | 15/26 indicators
+2026-03-01 10:53:26,497 [INFO]     ✓ West Bengal | 2022-23 | October | 15/26 indicators
+2026-03-01 10:53:28,613 [INFO]     ✓ West Bengal | 2022-23 | November | 15/26 indicators
+2026-03-01 10:53:30,720 [INFO]     ✓ West Bengal | 2022-23 | December | 15/26 indicators
+2026-03-01 10:53:32,902 [INFO]     ✓ West Bengal | 2022-23 | January | 15/26 indicators
+2026-03-01 10:53:35,018 [INFO]     ✓ West Bengal | 2022-23 | February | 16/26 indicators
+2026-03-01 10:53:37,053 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-SY-2022-2023-064b13b2048b040-12659926.pdf
+2026-03-01 10:53:39,303 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-23-0645e2cfae040d4-97655987.pdf
+2026-03-01 10:53:41,614 [INFO]     ✓ West Bengal | 2021-22 | April | 15/26 indicators
+2026-03-01 10:53:43,962 [INFO]     ✓ West Bengal | 2021-22 | May | 16/26 indicators
+2026-03-01 10:53:46,214 [INFO]     ✓ West Bengal | 2021-22 | June | 15/26 indicators
+2026-03-01 10:53:48,571 [INFO]     ✓ West Bengal | 2021-22 | July | 15/26 indicators
+2026-03-01 10:53:50,951 [INFO]     ✓ West Bengal | 2021-22 | August | 16/26 indicators
+2026-03-01 10:53:53,239 [INFO]     ✓ West Bengal | 2021-22 | September | 16/26 indicators
+2026-03-01 10:53:56,328 [INFO]     ✓ West Bengal | 2021-22 | October | 16/26 indicators
+2026-03-01 10:53:58,584 [INFO]     ✓ West Bengal | 2021-22 | November | 16/26 indicators
+2026-03-01 10:54:00,840 [INFO]     ✓ West Bengal | 2021-22 | December | 16/26 indicators
+2026-03-01 10:54:03,051 [INFO]     ✓ West Bengal | 2021-22 | January | 16/26 indicators
+2026-03-01 10:54:05,618 [INFO]     ✓ West Bengal | 2021-22 | February | 16/26 indicators
+2026-03-01 10:54:07,960 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-Sy-22-062cd4a32c90349-02728204.pdf
+2026-03-01 10:54:12,988 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-P-2022-0627e47d51c9308-09111355.pdf
+2026-03-01 10:54:12,988 [INFO]   [West Bengal] Done. 49 months parsed, 0 skipped
+2026-03-01 10:54:14,496 [INFO] Saved 25194 rows to master CSV
+2026-03-01 10:54:14,530 [INFO] 
+Completeness Scores:
+2026-03-01 10:54:14,530 [INFO]   Chhattisgarh                93.0%
+2026-03-01 10:54:14,530 [INFO]   Bihar                       92.3%
+2026-03-01 10:54:14,530 [INFO]   Jharkhand                   85.2%
+2026-03-01 10:54:14,530 [INFO]   Meghalaya                   81.6%
+2026-03-01 10:54:14,530 [INFO]   Rajasthan                   77.4%
+2026-03-01 10:54:14,530 [INFO]   West Bengal                 60.3%
+2026-03-01 10:54:14,530 [INFO]   Nagaland                    59.8%
+2026-03-01 10:54:14,530 [INFO]   Maharashtra                 59.2%
+2026-03-01 10:54:14,530 [INFO]   Uttarakhand                 59.0%
+2026-03-01 10:54:14,530 [INFO]   Gujarat                     57.5%
+2026-03-01 10:54:14,530 [INFO]   Haryana                     56.5%
+2026-03-01 10:54:14,530 [INFO]   Himachal Pradesh            55.4%
+2026-03-01 10:54:14,530 [INFO]   Tripura                     54.2%
+2026-03-01 10:54:14,530 [INFO]   Assam                       53.8%
+2026-03-01 10:54:14,530 [INFO]   Uttar Pradesh               48.7%
+2026-03-01 10:54:14,530 [INFO]   Tamil Nadu                  48.1%
+2026-03-01 10:54:14,530 [INFO]   Manipur                     47.2%
+2026-03-01 10:54:14,530 [INFO]   Arunachal Pradesh           46.2%
+2026-03-01 10:54:14,530 [INFO]   Karnataka                   38.6%
+2026-03-01 10:54:14,530 [INFO]   Kerala                      35.7%
+2026-03-01 10:54:14,530 [INFO]   Sikkim                      20.3%
+2026-03-01 10:54:14,530 [INFO]   Odisha                       3.8%
+2026-03-01 10:54:14,530 [INFO]   Telangana                    0.4%
+2026-03-01 10:54:14,530 [INFO]   Andhra Pradesh               0.0%
+2026-03-01 10:54:14,530 [INFO]   Mizoram                      0.0%
+2026-03-01 10:54:44,111 [INFO] Office Excel saved: outputs/CAG_Monthly_Key_Indicators_Office.xlsx
+2026-03-01 10:54:44,111 [INFO] 
+✅ Pipeline complete. Processed 25 states.

@@ -1,0 +1,81 @@
+name: Fiscal Pulse — Monthly Data Update
+
+on:
+  schedule:
+    # Runs on 25th of every month at 06:00 UTC (11:30 AM IST)
+    - cron: '0 6 25 * *'
+  workflow_dispatch:   # Allow manual trigger from GitHub UI
+    inputs:
+      mode:
+        description: 'Pipeline mode'
+        required: true
+        default: 'update'
+        type: choice
+        options:
+          - update
+          - historical
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Needed to push updated CSVs
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: 🏃 Run pipeline
+        run: |
+          MODE="${{ github.event.inputs.mode || 'update' }}"
+          echo "Running pipeline in mode: $MODE"
+          python pipeline.py --mode $MODE
+        env:
+          PYTHONPATH: .
+
+      - name: 📊 Check output
+        run: |
+          echo "=== Data files generated ==="
+          ls -lh data/
+          echo ""
+          echo "=== Master CSV preview ==="
+          head -5 data/master.csv 2>/dev/null || echo "No master CSV yet"
+          echo ""
+          echo "=== Pipeline log (last 30 lines) ==="
+          tail -30 data/pipeline.log 2>/dev/null || echo "No log yet"
+
+      - name: 💾 Commit and push updated data
+        run: |
+          git config --local user.email "fiscal-pulse-bot@github.com"
+          git config --local user.name "Fiscal Pulse Bot"
+          git add data/
+          git add inputs/manual_overrides.csv 2>/dev/null || true
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            TIMESTAMP=$(date '+%d %b %Y')
+            git commit -m "📊 Data update: ${TIMESTAMP}"
+            git push
+            echo "✅ Data pushed successfully"
+          fi
+
+      - name: 📬 Summary
+        if: always()
+        run: |
+          echo "Pipeline completed at $(date)"
+          if [ -f data/metadata.json ]; then
+            cat data/metadata.json
+          fi
