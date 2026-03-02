@@ -1,0 +1,166 @@
+2026-03-01 23:13:41,756 [INFO] 
+[AUDIT] Andhra Pradesh
+2026-03-01 23:13:43,528 [INFO]   [Andhra Pradesh] Found 45 MKI PDFs
+2026-03-01 23:13:43,528 [INFO]   Latest PDF: http://www.agaeapts.gov.in/MKIV/mkiV_Jul20.html
+2026-03-01 23:13:44,788 [ERROR] PDF text extraction error: No /Root object! - Is this really a PDF?
+2026-03-01 23:13:44,788 [WARNING]   [Andhra Pradesh] Text extraction failed
+2026-03-01 23:13:46,295 [INFO] 
+[AUDIT] Arunachal Pradesh
+2026-03-01 23:13:47,430 [INFO]   [Arunachal Pradesh] Found 61 MKI PDFs
+2026-03-01 23:13:47,430 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2025-0685bddd75b22e5-73143333.pdf
+2026-03-01 23:13:48,249 [INFO]   Extracted 2409 chars raw, 2409 chars normalized
+2026-03-01 23:13:48,257 [INFO]   72/104 fields match
+2026-03-01 23:13:49,761 [INFO] 
+[AUDIT] Assam
+2026-03-01 23:13:51,398 [INFO]   [Assam] Found 52 MKI PDFs
+2026-03-01 23:13:51,398 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-APRIL-2025-0684fcb03bd0f45-99493342.pdf
+2026-03-01 23:13:52,225 [INFO]   Extracted 2644 chars raw, 2644 chars normalized
+2026-03-01 23:13:52,225 [INFO]   76/104 fields match
+2026-03-01 23:13:53,737 [INFO] 
+[AUDIT] Bihar
+2026-03-01 23:13:55,334 [INFO]   [Bihar] Found 61 MKI PDFs
+2026-03-01 23:13:55,334 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-APRIL-2025-0689da15eb12003-07198844.pdf
+2026-03-01 23:13:57,157 [INFO]   Extracted 2632 chars raw, 2632 chars normalized
+2026-03-01 23:13:57,157 [INFO]   43/104 fields match
+2026-03-01 23:13:58,662 [INFO] 
+[AUDIT] Chhattisgarh
+2026-03-01 23:14:00,530 [INFO]   [Chhattisgarh] Found 60 MKI PDFs
+2026-03-01 23:14:00,530 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-04-2025-068358dc9e951c5-93812195.pdf
+2026-03-01 23:14:01,588 [INFO]   Extracted 3004 chars raw, 3004 chars normalized
+2026-03-01 23:14:01,588 [INFO]   39/104 fields match
+2026-03-01 23:14:03,095 [INFO] 
+[AUDIT] Gujarat
+2026-03-01 23:14:04,518 [INFO]   [Gujarat] Found 61 MKI PDFs
+2026-03-01 23:14:04,518 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-with-Loan-Data-April-2025-0682dc1f0ccc864-68934695.pdf
+2026-03-01 23:14:05,739 [INFO]   Extracted 2763 chars raw, 2763 chars normalized
+2026-03-01 23:14:05,741 [INFO]   73/104 fields match
+2026-03-01 23:14:07,242 [INFO] 
+[AUDIT] Haryana
+2026-03-01 23:14:08,921 [INFO]   [Haryana] Found 61 MKI PDFs
+2026-03-01 23:14:08,923 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-April-2025-068305c5ce7e6e7-54037332.pdf
+2026-03-01 23:14:09,767 [INFO]   Extracted 2142 chars raw, 2142 chars normalized
+2026-03-01 23:14:09,767 [INFO]   77/104 fields match
+2026-03-01 23:14:11,271 [INFO] 
+[AUDIT] Himachal Pradesh
+2026-03-01 23:14:13,319 [INFO]   [Himachal Pradesh] Found 29 MKI PDFs
+2026-03-01 23:14:13,319 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Eng-08-2025-068d4c120ebb881-98952092.pdf
+2026-03-01 23:14:14,542 [INFO]   Extracted 2757 chars raw, 2757 chars normalized
+2026-03-01 23:14:14,542 [INFO]   72/104 fields match
+2026-03-01 23:14:16,083 [INFO] 
+[AUDIT] Jharkhand
+2026-03-01 23:14:17,820 [INFO]   [Jharkhand] Found 24 MKI PDFs
+2026-03-01 23:14:17,820 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2025-0682dbc727c4916-76163651.pdf
+2026-03-01 23:14:20,683 [INFO]   Extracted 2390 chars raw, 2390 chars normalized
+2026-03-01 23:14:20,683 [INFO]   47/104 fields match
+2026-03-01 23:14:22,243 [INFO] 
+[AUDIT] Karnataka
+2026-03-01 23:14:23,672 [INFO]   [Karnataka] Found 53 MKI PDFs
+2026-03-01 23:14:23,672 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2025-068245849d993d2-37940252.pdf
+2026-03-01 23:14:24,843 [INFO]   Extracted 1447 chars raw, 1447 chars normalized
+2026-03-01 23:14:24,851 [INFO]   78/104 fields match
+2026-03-01 23:14:26,354 [INFO] 
+[AUDIT] Kerala
+2026-03-01 23:14:28,482 [INFO]   [Kerala] Found 48 MKI PDFs
+2026-03-01 23:14:28,482 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2025-English-06826fe31876ca7-45473689.pdf
+2026-03-01 23:14:29,291 [INFO]   Extracted 1488 chars raw, 1488 chars normalized
+2026-03-01 23:14:29,297 [INFO]   86/104 fields match
+2026-03-01 23:14:30,800 [INFO] 
+[AUDIT] Maharashtra
+2026-03-01 23:14:33,094 [INFO]   [Maharashtra] Found 58 MKI PDFs
+2026-03-01 23:14:33,094 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MAH-April-2025-English-0683053a4c37293-58685098.pdf
+2026-03-01 23:14:34,666 [INFO]   Extracted 2641 chars raw, 2641 chars normalized
+2026-03-01 23:14:34,666 [INFO]   83/104 fields match
+2026-03-01 23:14:36,171 [INFO] 
+[AUDIT] Manipur
+2026-03-01 23:14:38,015 [INFO]   [Manipur] Found 58 MKI PDFs
+2026-03-01 23:14:38,015 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2025-1-0686f6a89cded23-79319018.pdf
+2026-03-01 23:14:39,612 [INFO]   Extracted 2447 chars raw, 2447 chars normalized
+2026-03-01 23:14:39,614 [INFO]   66/104 fields match
+2026-03-01 23:14:41,121 [INFO] 
+[AUDIT] Meghalaya
+2026-03-01 23:14:42,500 [INFO]   [Meghalaya] Found 54 MKI PDFs
+2026-03-01 23:14:42,500 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-April-2025-06836e9635e7f62-30814625.pdf
+2026-03-01 23:14:42,959 [INFO]   Extracted 2480 chars raw, 2480 chars normalized
+2026-03-01 23:14:42,959 [INFO]   50/104 fields match
+2026-03-01 23:14:44,464 [INFO] 
+[AUDIT] Mizoram
+2026-03-01 23:14:45,697 [INFO]   [Mizoram] Found 28 MKI PDFs
+2026-03-01 23:14:45,697 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April25-068382695887be5-36869063.pdf
+2026-03-01 23:14:46,335 [INFO]   Extracted 1537 chars raw, 1537 chars normalized
+2026-03-01 23:14:46,337 [INFO]   104/104 fields match
+2026-03-01 23:14:47,850 [INFO] 
+[AUDIT] Nagaland
+2026-03-01 23:14:49,368 [INFO]   [Nagaland] Found 52 MKI PDFs
+2026-03-01 23:14:49,368 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-1-MKI-April-2025-06834511636b670-64496689.pdf
+2026-03-01 23:14:50,575 [INFO]   Extracted 1879 chars raw, 1879 chars normalized
+2026-03-01 23:14:50,575 [INFO]   79/104 fields match
+2026-03-01 23:14:52,087 [INFO] 
+[AUDIT] Odisha
+2026-03-01 23:14:53,560 [INFO]   [Odisha] Found 45 MKI PDFs
+2026-03-01 23:14:53,560 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-04-25-merged-06839a96ba166a4-19720678.pdf
+2026-03-01 23:14:54,149 [INFO]   Extracted 3126 chars raw, 3126 chars normalized
+2026-03-01 23:14:54,149 [INFO]   13/104 fields match
+2026-03-01 23:14:55,661 [INFO] 
+[AUDIT] Rajasthan
+2026-03-01 23:14:57,053 [INFO]   [Rajasthan] Found 62 MKI PDFs
+2026-03-01 23:14:57,053 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-04-2025-0682423da2dbd16-99557926.pdf
+2026-03-01 23:14:58,269 [INFO]   Extracted 2515 chars raw, 2515 chars normalized
+2026-03-01 23:14:58,269 [INFO]   4/104 fields match
+2026-03-01 23:14:59,770 [INFO] 
+[AUDIT] Sikkim
+2026-03-01 23:15:00,845 [INFO]   [Sikkim] Found 60 MKI PDFs
+2026-03-01 23:15:00,845 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-APR-25-0683e8375636852-24341000.pdf
+2026-03-01 23:15:01,845 [INFO]   Extracted 1878 chars raw, 1878 chars normalized
+2026-03-01 23:15:01,845 [INFO]   94/104 fields match
+2026-03-01 23:15:03,350 [INFO] 
+[AUDIT] Tamil Nadu
+2026-03-01 23:15:04,598 [INFO]   [Tamil Nadu] Found 21 MKI PDFs
+2026-03-01 23:15:04,598 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MAY-2025-MRGD-068555ba4c1a8a1-83674957.pdf
+2026-03-01 23:15:05,502 [INFO]   Extracted 1932 chars raw, 1932 chars normalized
+2026-03-01 23:15:05,504 [INFO]   76/104 fields match
+2026-03-01 23:15:07,008 [INFO] 
+[AUDIT] Telangana
+2026-03-01 23:15:08,825 [INFO]   [Telangana] Found 56 MKI PDFs
+2026-03-01 23:15:08,827 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2025-1-1-06841891bec9cb1-13676530.pdf
+2026-03-01 23:15:09,854 [INFO]   Extracted 2487 chars raw, 2487 chars normalized
+2026-03-01 23:15:09,854 [INFO]   104/104 fields match
+2026-03-01 23:15:11,355 [INFO] 
+[AUDIT] Tripura
+2026-03-01 23:15:12,888 [INFO]   [Tripura] Found 53 MKI PDFs
+2026-03-01 23:15:12,888 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2025-06825dedc344678-76009859.pdf
+2026-03-01 23:15:13,855 [INFO]   Extracted 1369 chars raw, 1369 chars normalized
+2026-03-01 23:15:13,855 [INFO]   83/104 fields match
+2026-03-01 23:15:15,366 [INFO] 
+[AUDIT] Uttar Pradesh
+2026-03-01 23:15:16,609 [INFO]   [Uttar Pradesh] Found 12 MKI PDFs
+2026-03-01 23:15:16,609 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July-2025-068a46d35414a36-03282461.pdf
+2026-03-01 23:15:17,834 [INFO]   Extracted 2769 chars raw, 2769 chars normalized
+2026-03-01 23:15:17,834 [INFO]   85/104 fields match
+2026-03-01 23:15:19,337 [INFO] 
+[AUDIT] Uttarakhand
+2026-03-01 23:15:20,909 [INFO]   [Uttarakhand] Found 6 MKI PDFs
+2026-03-01 23:15:20,909 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-APR-2025-0682c15bd5477d3-71258584.pdf
+2026-03-01 23:15:22,321 [WARNING]   [Uttarakhand] Text extraction failed
+2026-03-01 23:15:23,832 [INFO] 
+[AUDIT] West Bengal
+2026-03-01 23:15:26,300 [INFO]   [West Bengal] Found 57 MKI PDFs
+2026-03-01 23:15:26,300 [INFO]   Latest PDF: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-January-2026-0699822731819f3-55111354.pdf
+2026-03-01 23:15:27,202 [INFO]   Extracted 2866 chars raw, 2866 chars normalized
+2026-03-01 23:15:27,202 [INFO]   74/104 fields match
+2026-03-01 23:15:28,735 [INFO] 
+Audit report saved to audit_report.csv (2392 rows)
+
+============================================================
+AUDIT SUMMARY
+============================================================
+Total field checks : 2392
+Matches            : 1578
+Mismatches         : 814
+Traceback (most recent call last):
+  File "audit_parser.py", line 306, in <module>
+    main()
+  File "audit_parser.py", line 283, in main
+    print(f"\n{'\u2500'*60}")
+  File "C:\Users\Alok\AppData\Local\Programs\Python\Python38\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 2-61: character maps to <undefined>

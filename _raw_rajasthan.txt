@@ -1,0 +1,53 @@
+  1: Government of Rajasthan
+  2: Accounts at a Glance (at the end of 4 , 2025 )
+  3: ( UNAUDITED PROVISIONAL FIGURES )
+  4: Monthly Key Indicators for month of 4, 2025 (Rupees in Crores)
+  5: % of Actual to Budget
+  6: Estimates
+  7: Budget Actuals Current Corresponding
+  8: Estimates upto Year period of the
+  9: 2025 - 2026 , pervious year 4 2025
+ 10: 1. Revenue Receipts 294536.49 14625.72 4.97% 5.36
+ 11: (a) Tax Revenue 228459.87 13162.17 5.76% 6.17
+ 12: (i) GST 63600.00 3661.72 5.76% 6.88
+ 13: (ii) Stamps and Registration Fees 14350.00 851.23 5.93% 6.02
+ 14: (iii) Land Revenue 881.11 66.09 7.50% 3.13
+ 15: (iv) Sales Tax 30780.00 1795.1 5.83% 6.08
+ 16: (v) State Excise Duties 19720.00 1171.19 5.94% 6.97
+ 17: (vi) State's Share of Union Taxes 85716.48 4925.38 5.75% 5.73
+ 18: (vii) Other Taxes and duties * 13412.28 691.46 5.16% 4.90
+ 19: (b) Non-Tax Revenue 26883.32 1463.55 5.44% 6.51
+ 20: (c) Grant-in-Aid and Contributions 39193.30 0.00% 0.24
+ 21: 2. Capital Receipts 85080.02 4049.88 4.76% 6.40
+ 22: (a) Recovery of Loans & Advances 416.39 17.53 4.21% 5.70
+ 23: (b) Other Receipts 20.00 0.34 1.70% 15.60
+ 24: (c) Borrowings & Other Liabilities ** 84643.63 4032.01 4.76% 6.40
+ 25: 3. Total Receipts (1 + 2) 379616.50 18675.60 4.92% 5.57
+ 26: 4. Revenue Expenditure (a+b+c+d+e) 325545.90 17245.54 5.30% 5.88
+ 27: (a) Expenditure on Revenue Account 128216.31 4825.20 3.76% 2.83
+ 28: (b) Expenditure on Interest Payments 40058.22 2260.74 5.64% 6.31
+ 29: (c) Expenditure on Salaries / Wages 83774.99 6009.58 7.17% 7.22
+ 30: (d) Expenditure on Pension 33875.02 2146.05 6.34% 7.21
+ 31: (e) Expenditure on Subsidy 39621.37 2003.98 5.06% 11.72
+ 32: 5. Capital Expenditure (a + b) 53686.15 1425.19 2.65% 3.59
+ 33: (a) Expenditure on Capital Account 53555.45 1414.95 2.64% 3.58
+ 34: { excluding (b) }
+ 35: (b) Expenditure on Salaries / Wages 130.70 10.23 7.83% 6.13
+ 36: 6. Sector Wise Expenditure
+ 37: (i) General Sector
+ 38: (a) Revenue 95753.02 5655.91 5.91% 6.56
+ 39: (b) Capital 1485.01 10.87 0.73% 0.04
+ 40: (ii) Social Sector
+ 41: (a) Revenue 141097.80 8525.57 6.04% 5.47
+ 42: (b) Capital 23275.56 267.69 1.15% 1.01
+ 43: (iii) Economic Sector
+ 44: (a) Revenue 88695.00 3064.05 3.45% 5.82
+ 45: (b) Capital 28925.58 1146.63 3.96% 6.24
+ 46: (iv) Grants-in-Aid-Contribution 0.08 0.00 0.00% 14.29
+ 47: 7. Total Expenditure (4 + 5) 379232.05 18670.73 4.92% 5.58
+ 48: 8. Loans and Advances Disbursed 384.45 4.87 1.27% 1.80
+ 49: 9. Revenue Surplus (+) / Deficit (-) (1-4) -31009.41 -2619.83 8.45% 11.58
+ 50: 10. Fiscal Surplus/Deficit {1+2(a) + 2(b)-7-8 -84643.63 -4032.01 4.76% 6.40
+ 51: 11. Primary Deficit (-) / Surplus (+) [{ 1 + 2(a) + -44585.41 -1771.27 3.97% 6.50
+ 52: 2(b)}] - [{4(a) (c) (d) (e) 5 8]
+ 53: *Variations shown in some figures may be due to rounding off.
