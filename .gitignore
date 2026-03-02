@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+venv/
+.venv/
+.DS_Store
+Thumbs.db
+
+# Debug / temp files
+_cg_raw.txt
+_cg_pre_norm.txt
+_raw_*.txt
+_audit_log.txt
+audit_report.csv
+"{pipeline,dashboard,inputs,data"
