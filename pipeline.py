@@ -64,6 +64,8 @@ def get_pdf_urls(state_name, slug_or_id, url_type):
         href = a["href"]
         if "account-report-MKI" not in href and "MKI" not in href:
             continue
+        if href.lower().endswith(".html") or href.lower().endswith(".htm"):
+            continue
         full = href if href.startswith("http") else "https://cag.gov.in" + href
         if full not in seen:
             seen.add(full)

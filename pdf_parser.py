@@ -280,6 +280,7 @@ PATTERNS = {
     # ── Tax Revenue ───────────────────────────────────────
     "tax_revenue": [
         rf"\(a\)\s*Tax\s+Revenue[^\n]*{_N4}",
+        rf"[aA]\)\s*Tax\s+Revenue[^\n]*{_N4}",
         # Karnataka: numbers on next line after formula "(i+ii+iii+iv+v+vi+vii)"
         rf"\(a\)\s*Tax\s+Revenue[^\n]*\n[^\n]*{_N4}",
     ],
@@ -287,13 +288,13 @@ PATTERNS = {
     # ── SGST / GST ────────────────────────────────────────
     "sgst": [
         # Standard (i) prefix with various abbreviations
-        rf"\(i\)\s*(?:SGST|GST|SGST\s*/\s*CGST(?:\s*/\s*IGST)?)[^\n]*{_N4}",
+        rf"(?:\(i\)|i\))\s*(?:SGST|GST|SGST\s*/\s*CGST(?:\s*/\s*IGST)?)[^\n]*{_N4}",
         # G.S.T. (Manipur)
         rf"\(i\)\s*G\.S\.T\.[^\n]*{_N4}",
         # "G S T" spaced letters (Odisha)
         rf"\(i\)\s*G\s+S\s+T[^\n]*{_N4}",
         # "Goods and Service(s) Tax" (Tamil Nadu, Meghalaya)
-        rf"\(i\)\s*Goods\s+and\s+Services?\s+Tax[^\n]*{_N4}",
+        rf"(?:\(i\)|i\))\s*Goods\s+and\s+Services?\s+Tax[^\n]*{_N4}",
         # "State Goods & Service Tax" (Gujarat)
         rf"\(i\)\s*State\s+Goods\s+(?:&|and)\s+Services?\s+Tax[^\n]*{_N4}",
         # Assam Roman numeral: "I State Goods and Services Tax"
@@ -305,7 +306,7 @@ PATTERNS = {
 
     # ── Stamps & Registration ─────────────────────────────
     "stamps_registration": [
-        rf"\(ii\)\s*Stamps\s+and\s+Registration[^\n]*{_N4}",
+        rf"(?:\(ii\)|ii\))\s*Stamps\s+and\s+Registration[^\n]*{_N4}",
         rf"\(ii\)\s*Stamps[^\n]*{_N4}",
         # Assam Roman: "III Stamps and Registration"
         rf"(?:^|\n)\s*III\s+Stamps[^\n]*{_N4}",
@@ -313,14 +314,14 @@ PATTERNS = {
 
     # ── Land Revenue ──────────────────────────────────────
     "land_revenue": [
-        rf"\(iii\)\s*Land\s+Revenue[^\n]*{_N4}",
+        rf"(?:\(iii\)|iii\))\s*Land\s+Revenue[^\n]*{_N4}",
         # Assam Roman: "II Land Revenue"
         rf"(?:^|\n)\s*II\s+Land\s+Revenue[^\n]*{_N4}",
     ],
 
     # ── Sales Tax ─────────────────────────────────────────
     "sales_tax": [
-        rf"\(iv\)\s*(?:Sales\s+Tax|Taxes\s+on\s+Sales)[^\n]*{_N4}",
+        rf"(?:\(iv\)|iv\))\s*(?:Sales\s+Tax|Taxes\s+on\s+Sales)[^\n]*{_N4}",
         # Meghalaya: "Sale Tax" (singular)
         rf"\(iv\)\s*Sale\s+Tax[^\n]*{_N4}",
         # Tamil Nadu / Assam: "Taxes on Sales, Trade etc"
@@ -331,7 +332,7 @@ PATTERNS = {
 
     # ── State Excise ──────────────────────────────────────
     "state_excise": [
-        rf"\(v\)\s*State\s+Excise[^\n]*{_N4}",
+        rf"(?:\(v\)|v\))\s*State\s+Excise[^\n]*{_N4}",
         # Assam Roman: "IV State Excise"
         rf"(?:^|\n)\s*IV\s+State\s+Excise[^\n]*{_N4}",
     ],
@@ -339,7 +340,7 @@ PATTERNS = {
     # ── State Share of Union Taxes ────────────────────────
     "union_taxes_share": [
         # Apostrophe variants: State's / States / State`s (. matches any char)
-        rf"\(vi\)\s*State.s\s+Share\s+of\s+Union[^\n]*{_N4}",
+        rf"(?:\(vi\)|vi\))\s*State.s\s+Share\s+of\s+Union[^\n]*{_N4}",
         rf"\(vi\)\s*State.s\s+Share[^\n]*{_N4}",
         # Without apostrophe: "State Share of Union Taxes" (Meghalaya)
         rf"\(vi\)\s*State\s+Share\s+of\s+Union[^\n]*{_N4}",
@@ -350,7 +351,7 @@ PATTERNS = {
 
     # ── Other Taxes ───────────────────────────────────────
     "other_taxes": [
-        rf"\(vii\)\s*Other\s+Taxes[^\n]*{_N4}",
+        rf"(?:\(vii\)|vii\))\s*Other\s+Taxes[^\n]*{_N4}",
         # Assam Roman: "VII Other Taxes and Duties"
         rf"(?:^|\n)\s*VII\s+Other\s+Taxes[^\n]*{_N4}",
     ],
@@ -358,15 +359,15 @@ PATTERNS = {
     # ── Non-Tax Revenue ───────────────────────────────────
     # em-dash "Non –Tax" → after normalize becomes "Non -Tax"
     "non_tax_revenue": [
-        rf"\(b\)\s*Non[\s\-]+Tax\s+Revenue[^\n]*{_N4}",
-        rf"\(b\)\s*Non.Tax\s+Revenue[^\n]*{_N4}",
+        rf"(?:\(b\)|b\))\s*Non[\s\-]+Tax\s+Revenue[^\n]*{_N4}",
+        rf"(?:\(b\)|b\))\s*Non.Tax\s+Revenue[^\n]*{_N4}",
     ],
 
     # ── Grants-in-Aid ─────────────────────────────────────
     # Variants: "Grant-in-Aid", "Grants-in-Aid", "Grants in aid", "Grants –in-Aid"
     "grants_in_aid": [
-        rf"\(c\)\s*Grants?\s*[\-\s]+in[\-\s]+Aid[^\n]*{_N4}",
-        rf"\(c\)\s*Grants?\s*in\s+aid[^\n]*{_N4}",
+        rf"(?:\(c\)|c\))\s*Grants?\s*[\-\s]+in[\-\s]+Aid[^\n]*{_N4}",
+        rf"(?:\(c\)|c\))\s*Grants?\s*in\s+aid[^\n]*{_N4}",
         # Odisha: only 3 numbers (pct_prev column absent) — optional 4th
         rf"\(c\)\s*Grants?-in-Aid[^\n]*{_N4_opt}",
     ],
@@ -379,14 +380,14 @@ PATTERNS = {
 
     # ── Recovery of Loans ─────────────────────────────────
     "recovery_loans": [
-        rf"\(a\)\s*Recovery\s+of\s+Loans\s+(?:and|&)\s+Advances[^\n]*{_N4}",
+        rf"(?:\(a\)|a\))\s*Recovery\s+of\s+Loans\s+(?:and|&)\s+Advances[^\n]*{_N4}",
         rf"\(a\)\s*Recovery\s+of\s+Loans[^\n]*{_N4}",
     ],
 
     # ── Borrowings ────────────────────────────────────────
     # "Borrowings" vs "Borrowing" (Manipur singular), "and" vs "&"
     "borrowings": [
-        rf"\(c\)\s*Borrowings?\s+(?:and|&)\s+Other\s+Liabilities[^\n]*{_N4}",
+        rf"(?:\(c\)|c\))\s*Borrowings?\s+(?:and|&)\s+Other\s+Liabilities[^\n]*{_N4}",
         rf"\(c\)\s*Borrowings?[^\n]*{_N4}",
     ],
 
@@ -407,14 +408,14 @@ PATTERNS = {
 
     # ── Interest Payments ─────────────────────────────────
     "interest_payments": [
-        rf"\(b\)\s*Expenditure\s+on\s+Interest\s+Payments?[^\n]*{_N4}",
+        rf"(?:\(b\)|b\))\s*Expenditure\s+on\s+Interest\s+Payments?[^\n]*{_N4}",
         rf"\(b\)\s*Expenditure\s+on\s+Interest[^\n]*{_N4}",
     ],
 
     # ── Salaries & Wages ──────────────────────────────────
     "salaries_wages": [
         # Standard: 4 columns present
-        rf"\(c\)\s*Expenditure\s+on\s+Salaries[^\n]*{_N4}",
+        rf"(?:\(c\)|c\))\s*Expenditure\s+on\s+Salaries[^\n]*{_N4}",
         # Fallback: partial data — Arunachal Pradesh has only BE+actuals (no pct columns);
         # Tamil Nadu has only BE (actuals marked "$" which isn't a number).
         # Handles "Salaries/Wages" and "Salaries and Wages" variants.
@@ -424,13 +425,13 @@ PATTERNS = {
 
     # ── Pension ───────────────────────────────────────────
     "pension": [
-        rf"\(d\)\s*Expenditure\s+on\s+[Pp]ension[^\n]*{_N4}",
+        rf"(?:\(d\)|d\))\s*Expenditure\s+on\s+[Pp]ension[^\n]*{_N4}",
     ],
 
     # ── Subsidy ───────────────────────────────────────────
     "subsidy": [
         # Standard: 4 columns present
-        rf"\(e\)\s*Expenditure\s+on\s+Subsidy[^\n]*{_N4}",
+        rf"(?:\(e\)|e\))\s*Expenditure\s+on\s+Subsidy[^\n]*{_N4}",
         # Fallback: Tamil Nadu reports only BE (actuals marked "$").
         # Arunachal Pradesh uses ".." (no data) so even this fallback returns None there.
         # _Nflex already includes non-greedy skip; do NOT add [^\n]* before it.
@@ -447,6 +448,7 @@ PATTERNS = {
     "total_expenditure": [
         rf"(?:^|\n)\s*7\.?\s+Total\s+Expenditure[^\n]*{_N4}",
         rf"(?:^|\n)\s*\(7\)\s+Total\s+Expenditure[^\n]*{_N4}",
+        rf"(?:^|\n)\s*9\.?\s+Total\s+Expenditure[^\n]*{_N4}",
     ],
 
     # ── Loans & Advances Disbursed ────────────────────────
@@ -454,12 +456,14 @@ PATTERNS = {
     "loans_advances_disbursed": [
         rf"(?:^|\n)\s*8\.?\s+Loans?\s+and\s+Advances?\s+Disbursed[^\n]*{_N4}",
         rf"(?:^|\n)\s*\(8\)\s+Loans?\s+and\s+Advances?\s+Disbursed[^\n]*{_N4}",
+        rf"(?:^|\n)\s*7\.?\s+Loans?\s+(?:&|and)\s+Advances?\s+[Dd]isbursed[^\n]*{_N4}",
     ],
 
     # ── Revenue Surplus / Deficit ─────────────────────────
     "revenue_surplus_deficit": [
         rf"(?:^|\n)\s*9\.?\s+Revenue\s+(?:Surplus|Deficit)[^\n]*{_N4}",
         rf"(?:^|\n)\s*\(9\)\s+Revenue\s+(?:Surplus|Deficit)[^\n]*{_N4}",
+        rf"(?:^|\n)\s*10\.?\s+Revenue\s+(?:Surplus|Deficit)[^\n]*{_N4}",
     ],
 
     # ── Fiscal Deficit ────────────────────────────────────
@@ -468,12 +472,15 @@ PATTERNS = {
         rf"(?:^|\n)\s*10\.?\s+Fiscal\s+(?:Surplus|Deficit)[^\n]*{_N4}",
         rf"(?:^|\n)\s*10\.?\s+Fiscal[^\n]*{_N4}",
         rf"(?:^|\n)\s*\(10\)\s+Fiscal[^\n]*{_N4}",
+        rf"(?:^|\n)\s*11\.?\s+Fiscal[^\n]*{_N4}",
     ],
 
     # ── Primary Deficit ───────────────────────────────────
     "primary_deficit": [
         rf"(?:^|\n)\s*11\.?\s+Primary\s+(?:Deficit|Surplus)[^\n]*{_N4}",
         rf"(?:^|\n)\s*\(11\)\s+Primary\s+(?:Deficit|Surplus)[^\n]*{_N4}",
+        rf"(?:^|\n)\s*12\.?\s+Primary\s+(?:Deficit|Surplus)[^\n]*{_N4}",
+        rf"(?:^|\n)\s*.*?Primary\s+Deficit[^\n]+\n\s*([-+\d\.]+)\s+([-+\d\.]+)\s+([-+\d\.]+)\n.*?(?:\+|[a-zA-Z])\s*(\d+\.\d+)",
     ],
 }
 
@@ -512,6 +519,19 @@ def extract_indicators(text):
 
     total_found = sum(1 for v in results.values() if v["found"])
     log.debug(f"Extracted {total_found}/{len(INDICATOR_IDS)} indicators")
+
+    # Special patch for Andhra Pradesh Primary Deficit where the first number wraps to previous line
+    ap_pd_match = re.search(r"Primary\s+Deficit.*?Surplus\s+([\d\.]+)\s*\n\s*([-+\d\.]+)\s+([-+\d\.]+)\s+([-+\d\.]+)", text, re.IGNORECASE)
+    if ap_pd_match and not results["primary_deficit"]["found"]:
+        results["primary_deficit"] = {
+            "found": True,
+            "raw": ap_pd_match.group(0),
+            "be": parse_num(ap_pd_match.group(2)),
+            "actuals": parse_num(ap_pd_match.group(3)),
+            "pct_current": parse_num(ap_pd_match.group(4)),
+            "pct_prev": parse_num(ap_pd_match.group(1)),
+        }
+
     return results
 
 
