@@ -4371,3 +4371,299 @@ Completeness Scores:
 2026-04-25 07:30:42,331 [INFO] Office Excel saved: outputs/CAG_Monthly_Key_Indicators_Office.xlsx
 2026-04-25 07:30:42,331 [INFO] 
 ✅ Pipeline complete. Processed 25 states.
+2026-05-25 09:55:55,580 [INFO] 
+############################################################
+  Fiscal Pulse Pipeline | mode=update
+############################################################
+2026-05-25 09:55:55,603 [INFO] GSDP loaded for 30 states
+2026-05-25 09:55:55,605 [INFO] Loaded 1 manual overrides
+2026-05-25 09:55:55,606 [INFO] 
+==================================================
+  Processing: Andhra Pradesh
+==================================================
+2026-05-25 09:55:58,290 [INFO]   [Andhra Pradesh] Found 47 MKI PDFs
+2026-05-25 09:56:02,353 [INFO]     ✓ Andhra Pradesh | 2026-27 | April | 25/26 indicators
+2026-05-25 09:56:33,213 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Sept2025-068f0dd4d8ca5d4-74297246.pdf
+2026-05-25 09:56:54,036 [INFO]     ✓ Andhra Pradesh | 2025-26 | Feb | 0/26 indicators
+2026-05-25 09:56:58,006 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-P-2026-069fc787b59f333-66693265.pdf
+2026-05-25 09:57:11,830 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Word-MAR-P-2025-3-068243d627801f0-80930028.pdf
+2026-05-25 09:57:11,830 [INFO]   [Andhra Pradesh] Done. 2 months parsed, 42 skipped
+2026-05-25 09:57:12,831 [INFO] 
+==================================================
+  Processing: Arunachal Pradesh
+==================================================
+2026-05-25 09:57:14,600 [INFO]   [Arunachal Pradesh] Found 64 MKI PDFs
+2026-05-25 09:57:55,996 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2026-06a0edeba7d3cd3-68577491.pdf
+2026-05-25 09:58:05,978 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Supp-2025-0685935b6b8ea28-07223025.pdf
+2026-05-25 09:58:09,535 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2025-0682d739d7876f9-54256643.pdf
+2026-05-25 09:58:09,535 [INFO]   [Arunachal Pradesh] Done. 0 months parsed, 61 skipped
+2026-05-25 09:58:10,535 [INFO] 
+==================================================
+  Processing: Assam
+==================================================
+2026-05-25 09:58:12,889 [INFO]   [Assam] Found 55 MKI PDFs
+2026-05-25 09:58:26,381 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FEB2026-069aeb77be7dfa7-23030205.pdf
+2026-05-25 09:59:06,775 [INFO]   [Assam] Done. 0 months parsed, 54 skipped
+2026-05-25 09:59:07,775 [INFO] 
+==================================================
+  Processing: Bihar
+==================================================
+2026-05-25 09:59:10,143 [INFO]   [Bihar] Found 64 MKI PDFs
+2026-05-25 09:59:14,641 [INFO]     ✓ Bihar | 2026-27 | April | 26/26 indicators
+2026-05-25 10:00:06,777 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-PRE-2026-06a05753eca6e66-74184506.pdf
+2026-05-25 10:00:22,192 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-S-2025-06899b8e488f4f0-35480120.pdf
+2026-05-25 10:00:26,270 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-S-2025-REVISED-068bfdaea3b79e3-75266040.pdf
+2026-05-25 10:00:30,021 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-PRE-2025-0688726a10dc423-27705236.pdf
+2026-05-25 10:00:33,807 [INFO]   [Bihar] Done. 1 months parsed, 59 skipped
+2026-05-25 10:00:34,807 [INFO] 
+==================================================
+  Processing: Chhattisgarh
+==================================================
+2026-05-25 10:00:37,393 [INFO]   [Chhattisgarh] Found 63 MKI PDFs
+2026-05-25 10:00:41,404 [INFO]     ✓ Chhattisgarh | 2026-27 | April | 26/26 indicators
+2026-05-25 10:01:24,382 [INFO]     ✓ Chhattisgarh | 2025-26 | March | 26/26 indicators
+2026-05-25 10:02:03,289 [INFO]   [Chhattisgarh] Done. 2 months parsed, 61 skipped
+2026-05-25 10:02:04,290 [INFO] ⏭  Delhi: no monthly CAG data — skipping
+2026-05-25 10:02:04,290 [INFO] ⏭  Goa: no monthly CAG data — skipping
+2026-05-25 10:02:04,290 [INFO] 
+==================================================
+  Processing: Gujarat
+==================================================
+2026-05-25 10:02:06,495 [INFO]   [Gujarat] Found 64 MKI PDFs
+2026-05-25 10:02:10,841 [INFO]     ✓ Gujarat | 2026-27 | April | 21/26 indicators
+2026-05-25 10:02:59,137 [INFO]     ✓ Gujarat | 2025-26 | March | 23/26 indicators
+2026-05-25 10:03:16,753 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2025-with-Loan-Data-068650f60251bc4-71901899.pdf
+2026-05-25 10:03:20,813 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-with-Loan-Data-March-P-2025-1-06826e98c1701d2-77083021.pdf
+2026-05-25 10:03:23,870 [INFO]   [Gujarat] Done. 2 months parsed, 60 skipped
+2026-05-25 10:03:24,870 [INFO] 
+==================================================
+  Processing: Haryana
+==================================================
+2026-05-25 10:03:27,792 [INFO]   [Haryana] Found 63 MKI PDFs
+2026-05-25 10:04:07,847 [INFO]     ✓ Haryana | 2025-26 | March | 20/26 indicators
+2026-05-25 10:04:21,125 [INFO]   [Haryana] Done. 1 months parsed, 62 skipped
+2026-05-25 10:04:22,126 [INFO] 
+==================================================
+  Processing: Himachal Pradesh
+==================================================
+2026-05-25 10:04:24,863 [INFO]   [Himachal Pradesh] Found 32 MKI PDFs
+2026-05-25 10:04:28,329 [INFO]     ✓ Himachal Pradesh | 2026-27 | April | 25/26 indicators
+2026-05-25 10:04:49,531 [INFO]     ✓ Himachal Pradesh | 2025-26 | March | 25/26 indicators
+2026-05-25 10:05:07,092 [INFO]   [Himachal Pradesh] Done. 2 months parsed, 30 skipped
+2026-05-25 10:05:08,093 [INFO] 
+==================================================
+  Processing: Jharkhand
+==================================================
+2026-05-25 10:05:10,764 [INFO]   [Jharkhand] Found 25 MKI PDFs
+2026-05-25 10:06:07,406 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-2025-0686d17a3598248-62154768.pdf
+2026-05-25 10:06:11,246 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2025-0682c878724e0b7-14752564.pdf
+2026-05-25 10:06:11,246 [INFO]   [Jharkhand] Done. 0 months parsed, 23 skipped
+2026-05-25 10:06:12,247 [INFO] 
+==================================================
+  Processing: Karnataka
+==================================================
+2026-05-25 10:06:14,144 [INFO]   [Karnataka] Found 54 MKI PDFs
+2026-05-25 10:06:24,791 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKIMARCHP2026-069f09b78dd24b6-99634492.pdf
+2026-05-25 10:06:38,982 [INFO]   [Karnataka] Done. 0 months parsed, 53 skipped
+2026-05-25 10:06:39,983 [INFO] 
+==================================================
+  Processing: Kerala
+==================================================
+2026-05-25 10:06:42,982 [INFO]   [Kerala] Found 51 MKI PDFs
+2026-05-25 10:06:46,493 [INFO]     ✓ Kerala | 2026-27 | April | 12/26 indicators
+2026-05-25 10:06:57,081 [INFO]     ✓ Kerala | 2025-26 | June | 10/26 indicators
+2026-05-25 10:07:28,022 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2026-English-069eb617c7fd8b6-53162597.pdf
+2026-05-25 10:07:49,382 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Supply-2025-English-068666f3a956fd9-94314714.pdf
+2026-05-25 10:07:52,865 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2025-English-0680b6c70ad9414-67352604.pdf
+2026-05-25 10:07:56,807 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-24-English-066c31e8b695085-90724385.pdf
+2026-05-25 10:08:14,070 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MAR-SUPPL-23English-064a551f0a043a0-33700839.pdf
+2026-05-25 10:08:33,763 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-supply-22English-062c6b867472637-64667251.pdf
+2026-05-25 10:08:33,763 [INFO]   [Kerala] Done. 2 months parsed, 43 skipped
+2026-05-25 10:08:34,763 [INFO] ⏭  Madhya Pradesh: no monthly CAG data — skipping
+2026-05-25 10:08:34,763 [INFO] 
+==================================================
+  Processing: Maharashtra
+==================================================
+2026-05-25 10:08:37,188 [INFO]   [Maharashtra] Found 60 MKI PDFs
+2026-05-25 10:09:24,501 [INFO]     ✓ Maharashtra | 2025-26 | March | 25/26 indicators
+2026-05-25 10:09:36,981 [INFO]   [Maharashtra] Done. 1 months parsed, 59 skipped
+2026-05-25 10:09:37,982 [INFO] 
+==================================================
+  Processing: Manipur
+==================================================
+2026-05-25 10:09:45,618 [INFO]   [Manipur] Found 60 MKI PDFs
+2026-05-25 10:10:08,473 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2025-06895c3cceb0509-16914594.pdf
+2026-05-25 10:10:40,508 [INFO]     ✓ Manipur | 2025-26 | February | 24/26 indicators
+2026-05-25 10:10:52,143 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-1-2025-0689099c286b093-84481295.pdf
+2026-05-25 10:11:00,773 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-066d80a2f0d76e2-63835440.pdf
+2026-05-25 10:11:13,928 [INFO]   [Manipur] Done. 1 months parsed, 56 skipped
+2026-05-25 10:11:14,928 [INFO] 
+==================================================
+  Processing: Meghalaya
+==================================================
+2026-05-25 10:11:17,580 [INFO]   [Meghalaya] Found 57 MKI PDFs
+2026-05-25 10:11:21,341 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-April-2026-06a0e87f56ec884-05286781.pdf
+2026-05-25 10:11:39,637 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-up-to-the-month-of-September-2025-Accounts-068f9d2938c6ed3-52276312.pdf
+2026-05-25 10:11:44,413 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-Oct-2025-0692fcbe709cbc0-76032855.pdf
+2026-05-25 10:11:55,973 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-February-2026-069bb816380b945-33522363.pdf
+2026-05-25 10:11:58,594 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2026-06a0702d0895e71-94801889.pdf
+2026-05-25 10:12:01,873 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-January-2025-067b6d784027b44-51140673.pdf
+2026-05-25 10:12:05,139 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-Feb-MKI-2025-067dd368398c070-46463220.pdf
+2026-05-25 10:12:08,685 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-March-Pre-2025-068257c3487e036-40962831.pdf
+2026-05-25 10:12:11,617 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-March-Sy-2025-0686b96b67fdca0-87199010.pdf
+2026-05-25 10:12:14,261 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-SUPPLEMENTARY-062c560748a5d67-32246261.pdf
+2026-05-25 10:12:14,261 [INFO]   [Meghalaya] Done. 0 months parsed, 47 skipped
+2026-05-25 10:12:15,261 [INFO] 
+==================================================
+  Processing: Mizoram
+==================================================
+2026-05-25 10:12:17,015 [INFO]   [Mizoram] Found 32 MKI PDFs
+2026-05-25 10:12:20,142 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2026-069fb24aab2fa25-71109343.pdf
+2026-05-25 10:12:23,511 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-Mar-pre-2026-069fb24df4c7a44-23978510.pdf
+2026-05-25 10:12:26,548 [INFO]     ✓ Mizoram | 2025-26 | August | 9/26 indicators
+2026-05-25 10:12:29,532 [INFO]     ✓ Mizoram | 2025-26 | October | 9/26 indicators
+2026-05-25 10:12:32,959 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-2025-0692d7e6ac28c74-85276510.pdf
+2026-05-25 10:12:36,092 [INFO]     ✓ Mizoram | 2025-26 | November | 9/26 indicators
+2026-05-25 10:12:39,432 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-November-revised-2025-06979d0c0dbc7f6-67100073.pdf
+2026-05-25 10:12:42,499 [INFO]     ✓ Mizoram | 2025-26 | December | 9/26 indicators
+2026-05-25 10:12:46,518 [INFO]     ✓ Mizoram | 2025-26 | December | 0/26 indicators
+2026-05-25 10:12:49,478 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Janurary-2026-0699d6a056f7d11-16097052.pdf
+2026-05-25 10:12:52,900 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-Janurary-2026-0699d6a38b73f70-15585200.pdf
+2026-05-25 10:12:55,937 [INFO]     ✓ Mizoram | 2025-26 | February | 9/26 indicators
+2026-05-25 10:12:59,291 [INFO]     ✓ Mizoram | 2025-26 | February | 0/26 indicators
+2026-05-25 10:13:02,495 [INFO]   [Mizoram] Done. 7 months parsed, 19 skipped
+2026-05-25 10:13:03,495 [INFO] 
+==================================================
+  Processing: Nagaland
+==================================================
+2026-05-25 10:13:05,897 [INFO]   [Nagaland] Found 55 MKI PDFs
+2026-05-25 10:13:09,201 [INFO]     ✓ Nagaland | 2026-27 | April | 21/26 indicators
+2026-05-25 10:13:15,555 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Report-2025-26-0685ba1c6b92fd4-13742377.pdf
+2026-05-25 10:13:18,849 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Report-2025-26-068ca81cceff392-05786865.pdf
+2026-05-25 10:13:22,460 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-068da0aa5e37597-70922073.pdf
+2026-05-25 10:13:40,584 [INFO]     ✓ Nagaland | 2025-26 | March | 21/26 indicators
+2026-05-25 10:14:03,177 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-060f6988da01f22-45984629.pdf
+2026-05-25 10:14:08,430 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-November-061c046ca87d378-33943571.pdf
+2026-05-25 10:14:08,430 [INFO]   [Nagaland] Done. 2 months parsed, 48 skipped
+2026-05-25 10:14:09,430 [INFO] 
+==================================================
+  Processing: Odisha
+==================================================
+2026-05-25 10:14:11,421 [INFO]   [Odisha] Found 48 MKI PDFs
+2026-05-25 10:14:29,160 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-3-2026-merged-069f34fa395fb70-90490099.pdf
+2026-05-25 10:14:59,043 [INFO]   [Odisha] Done. 0 months parsed, 47 skipped
+2026-05-25 10:15:00,043 [INFO] ⏭  Punjab: no monthly CAG data — skipping
+2026-05-25 10:15:00,043 [INFO] 
+==================================================
+  Processing: Rajasthan
+==================================================
+2026-05-25 10:15:02,065 [INFO]   [Rajasthan] Found 64 MKI PDFs
+2026-05-25 10:15:06,384 [INFO]     ✓ Rajasthan | 2026-27 | April | 26/26 indicators
+2026-05-25 10:15:21,848 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-pdf-08-2025-068c28dc37eef75-43764077.pdf
+2026-05-25 10:15:25,479 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI09-2025-068e8e88fb47263-93539970.pdf
+2026-05-25 10:15:32,604 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-03-pdf-069eaf0fe7d4e03-66252254.pdf
+2026-05-25 10:15:49,644 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-13-2025-0684a971bc60bd7-70594874.pdf
+2026-05-25 10:15:49,644 [INFO]   [Rajasthan] Done. 1 months parsed, 59 skipped
+2026-05-25 10:15:50,644 [INFO] 
+==================================================
+  Processing: Sikkim
+==================================================
+2026-05-25 10:15:52,468 [INFO]   [Sikkim] Found 62 MKI PDFs
+2026-05-25 10:16:16,011 [INFO]     ✓ Sikkim | 2025-26 | Oct | 10/26 indicators
+2026-05-25 10:16:27,761 [INFO]     ✓ Sikkim | 2025-26 | Feb | 11/26 indicators
+2026-05-25 10:16:31,847 [INFO]     ✓ Sikkim | 2025-26 | March | 11/26 indicators
+2026-05-25 10:16:35,660 [INFO]     ✓ Sikkim | 2024-25 | June | 1/26 indicators
+2026-05-25 10:16:39,525 [INFO]     ✓ Sikkim | 2024-25 | July | 1/26 indicators
+2026-05-25 10:16:47,525 [INFO]     ✓ Sikkim | 2024-25 | January | 10/26 indicators
+2026-05-25 10:16:51,306 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-S-2025-0686617978c62a0-25649619.pdf
+2026-05-25 10:16:54,628 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-NOV-063cfa39e8d3531-58048109.pdf
+2026-05-25 10:16:58,516 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-NOV-21-061c4099d843196-23230648.pdf
+2026-05-25 10:16:58,516 [INFO]   [Sikkim] Done. 6 months parsed, 53 skipped
+2026-05-25 10:16:59,517 [INFO] 
+==================================================
+  Processing: Tamil Nadu
+==================================================
+2026-05-25 10:17:01,670 [INFO]   [Tamil Nadu] Found 24 MKI PDFs
+2026-05-25 10:17:05,262 [INFO]     ✓ Tamil Nadu | 2026-27 | April | 21/26 indicators
+2026-05-25 10:17:40,297 [INFO]     ✓ Tamil Nadu | 2025-26 | March | 21/26 indicators
+2026-05-25 10:17:52,559 [INFO]   [Tamil Nadu] Done. 2 months parsed, 22 skipped
+2026-05-25 10:17:53,559 [INFO] 
+==================================================
+  Processing: Telangana
+==================================================
+2026-05-25 10:17:55,791 [INFO]   [Telangana] Found 58 MKI PDFs
+2026-05-25 10:17:59,821 [INFO]     ✓ Telangana | 2025-26 | April | 0/26 indicators
+2026-05-25 10:18:34,049 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-January-combined-2026-Final-06993099ff28c44-44224783.pdf
+2026-05-25 10:18:40,272 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-P-2026-06a0470ccbc2882-44923651.pdf
+2026-05-25 10:18:51,453 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-P-2025-06826ef930e1de8-34710562.pdf
+2026-05-25 10:19:02,318 [INFO]   [Telangana] Done. 1 months parsed, 54 skipped
+2026-05-25 10:19:03,318 [INFO] 
+==================================================
+  Processing: Tripura
+==================================================
+2026-05-25 10:19:05,054 [INFO]   [Tripura] Found 56 MKI PDFs
+2026-05-25 10:19:08,210 [INFO]     ✓ Tripura | 2026-27 | April | 17/26 indicators
+2026-05-25 10:19:39,674 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-P-2026-069ef0a9a88d637-07048410.pdf
+2026-05-25 10:19:49,303 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-2025-068666e40deb430-32981145.pdf
+2026-05-25 10:19:52,490 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2025-068121088245974-69421861.pdf
+2026-05-25 10:20:08,010 [INFO]   [Tripura] Done. 1 months parsed, 52 skipped
+2026-05-25 10:20:09,010 [INFO] 
+==================================================
+  Processing: Uttar Pradesh
+==================================================
+2026-05-25 10:20:10,917 [INFO]   [Uttar Pradesh] Found 15 MKI PDFs
+2026-05-25 10:20:15,227 [INFO]     ✓ Uttar Pradesh | 2026-27 | April | 26/26 indicators
+2026-05-25 10:20:47,222 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2026-06a0457c25a92c3-32540965.pdf
+2026-05-25 10:20:58,294 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-account-report-MKI-March-pre2025-06895e89e502f35-47338196.pdf
+2026-05-25 10:21:02,237 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Revised-MKI-Sup2025-069a134d9685f14-90388484.pdf
+2026-05-25 10:21:02,237 [INFO]   [Uttar Pradesh] Done. 1 months parsed, 11 skipped
+2026-05-25 10:21:03,237 [INFO] 
+==================================================
+  Processing: Uttarakhand
+==================================================
+2026-05-25 10:21:05,505 [INFO]   [Uttarakhand] Found 7 MKI PDFs
+2026-05-25 10:21:10,272 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-APR-2025-0682c15bd5477d3-71258584.pdf
+2026-05-25 10:21:14,546 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JULY-2025-068a31ba287b0a8-21163839.pdf
+2026-05-25 10:21:19,081 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Feb-069b926ec520b07-66989519.pdf
+2026-05-25 10:21:23,723 [INFO]   [Uttarakhand] Done. 0 months parsed, 4 skipped
+2026-05-25 10:21:24,723 [INFO] 
+==================================================
+  Processing: West Bengal
+==================================================
+2026-05-25 10:21:27,343 [INFO]   [West Bengal] Found 60 MKI PDFs
+2026-05-25 10:21:30,872 [INFO]     ✓ West Bengal | 2026-27 | April | 17/26 indicators
+2026-05-25 10:21:58,262 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2026-06a06fa27eee2e2-48617856.pdf
+2026-05-25 10:22:10,944 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FOR-MARCH-SY-2025-0686d3f37180546-68931347.pdf
+2026-05-25 10:22:36,192 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-Sy-22-062cd4a32c90349-02728204.pdf
+2026-05-25 10:22:36,192 [INFO]   [West Bengal] Done. 1 months parsed, 56 skipped
+2026-05-25 10:22:37,724 [INFO] Saved 16406 rows to master CSV
+2026-05-25 10:22:37,777 [INFO] 
+Completeness Scores:
+2026-05-25 10:22:37,777 [INFO]   Bihar                       97.1%
+2026-05-25 10:22:37,777 [INFO]   Chhattisgarh                97.1%
+2026-05-25 10:22:37,777 [INFO]   Odisha                      96.2%
+2026-05-25 10:22:37,777 [INFO]   Meghalaya                   92.7%
+2026-05-25 10:22:37,777 [INFO]   Jharkhand                   88.3%
+2026-05-25 10:22:37,778 [INFO]   Rajasthan                   85.7%
+2026-05-25 10:22:37,778 [INFO]   Arunachal Pradesh           83.7%
+2026-05-25 10:22:37,778 [INFO]   Uttar Pradesh               83.2%
+2026-05-25 10:22:37,778 [INFO]   Maharashtra                 80.1%
+2026-05-25 10:22:37,778 [INFO]   Assam                       79.1%
+2026-05-25 10:22:37,778 [INFO]   Tamil Nadu                  78.8%
+2026-05-25 10:22:37,778 [INFO]   Himachal Pradesh            77.1%
+2026-05-25 10:22:37,778 [INFO]   Gujarat                     75.7%
+2026-05-25 10:22:37,778 [INFO]   Nagaland                    73.3%
+2026-05-25 10:22:37,778 [INFO]   Manipur                     70.7%
+2026-05-25 10:22:37,778 [INFO]   Tripura                     70.7%
+2026-05-25 10:22:37,778 [INFO]   Haryana                     68.9%
+2026-05-25 10:22:37,778 [INFO]   West Bengal                 67.0%
+2026-05-25 10:22:37,778 [INFO]   Uttarakhand                 65.4%
+2026-05-25 10:22:37,778 [INFO]   Andhra Pradesh              56.4%
+2026-05-25 10:22:37,778 [INFO]   Telangana                   54.2%
+2026-05-25 10:22:37,779 [INFO]   Karnataka                   53.0%
+2026-05-25 10:22:37,779 [INFO]   Kerala                      50.5%
+2026-05-25 10:22:37,779 [INFO]   Sikkim                      38.2%
+2026-05-25 10:22:37,779 [INFO]   Mizoram                     10.4%
+2026-05-25 10:22:56,078 [INFO] Office Excel saved: outputs/CAG_Monthly_Key_Indicators_Office.xlsx
+2026-05-25 10:22:56,079 [INFO] 
+✅ Pipeline complete. Processed 25 states.
