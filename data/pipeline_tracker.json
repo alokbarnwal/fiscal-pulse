@@ -617,7 +617,7 @@
   "Kerala|2025-26|6": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-jUNE-2025-English-06870ff0596b584-84700173.pdf",
-    "updated": "2026-05-25T10:06:57.081332"
+    "updated": "2026-06-25T09:05:23.910698"
   },
   "Kerala|2025-26|7": {
     "status": "OK",
@@ -887,22 +887,22 @@
   "Mizoram|2025-26|8": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-August-25-068d5195caddbb1-84041210.pdf",
-    "updated": "2026-05-25T10:12:26.548143"
+    "updated": "2026-06-25T09:11:18.804553"
   },
   "Mizoram|2025-26|10": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-October2025-0692d7e4faa8949-58262888.pdf",
-    "updated": "2026-05-25T10:12:29.532482"
+    "updated": "2026-06-25T09:11:21.745606"
   },
   "Mizoram|2025-26|11": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-November-2025-0694a652b1c8e96-23147183.pdf",
-    "updated": "2026-05-25T10:12:36.092851"
+    "updated": "2026-06-25T09:11:28.300996"
   },
   "Mizoram|2025-26|12": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-December-2025-06979d15c086e54-79617671.pdf",
-    "updated": "2026-05-25T10:12:46.518962"
+    "updated": "2026-06-25T09:11:38.073932"
   },
   "Mizoram|2024-25|8": {
     "status": "OK",
@@ -1082,7 +1082,7 @@
   "Sikkim|2025-26|10": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-OCT-2025-0695750d574a241-08441014.pdf",
-    "updated": "2026-05-25T10:16:16.011384"
+    "updated": "2026-06-25T09:15:28.893348"
   },
   "Sikkim|2025-26|12": {
     "status": "OK",
@@ -1097,12 +1097,12 @@
   "Sikkim|2024-25|6": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JUN-066bc8228d4c8b4-06453035.pdf",
-    "updated": "2026-05-25T10:16:35.660812"
+    "updated": "2026-06-25T09:15:48.222511"
   },
   "Sikkim|2024-25|7": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JULY-066ceb310151c14-88388800.pdf",
-    "updated": "2026-05-25T10:16:39.525014"
+    "updated": "2026-06-25T09:15:52.198703"
   },
   "Sikkim|2024-25|8": {
     "status": "OK",
@@ -1112,7 +1112,7 @@
   "Sikkim|2024-25|1": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JAN-25-067bd674ff21538-83900644.pdf",
-    "updated": "2026-05-25T10:16:47.525132"
+    "updated": "2026-06-25T09:16:03.607162"
   },
   "Tamil Nadu|2025-26|5": {
     "status": "OK",
@@ -1167,7 +1167,7 @@
   "Telangana|2025-26|4": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2025-1-1-06841891bec9cb1-13676530.pdf",
-    "updated": "2026-05-25T10:17:59.821544"
+    "updated": "2026-06-25T09:17:34.556278"
   },
   "Telangana|2025-26|5": {
     "status": "OK",
@@ -1432,7 +1432,7 @@
   "Andhra Pradesh|2025-26|2": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-feb-2026-069b942bed42c11-33695723.pdf",
-    "updated": "2026-05-25T09:56:54.036437"
+    "updated": "2026-06-25T08:53:47.684602"
   },
   "Bihar|2025-26|2": {
     "status": "OK",
@@ -1517,7 +1517,7 @@
   "Mizoram|2025-26|2": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-February-2026-069c67275a01b22-28150077.pdf",
-    "updated": "2026-05-25T10:12:59.291088"
+    "updated": "2026-06-25T09:11:51.239490"
   },
   "Nagaland|2025-26|2": {
     "status": "OK",
@@ -1638,5 +1638,105 @@
     "status": "OK",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2026-06a100eeba7beb6-25635085.pdf",
     "updated": "2026-05-25T10:21:30.872402"
+  },
+  "Andhra Pradesh|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2026-06a3286d9a66147-85697791.pdf",
+    "updated": "2026-06-25T08:52:28.682016"
+  },
+  "Assam|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MAY-2026-06a295c5e1dff56-52226583.pdf",
+    "updated": "2026-06-25T08:55:23.854741"
+  },
+  "Chhattisgarh|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-05-26-06a3292785dec02-19955570.pdf",
+    "updated": "2026-06-25T08:58:25.736926"
+  },
+  "Gujarat|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2026-with-Loan-data-and-Public-Accounts-Liabilities-06a3526fb543202-02595703.pdf",
+    "updated": "2026-06-25T08:59:56.130762"
+  },
+  "Haryana|2026-27|4": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/media/MKI-04-2026-06a2129af508fe1-80456274.pdf",
+    "updated": "2026-06-25T09:01:18.376631"
+  },
+  "Haryana|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-05-2026-06a3cbdef712394-21671563.pdf",
+    "updated": "2026-06-25T09:01:21.924552"
+  },
+  "Himachal Pradesh|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2026-English-06a33ca7c546ec9-89006636.pdf",
+    "updated": "2026-06-25T09:02:30.163982"
+  },
+  "Jharkhand|2026-27|4": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2026-06a21ab1f0094d2-32431002.pdf",
+    "updated": "2026-06-25T09:03:18.581095"
+  },
+  "Jharkhand|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2026-06a322e3424dc41-91900744.pdf",
+    "updated": "2026-06-25T09:03:22.478043"
+  },
+  "Karnataka|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-May-2026-06a3cc531e97c89-53279730.pdf",
+    "updated": "2026-06-25T09:04:31.407078"
+  },
+  "Kerala|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2026-English-06a2e484cacdaa8-87713122.pdf",
+    "updated": "2026-06-25T09:05:12.849903"
+  },
+  "Maharashtra|2026-27|4": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MAH-April-2026-English-06a1964947fb102-74033261.pdf",
+    "updated": "2026-06-25T09:07:13.666824"
+  },
+  "Maharashtra|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MAH-May-2026-ENGLISH-06a3a230812d2d3-03410374.pdf",
+    "updated": "2026-06-25T09:07:17.689495"
+  },
+  "Mizoram|2026-27|4": {
+    "status": "PARSE_ERROR",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-26-Provisional-06a16dc05b972d9-74560364.pdf",
+    "updated": "2026-06-25T09:11:08.963767"
+  },
+  "Odisha|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-06a3547a312b726-75229030.pdf",
+    "updated": "2026-06-25T09:13:05.183614"
+  },
+  "Tamil Nadu|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MAY-2026-06a353cdd84a5f6-28988387.pdf",
+    "updated": "2026-06-25T09:16:34.022509"
+  },
+  "Telangana|2026-27|4": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2026-06a19831ecf2373-18572121.pdf",
+    "updated": "2026-06-25T09:17:26.441433"
+  },
+  "Telangana|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MAY-2026-06a3386dd891ff9-10237390.pdf",
+    "updated": "2026-06-25T09:17:30.711348"
+  },
+  "Tripura|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2026-06a3900999e45e3-63503287.pdf",
+    "updated": "2026-06-25T09:18:46.750544"
+  },
+  "Uttar Pradesh|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-05-2026-06a3282b5812dc1-31713071.pdf",
+    "updated": "2026-06-25T09:20:01.646458"
   }
 }
