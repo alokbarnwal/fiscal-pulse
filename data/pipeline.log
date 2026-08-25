@@ -5296,3 +5296,415 @@ Completeness Scores:
 2026-07-25 08:40:33,656 [INFO] Office Excel saved: outputs/CAG_Monthly_Key_Indicators_Office.xlsx
 2026-07-25 08:40:33,657 [INFO] 
 ✅ Pipeline complete. Processed 25 states.
+2026-08-25 06:35:59,497 [INFO] 
+############################################################
+  Fiscal Pulse Pipeline | mode=update
+############################################################
+2026-08-25 06:35:59,516 [INFO] GSDP loaded for 30 states
+2026-08-25 06:35:59,518 [INFO] Loaded 1 manual overrides
+2026-08-25 06:35:59,518 [INFO] 
+==================================================
+  Processing: Andhra Pradesh
+==================================================
+2026-08-25 06:36:04,770 [INFO]   [Andhra Pradesh] Found 53 MKI PDFs
+2026-08-25 06:36:29,509 [ERROR] PDF text extraction error: No /Root object! - Is this really a PDF?
+2026-08-25 06:36:31,009 [WARNING]     PDF error: https://cag.gov.in/uploads/media/MKI-EXCEL-May-2026-06a45f99843b8b2-59470012.xlsx
+2026-08-25 06:36:40,708 [ERROR] PDF text extraction error: No /Root object! - Is this really a PDF?
+2026-08-25 06:36:42,209 [WARNING]     PDF error: https://cag.gov.in/uploads/media/MKI-JUNE-2026-Excel-06a5a1dd3f355a2-23994118.xlsx
+2026-08-25 06:36:50,050 [INFO]     ✓ Andhra Pradesh | 2026-27 | July | 24/26 indicators
+2026-08-25 06:36:54,109 [ERROR] PDF text extraction error: No /Root object! - Is this really a PDF?
+2026-08-25 06:36:55,609 [WARNING]     PDF error: https://cag.gov.in/uploads/media/MKI-EXCEL-July-2026-06a7f087976cd85-88574859.xlsx
+2026-08-25 06:37:30,957 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Sept2025-068f0dd4d8ca5d4-74297246.pdf
+2026-08-25 06:38:05,319 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Nov-2025-0693ffd55568e30-78479768.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-Nov-2025-0693ffd55568e30-78479768.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b662350>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:38:06,819 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Nov-2025-0693ffd55568e30-78479768.pdf
+2026-08-25 06:38:36,854 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-DEC-2025-06978a83158ad02-95567203.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-DEC-2025-06978a83158ad02-95567203.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b663ad0>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:38:38,355 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-DEC-2025-06978a83158ad02-95567203.pdf
+2026-08-25 06:39:08,390 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JANUARY-2026-0699460be0c7b78-67687389.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-JANUARY-2026-0699460be0c7b78-67687389.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bff04d0>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:39:09,890 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JANUARY-2026-0699460be0c7b78-67687389.pdf
+2026-08-25 06:39:40,494 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-feb-2026-069b942bed42c11-33695723.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-feb-2026-069b942bed42c11-33695723.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bff2cd0>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:39:41,994 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-feb-2026-069b942bed42c11-33695723.pdf
+2026-08-25 06:40:12,500 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-P-2026-069fc787b59f333-66693265.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-Mar-P-2026-069fc787b59f333-66693265.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c1625d0>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:40:14,000 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-P-2026-069fc787b59f333-66693265.pdf
+2026-08-25 06:40:44,035 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Word-JAN-2025-0682342837ccc17-03932126.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-Word-JAN-2025-0682342837ccc17-03932126.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bff2950>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:40:45,535 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Word-JAN-2025-0682342837ccc17-03932126.pdf
+2026-08-25 06:41:37,417 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Word-MAR-P-2025-3-068243d627801f0-80930028.pdf
+2026-08-25 06:41:37,417 [INFO]   [Andhra Pradesh] Done. 1 months parsed, 41 skipped
+2026-08-25 06:41:38,418 [INFO] 
+==================================================
+  Processing: Arunachal Pradesh
+==================================================
+2026-08-25 06:41:45,187 [INFO]   [Arunachal Pradesh] Found 67 MKI PDFs
+2026-08-25 06:41:51,435 [INFO]     ✓ Arunachal Pradesh | 2026-27 | May | 17/26 indicators
+2026-08-25 06:43:29,859 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-February-2026-069ca55809f7d81-68881291.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-February-2026-069ca55809f7d81-68881291.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c377950>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:43:31,359 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-February-2026-069ca55809f7d81-68881291.pdf
+2026-08-25 06:44:01,586 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2026-06a3a1a7aaa2e29-26798231.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-March-S-2026-06a3a1a7aaa2e29-26798231.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c375610>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:44:03,086 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2026-06a3a1a7aaa2e29-26798231.pdf
+2026-08-25 06:44:38,122 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2026-06a0edeba7d3cd3-68577491.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-March-P-2026-06a0edeba7d3cd3-68577491.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c5c6d50>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:44:39,623 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2026-06a0edeba7d3cd3-68577491.pdf
+2026-08-25 06:45:14,646 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-January-2025-067e13987a83531-20289474.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-January-2025-067e13987a83531-20289474.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c5c6c50>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:45:16,146 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-January-2025-067e13987a83531-20289474.pdf
+2026-08-25 06:46:13,710 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Supp-2025-0685935b6b8ea28-07223025.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-March-Supp-2025-0685935b6b8ea28-07223025.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232be67490>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:46:15,211 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Supp-2025-0685935b6b8ea28-07223025.pdf
+2026-08-25 06:46:18,508 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2025-0682d739d7876f9-54256643.pdf
+2026-08-25 06:46:18,509 [INFO]   [Arunachal Pradesh] Done. 1 months parsed, 60 skipped
+2026-08-25 06:46:19,509 [INFO] 
+==================================================
+  Processing: Assam
+==================================================
+2026-08-25 06:46:22,320 [INFO]   [Assam] Found 59 MKI PDFs
+2026-08-25 06:47:02,477 [INFO]     ✓ Assam | 2026-27 | July | 26/26 indicators
+2026-08-25 06:47:36,382 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FEB2026-069aeb77be7dfa7-23030205.pdf
+2026-08-25 06:48:03,880 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2026-06a3b853de7ea92-99264611.pdf
+2026-08-25 06:49:24,380 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Jan25-067c340439e9356-64104031.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-Jan25-067c340439e9356-64104031.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bea33d0>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:49:25,880 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Jan25-067c340439e9356-64104031.pdf
+2026-08-25 06:49:56,133 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FEB25-067e18f2fba5220-82549097.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-FEB25-067e18f2fba5220-82549097.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bea2950>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:49:57,633 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FEB25-067e18f2fba5220-82549097.pdf
+2026-08-25 06:51:39,497 [INFO]   [Assam] Done. 1 months parsed, 54 skipped
+2026-08-25 06:51:40,498 [INFO] 
+==================================================
+  Processing: Bihar
+==================================================
+2026-08-25 06:51:42,573 [INFO]   [Bihar] Found 66 MKI PDFs
+2026-08-25 06:53:56,213 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JULY-2025-068dcd436ddbeb4-87864995.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-JULY-2025-068dcd436ddbeb4-87864995.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bf18350>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:53:57,713 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JULY-2025-068dcd436ddbeb4-87864995.pdf
+2026-08-25 06:54:27,748 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-AUGUST-2025-068f1e87c149e74-45672781.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-AUGUST-2025-068f1e87c149e74-45672781.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bf1ae90>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:54:29,249 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-AUGUST-2025-068f1e87c149e74-45672781.pdf
+2026-08-25 06:54:59,559 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-sept-2025-0691575de7e8eb3-29802589.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-sept-2025-0691575de7e8eb3-29802589.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bff8ad0>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:55:01,060 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-sept-2025-0691575de7e8eb3-29802589.pdf
+2026-08-25 06:56:29,353 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-SY-2026-06a4743b2781360-98512970.pdf
+2026-08-25 06:56:37,751 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-PRE-2026-06a05753eca6e66-74184506.pdf
+2026-08-25 06:57:32,952 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-S-2025-06899b8e488f4f0-35480120.pdf
+2026-08-25 06:57:56,401 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-S-2025-REVISED-068bfdaea3b79e3-75266040.pdf
+2026-08-25 06:58:26,700 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-PRE-2025-0688726a10dc423-27705236.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-MARCH-PRE-2025-0688726a10dc423-27705236.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c33e050>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:58:28,201 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-PRE-2025-0688726a10dc423-27705236.pdf
+2026-08-25 06:58:58,227 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-oct-061a601cf403fd7-58640064.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-oct-061a601cf403fd7-58640064.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c5e32d0>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:58:59,728 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-oct-061a601cf403fd7-58640064.pdf
+2026-08-25 06:58:59,728 [INFO]   [Bihar] Done. 0 months parsed, 57 skipped
+2026-08-25 06:59:00,728 [INFO] 
+==================================================
+  Processing: Chhattisgarh
+==================================================
+2026-08-25 06:59:21,027 [ERROR]   [Chhattisgarh] Page fetch failed: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /ae/chhattisgarh/en/state-accounts-report?defuat_account_report_type=360 (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bff2610>, 'Connection to cag.gov.in timed out. (connect timeout=20)'))
+2026-08-25 06:59:21,027 [WARNING]   [Chhattisgarh] No PDFs found
+2026-08-25 06:59:22,028 [INFO] ⏭  Delhi: no monthly CAG data — skipping
+2026-08-25 06:59:22,028 [INFO] ⏭  Goa: no monthly CAG data — skipping
+2026-08-25 06:59:22,028 [INFO] 
+==================================================
+  Processing: Gujarat
+==================================================
+2026-08-25 06:59:23,921 [INFO]   [Gujarat] Found 69 MKI PDFs
+2026-08-25 06:59:57,708 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2026-with-Loan-data-and-Public-Accounts-Liabilities-06a3d1dedca50f4-36439154.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-May-2026-with-Loan-data-and-Public-Accounts-Liabilities-06a3d1dedca50f4-36439154.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bf62810>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 06:59:59,208 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2026-with-Loan-data-and-Public-Accounts-Liabilities-06a3d1dedca50f4-36439154.pdf
+2026-08-25 07:00:00,696 [ERROR] PDF text extraction error: No /Root object! - Is this really a PDF?
+2026-08-25 07:00:02,196 [WARNING]     PDF error: https://cagiaad-my.sharepoint.com/:x:/r/personal/agaegujaratmsp001_cag_gov_in/_layouts/15/Doc.aspx?sourcedoc=%7B995079AE-C7A1-404E-A077-1383C90AE6BF%7D&file=MKI_June_2026.xlsx&action=default&mobileredirect=true
+2026-08-25 07:00:37,869 [INFO]     ✓ Gujarat | 2026-27 | July | 14/26 indicators
+2026-08-25 07:03:37,045 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-S-2025-with-Loan-Data-068650f60251bc4-71901899.pdf
+2026-08-25 07:03:46,981 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-with-Loan-Data-March-P-2025-1-06826e98c1701d2-77083021.pdf
+2026-08-25 07:03:54,928 [INFO]   [Gujarat] Done. 1 months parsed, 64 skipped
+2026-08-25 07:03:55,928 [INFO] 
+==================================================
+  Processing: Haryana
+==================================================
+2026-08-25 07:04:20,044 [ERROR]   [Haryana] Page fetch failed: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /ae/haryana/en/state-accounts-report?defuat_account_report_type=360 (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bf41fd0>, 'Connection to cag.gov.in timed out. (connect timeout=20)'))
+2026-08-25 07:04:20,044 [WARNING]   [Haryana] No PDFs found
+2026-08-25 07:04:21,044 [INFO] 
+==================================================
+  Processing: Himachal Pradesh
+==================================================
+2026-08-25 07:04:45,332 [ERROR]   [Himachal Pradesh] Page fetch failed: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /ae/himachal-pradesh/en/state-accounts-report?defuat_account_report_type=360 (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bf40bd0>, 'Connection to cag.gov.in timed out. (connect timeout=20)'))
+2026-08-25 07:04:45,332 [WARNING]   [Himachal Pradesh] No PDFs found
+2026-08-25 07:04:46,332 [INFO] 
+==================================================
+  Processing: Jharkhand
+==================================================
+2026-08-25 07:04:48,675 [INFO]   [Jharkhand] Found 31 MKI PDFs
+2026-08-25 07:05:47,157 [INFO]     ✓ Jharkhand | 2026-27 | July | 22/26 indicators
+2026-08-25 07:06:27,564 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-June-2025-0687788f9eb2dc1-14483071.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-June-2025-0687788f9eb2dc1-14483071.pdf (Caused by NameResolutionError("HTTPSConnection(host='cag.gov.in', port=443): Failed to resolve 'cag.gov.in' ([Errno -3] Temporary failure in name resolution)"))
+2026-08-25 07:06:29,064 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-June-2025-0687788f9eb2dc1-14483071.pdf
+2026-08-25 07:06:39,104 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July-2025-068a460204423b4-26259357.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-July-2025-068a460204423b4-26259357.pdf (Caused by NameResolutionError("HTTPSConnection(host='cag.gov.in', port=443): Failed to resolve 'cag.gov.in' ([Errno -3] Temporary failure in name resolution)"))
+2026-08-25 07:06:40,604 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July-2025-068a460204423b4-26259357.pdf
+2026-08-25 07:08:25,633 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-SY-06a4dec986728e9-28162441.pdf
+2026-08-25 07:08:34,349 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2026-06a2174820cb9d0-37901539.pdf
+2026-08-25 07:09:09,358 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-January-2025-067b6e064e09037-42463412.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-January-2025-067b6e064e09037-42463412.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b981b50>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:09:10,858 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-January-2025-067b6e064e09037-42463412.pdf
+2026-08-25 07:09:40,893 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-February-2025-067ed1fbf5f6109-45845812.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-February-2025-067ed1fbf5f6109-45845812.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b982d10>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:09:42,393 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-February-2025-067ed1fbf5f6109-45845812.pdf
+2026-08-25 07:09:46,249 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-2025-0686d17a3598248-62154768.pdf
+2026-08-25 07:10:09,157 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2025-0682c878724e0b7-14752564.pdf
+2026-08-25 07:10:09,157 [INFO]   [Jharkhand] Done. 1 months parsed, 22 skipped
+2026-08-25 07:10:10,157 [INFO] 
+==================================================
+  Processing: Karnataka
+==================================================
+2026-08-25 07:10:14,899 [INFO]   [Karnataka] Found 57 MKI PDFs
+2026-08-25 07:11:41,934 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2025-0684c05cd77b4a9-32362495.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-May-2025-0684c05cd77b4a9-32362495.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b9e2290>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:11:43,434 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2025-0684c05cd77b4a9-32362495.pdf
+2026-08-25 07:11:47,790 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-MARCH-S-1-2026-06a3cc35179dbd7-36040846.pdf
+2026-08-25 07:12:18,352 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKIMARCHP2026-069f09b78dd24b6-99634492.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKIMARCHP2026-069f09b78dd24b6-99634492.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c5ce090>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:12:19,852 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKIMARCHP2026-069f09b78dd24b6-99634492.pdf
+2026-08-25 07:12:50,204 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July-24-066de81b0b7f0a3-31898825.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-July-24-066de81b0b7f0a3-31898825.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c5cf490>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:12:51,704 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July-24-066de81b0b7f0a3-31898825.pdf
+2026-08-25 07:13:12,570 [INFO]   [Karnataka] Done. 0 months parsed, 53 skipped
+2026-08-25 07:13:13,571 [INFO] 
+==================================================
+  Processing: Kerala
+==================================================
+2026-08-25 07:13:37,692 [ERROR]   [Kerala] Page fetch failed: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /ae/kerala/en/state-accounts-report?defuat_account_report_type=360 (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bf4d690>, 'Connection to cag.gov.in timed out. (connect timeout=20)'))
+2026-08-25 07:13:37,692 [WARNING]   [Kerala] No PDFs found
+2026-08-25 07:13:38,692 [INFO] ⏭  Madhya Pradesh: no monthly CAG data — skipping
+2026-08-25 07:13:38,692 [INFO] 
+==================================================
+  Processing: Maharashtra
+==================================================
+2026-08-25 07:14:03,718 [ERROR]   [Maharashtra] Page fetch failed: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /ae/mumbai/en/state-accounts-report?defuat_account_report_type=360 (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bf4e790>, 'Connection to cag.gov.in timed out. (connect timeout=20)'))
+2026-08-25 07:14:03,718 [WARNING]   [Maharashtra] No PDFs found
+2026-08-25 07:14:04,719 [INFO] 
+==================================================
+  Processing: Manipur
+==================================================
+2026-08-25 07:14:07,239 [INFO]   [Manipur] Found 63 MKI PDFs
+2026-08-25 07:14:40,238 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2026-06a8836f3bfd578-53671670.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-April-2026-06a8836f3bfd578-53671670.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bfc8e50>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:14:41,738 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2026-06a8836f3bfd578-53671670.pdf
+2026-08-25 07:15:06,244 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2025-06895c3cceb0509-16914594.pdf
+2026-08-25 07:16:16,554 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-SY-2026-06a6337e54f0a57-87246912.pdf
+2026-08-25 07:16:23,253 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-Pre-2026-merged-06a365541f0ddb3-95209223.pdf
+2026-08-25 07:16:38,369 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-1-2025-0689099c286b093-84481295.pdf
+2026-08-25 07:17:12,950 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-066d80a2f0d76e2-63835440.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-March-Sy-066d80a2f0d76e2-63835440.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bac3690>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:17:14,450 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-066d80a2f0d76e2-63835440.pdf
+2026-08-25 07:17:56,643 [INFO]   [Manipur] Done. 0 months parsed, 57 skipped
+2026-08-25 07:17:57,644 [INFO] 
+==================================================
+  Processing: Meghalaya
+==================================================
+2026-08-25 07:18:19,600 [INFO]   [Meghalaya] Found 64 MKI PDFs
+2026-08-25 07:18:43,029 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-April-2026-06a0e87f56ec884-05286781.pdf
+2026-08-25 07:19:05,483 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-May-2026-06a33ddaf518980-69555823.pdf
+2026-08-25 07:19:28,005 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-of-June-2026-06a5df2ce565c70-50370283.pdf
+2026-08-25 07:19:33,743 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-July-2026-06a86f19c32d239-25289174.pdf
+2026-08-25 07:19:35,700 [ERROR] PDF text extraction error: No /Root object! - Is this really a PDF?
+2026-08-25 07:19:37,200 [WARNING]     PDF error: https://cagiaad-my.sharepoint.com/:x:/r/personal/agaemeghalayamsp001_cag_gov_in/_layouts/15/Doc.aspx?sourcedoc=%7B39392D77-DA96-44E2-875D-0C8E188D722E%7D&file=MKI%20for%20the%20month%20of%20July%202026.xlsx&action=default&mobileredirect=true
+2026-08-25 07:20:34,186 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-June-2025-06881c80f135bb9-89725785.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-for-the-month-of-June-2025-06881c80f135bb9-89725785.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b524850>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:20:35,687 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-June-2025-06881c80f135bb9-89725785.pdf
+2026-08-25 07:21:05,166 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-up-to-the-month-of-September-2025-Accounts-068f9d2938c6ed3-52276312.pdf
+2026-08-25 07:21:14,679 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-Oct-2025-0692fcbe709cbc0-76032855.pdf
+2026-08-25 07:21:50,843 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-February-2026-069bb816380b945-33522363.pdf
+2026-08-25 07:22:17,646 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2026-06a0702d0895e71-94801889.pdf
+2026-08-25 07:22:20,590 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-March-Sy-2026-Accounts-06a49d8023c88e7-92053948.pdf
+2026-08-25 07:22:22,213 [ERROR] PDF text extraction error: No /Root object! - Is this really a PDF?
+2026-08-25 07:22:23,713 [WARNING]     PDF error: https://cagiaad-my.sharepoint.com/my?id=%2Fpersonal%2Fagaemeghalayamsp001%5Fcag%5Fgov%5Fin%2FDocuments%2FMKI&viewid=34b75847%2Dae23%2D40ed%2Daac4%2D1b27beca7499
+2026-08-25 07:22:53,742 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-January-2025-067b6d784027b44-51140673.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-January-2025-067b6d784027b44-51140673.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b73e790>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:22:55,242 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-January-2025-067b6d784027b44-51140673.pdf
+2026-08-25 07:23:25,549 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-Feb-MKI-2025-067dd368398c070-46463220.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-Feb-MKI-2025-067dd368398c070-46463220.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b73cf50>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:23:27,050 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-Feb-MKI-2025-067dd368398c070-46463220.pdf
+2026-08-25 07:24:01,829 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-March-Pre-2025-068257c3487e036-40962831.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-for-the-month-of-March-Pre-2025-068257c3487e036-40962831.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b454210>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:24:03,329 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-March-Pre-2025-068257c3487e036-40962831.pdf
+2026-08-25 07:24:06,412 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-for-the-month-of-March-Sy-2025-0686b96b67fdca0-87199010.pdf
+2026-08-25 07:24:28,905 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-SUPPLEMENTARY-062c560748a5d67-32246261.pdf
+2026-08-25 07:24:28,905 [INFO]   [Meghalaya] Done. 0 months parsed, 47 skipped
+2026-08-25 07:24:29,905 [INFO] 
+==================================================
+  Processing: Mizoram
+==================================================
+2026-08-25 07:24:31,955 [INFO]   [Mizoram] Found 36 MKI PDFs
+2026-08-25 07:24:54,826 [INFO]     ✓ Mizoram | 2026-27 | April | 9/26 indicators
+2026-08-25 07:24:58,217 [INFO]     ✓ Mizoram | 2026-27 | June | 10/26 indicators
+2026-08-25 07:25:28,475 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-Mar-Suppl-2026-06a4e184c520767-17500360.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-Monthly-Trends-MKI-Mar-Suppl-2026-06a4e184c520767-17500360.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bc34250>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:25:29,975 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-Mar-Suppl-2026-06a4e184c520767-17500360.pdf
+2026-08-25 07:25:56,153 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Supplement-2026-06a4e189f277344-90742267.pdf
+2026-08-25 07:26:04,030 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2026-069fb24aab2fa25-71109343.pdf
+2026-08-25 07:26:07,744 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-Mar-pre-2026-069fb24df4c7a44-23978510.pdf
+2026-08-25 07:26:10,869 [INFO]     ✓ Mizoram | 2025-26 | August | 9/26 indicators
+2026-08-25 07:26:14,062 [INFO]     ✓ Mizoram | 2025-26 | October | 9/26 indicators
+2026-08-25 07:26:17,727 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-2025-0692d7e6ac28c74-85276510.pdf
+2026-08-25 07:26:40,537 [INFO]     ✓ Mizoram | 2025-26 | November | 9/26 indicators
+2026-08-25 07:26:44,189 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-November-revised-2025-06979d0c0dbc7f6-67100073.pdf
+2026-08-25 07:26:51,679 [INFO]     ✓ Mizoram | 2025-26 | December | 9/26 indicators
+2026-08-25 07:26:55,109 [INFO]     ✓ Mizoram | 2025-26 | December | 0/26 indicators
+2026-08-25 07:27:30,145 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Janurary-2026-0699d6a056f7d11-16097052.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-Janurary-2026-0699d6a056f7d11-16097052.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b879e50>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:27:31,645 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Janurary-2026-0699d6a056f7d11-16097052.pdf
+2026-08-25 07:28:01,680 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-Janurary-2026-0699d6a38b73f70-15585200.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-Monthly-Trends-MKI-Janurary-2026-0699d6a38b73f70-15585200.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bdd2210>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:28:03,180 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-Janurary-2026-0699d6a38b73f70-15585200.pdf
+2026-08-25 07:28:33,396 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-February-2026-069c672434fdd12-72579835.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-February-2026-069c672434fdd12-72579835.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bdd3e10>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:28:34,897 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-February-2026-069c672434fdd12-72579835.pdf
+2026-08-25 07:29:05,625 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-February-2026-069c67275a01b22-28150077.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-Monthly-Trends-MKI-February-2026-069c67275a01b22-28150077.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c0e1190>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:29:07,125 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-February-2026-069c67275a01b22-28150077.pdf
+2026-08-25 07:29:34,486 [INFO]   [Mizoram] Done. 7 months parsed, 19 skipped
+2026-08-25 07:29:35,487 [INFO] 
+==================================================
+  Processing: Nagaland
+==================================================
+2026-08-25 07:29:38,437 [INFO]   [Nagaland] Found 57 MKI PDFs
+2026-08-25 07:30:13,462 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Report-April-2026-06a1021eab58c10-10385704.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-Report-April-2026-06a1021eab58c10-10385704.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bfa4d90>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:30:14,962 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Report-April-2026-06a1021eab58c10-10385704.pdf
+2026-08-25 07:30:46,238 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Report-Annexure-merged-06a67495118b6b0-16095691.pdf
+2026-08-25 07:31:02,491 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Report-2025-26-0685ba1c6b92fd4-13742377.pdf
+2026-08-25 07:31:09,440 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Report-2025-26-068ca81cceff392-05786865.pdf
+2026-08-25 07:31:14,950 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-068da0aa5e37597-70922073.pdf
+2026-08-25 07:32:44,794 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Dec-22-063d7a105cf8be1-48435582.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-Dec-22-063d7a105cf8be1-48435582.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b4a1210>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:32:46,294 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Dec-22-063d7a105cf8be1-48435582.pdf
+2026-08-25 07:33:16,550 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-060f6988da01f22-45984629.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-060f6988da01f22-45984629.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bc7ae50>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:33:18,051 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-060f6988da01f22-45984629.pdf
+2026-08-25 07:33:52,978 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-November-061c046ca87d378-33943571.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-November-061c046ca87d378-33943571.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bc79b50>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:33:54,479 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-November-061c046ca87d378-33943571.pdf
+2026-08-25 07:33:54,479 [INFO]   [Nagaland] Done. 0 months parsed, 49 skipped
+2026-08-25 07:33:55,479 [INFO] 
+==================================================
+  Processing: Odisha
+==================================================
+2026-08-25 07:34:02,444 [INFO]   [Odisha] Found 51 MKI PDFs
+2026-08-25 07:35:08,708 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-07-2026-06a8303ed066885-95321748.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-TREND-07-2026-06a8303ed066885-95321748.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b7d2910>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:35:10,208 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-07-2026-06a8303ed066885-95321748.pdf
+2026-08-25 07:36:56,894 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-TREND-3-2026-merged-069f34fa395fb70-90490099.pdf
+2026-08-25 07:37:30,334 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-2025-JAN-067c5afdc31f5a2-60104797.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-2025-JAN-067c5afdc31f5a2-60104797.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b21e6d0>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:37:31,834 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-2025-JAN-067c5afdc31f5a2-60104797.pdf
+2026-08-25 07:38:06,796 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-feb-24-25-067d813d1ec3972-75946638.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-feb-24-25-067d813d1ec3972-75946638.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b21d210>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:38:08,296 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-feb-24-25-067d813d1ec3972-75946638.pdf
+2026-08-25 07:40:11,127 [INFO]   [Odisha] Done. 0 months parsed, 47 skipped
+2026-08-25 07:40:12,127 [INFO] ⏭  Punjab: no monthly CAG data — skipping
+2026-08-25 07:40:12,127 [INFO] 
+==================================================
+  Processing: Rajasthan
+==================================================
+2026-08-25 07:40:14,417 [INFO]   [Rajasthan] Found 68 MKI PDFs
+2026-08-25 07:40:25,065 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-5-merged-06a5db2cc7e76c8-55611892.pdf
+2026-08-25 07:40:28,228 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-6-06a7ac6d5558255-78142112.pdf
+2026-08-25 07:40:31,536 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-7-06a858939ab0e30-36356492.pdf
+2026-08-25 07:41:27,169 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-pdf-08-2025-068c28dc37eef75-43764077.pdf
+2026-08-25 07:41:36,071 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI09-2025-068e8e88fb47263-93539970.pdf
+2026-08-25 07:42:10,056 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-03-pdf-069eaf0fe7d4e03-66252254.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-03-pdf-069eaf0fe7d4e03-66252254.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bc09590>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:42:11,556 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-03-pdf-069eaf0fe7d4e03-66252254.pdf
+2026-08-25 07:42:41,591 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-01-2025-067ac763e7f26c4-00375986.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-01-2025-067ac763e7f26c4-00375986.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bc08d10>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:42:43,091 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-01-2025-067ac763e7f26c4-00375986.pdf
+2026-08-25 07:43:13,125 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-02-2025-067d03bb2df0cd4-16200932.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-02-2025-067d03bb2df0cd4-16200932.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b298710>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:43:14,625 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-02-2025-067d03bb2df0cd4-16200932.pdf
+2026-08-25 07:43:48,575 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-13-2025-0684a971bc60bd7-70594874.pdf
+2026-08-25 07:43:48,576 [INFO]   [Rajasthan] Done. 0 months parsed, 59 skipped
+2026-08-25 07:43:49,576 [INFO] 
+==================================================
+  Processing: Sikkim
+==================================================
+2026-08-25 07:44:09,582 [ERROR]   [Sikkim] Page fetch failed: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /ae/sikkim/en/state-accounts-report?defuat_account_report_type=360 (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c169450>, 'Connection to cag.gov.in timed out. (connect timeout=20)'))
+2026-08-25 07:44:09,582 [WARNING]   [Sikkim] No PDFs found
+2026-08-25 07:44:10,582 [INFO] 
+==================================================
+  Processing: Tamil Nadu
+==================================================
+2026-08-25 07:44:35,608 [ERROR]   [Tamil Nadu] Page fetch failed: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /ae/tamil-nadu/en/state-accounts-report?defuat_account_report_type=360 (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c169e50>, 'Connection to cag.gov.in timed out. (connect timeout=20)'))
+2026-08-25 07:44:35,608 [WARNING]   [Tamil Nadu] No PDFs found
+2026-08-25 07:44:36,608 [INFO] 
+==================================================
+  Processing: Telangana
+==================================================
+2026-08-25 07:44:38,903 [INFO]   [Telangana] Found 63 MKI PDFs
+2026-08-25 07:45:32,572 [INFO]     ✓ Telangana | 2026-27 | July | 25/26 indicators
+2026-08-25 07:45:34,120 [ERROR] PDF text extraction error: No /Root object! - Is this really a PDF?
+2026-08-25 07:45:35,620 [WARNING]     PDF error: https://cag.gov.in/uploads/media/MKI-JULY-2026-1-06a85925d95a011-70230848.xlsx
+2026-08-25 07:45:39,130 [INFO]     ✓ Telangana | 2025-26 | April | 0/26 indicators
+2026-08-25 07:47:13,154 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-December-2025-final-0696a1f8013b472-88202574.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-December-2025-final-0696a1f8013b472-88202574.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c52f450>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:47:14,654 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-December-2025-final-0696a1f8013b472-88202574.pdf
+2026-08-25 07:47:45,032 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-January-combined-2026-Final-06993099ff28c44-44224783.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-January-combined-2026-Final-06993099ff28c44-44224783.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b320f10>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:47:46,532 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-January-combined-2026-Final-06993099ff28c44-44224783.pdf
+2026-08-25 07:48:16,780 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-February-2026-F-069d8e6ba236d09-45468645.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-February-2026-F-069d8e6ba236d09-45468645.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b322c10>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:48:18,280 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-February-2026-F-069d8e6ba236d09-45468645.pdf
+2026-08-25 07:48:26,537 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-P-2026-06a0470ccbc2882-44923651.pdf
+2026-08-25 07:49:24,493 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FEBRUARY-2025-1-067ff7f3a921f73-15991754.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-FEBRUARY-2025-1-067ff7f3a921f73-15991754.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c4afcd0>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:49:25,993 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FEBRUARY-2025-1-067ff7f3a921f73-15991754.pdf
+2026-08-25 07:50:01,029 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-P-2025-06826ef930e1de8-34710562.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-MARCH-P-2025-06826ef930e1de8-34710562.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b336010>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:50:02,530 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-P-2025-06826ef930e1de8-34710562.pdf
+2026-08-25 07:50:16,113 [INFO]   [Telangana] Done. 2 months parsed, 54 skipped
+2026-08-25 07:50:17,114 [INFO] 
+==================================================
+  Processing: Tripura
+==================================================
+2026-08-25 07:50:23,388 [INFO]   [Tripura] Found 60 MKI PDFs
+2026-08-25 07:51:49,677 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July-2026-06a86e1f0e80450-45868252.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-July-2026-06a86e1f0e80450-45868252.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b6e6010>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:51:51,177 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July-2026-06a86e1f0e80450-45868252.pdf
+2026-08-25 07:52:24,930 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2025-06825dedc344678-76009859.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-April-2025-06825dedc344678-76009859.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232ba815d0>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:52:26,430 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2025-06825dedc344678-76009859.pdf
+2026-08-25 07:52:56,770 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2025-0684ff1164bb963-58476383.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-May-2025-0684ff1164bb963-58476383.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232ba81410>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:52:58,271 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2025-0684ff1164bb963-58476383.pdf
+2026-08-25 07:54:14,672 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-August-2025-068c9460c0cfa21-76536841.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-August-2025-068c9460c0cfa21-76536841.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c012c50>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:54:16,172 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-August-2025-068c9460c0cfa21-76536841.pdf
+2026-08-25 07:55:09,359 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-Sy-2026-06a507ca96d1b28-57967171.pdf
+2026-08-25 07:55:13,045 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Mar-P-2026-069ef0a9a88d637-07048410.pdf
+2026-08-25 07:55:52,226 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sy-2025-068666e40deb430-32981145.pdf
+2026-08-25 07:56:14,818 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2025-068121088245974-69421861.pdf
+2026-08-25 07:57:50,564 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-December-21-061fcbebbd1b299-72227907.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-December-21-061fcbebbd1b299-72227907.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bd0ded0>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 07:57:52,065 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-December-21-061fcbebbd1b299-72227907.pdf
+2026-08-25 07:57:52,065 [INFO]   [Tripura] Done. 0 months parsed, 51 skipped
+2026-08-25 07:57:53,065 [INFO] 
+==================================================
+  Processing: Uttar Pradesh
+==================================================
+2026-08-25 07:58:14,850 [INFO]   [Uttar Pradesh] Found 18 MKI PDFs
+2026-08-25 07:59:20,646 [INFO]     ✓ Uttar Pradesh | 2026-27 | July | 26/26 indicators
+2026-08-25 08:00:49,641 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-February-069ba70aaac5d38-23797180.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-February-069ba70aaac5d38-23797180.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232bcbc150>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 08:00:51,141 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-February-069ba70aaac5d38-23797180.pdf
+2026-08-25 08:01:21,189 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2026-06a0457c25a92c3-32540965.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-March-Pre-2026-06a0457c25a92c3-32540965.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b568950>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 08:01:22,690 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Pre-2026-06a0457c25a92c3-32540965.pdf
+2026-08-25 08:01:46,594 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-account-report-MKI-March-pre2025-06895e89e502f35-47338196.pdf
+2026-08-25 08:02:10,356 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-Revised-MKI-Sup2025-069a134d9685f14-90388484.pdf
+2026-08-25 08:02:10,356 [INFO]   [Uttar Pradesh] Done. 1 months parsed, 13 skipped
+2026-08-25 08:02:11,356 [INFO] 
+==================================================
+  Processing: Uttarakhand
+==================================================
+2026-08-25 08:02:34,126 [INFO]   [Uttarakhand] Found 11 MKI PDFs
+2026-08-25 08:02:59,290 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-may-26-06a328937ed28f9-31595600.pdf
+2026-08-25 08:03:29,559 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-june-2026-06a5e047cebb5c9-45091869.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-june-2026-06a5e047cebb5c9-45091869.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232ba91750>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 08:03:31,060 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-june-2026-06a5e047cebb5c9-45091869.pdf
+2026-08-25 08:03:35,930 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-APR-2025-0682c15bd5477d3-71258584.pdf
+2026-08-25 08:03:45,021 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JULY-2025-068a31ba287b0a8-21163839.pdf
+2026-08-25 08:03:49,584 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Feb-069b926ec520b07-66989519.pdf
+2026-08-25 08:03:55,241 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-Sup-2026-06a4dd6f353fbc7-85022181.pdf
+2026-08-25 08:04:01,627 [INFO]   [Uttarakhand] Done. 0 months parsed, 5 skipped
+2026-08-25 08:04:02,628 [INFO] 
+==================================================
+  Processing: West Bengal
+==================================================
+2026-08-25 08:04:24,762 [INFO]   [West Bengal] Found 64 MKI PDFs
+2026-08-25 08:04:41,110 [INFO]     ✓ West Bengal | 2026-27 | July | 17/26 indicators
+2026-08-25 08:05:29,236 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-AUGUST-2025-068d0f2e100f4c9-46674683.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-MKI-AUGUST-2025-068d0f2e100f4c9-46674683.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b527890>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 08:05:30,737 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-AUGUST-2025-068d0f2e100f4c9-46674683.pdf
+2026-08-25 08:06:00,772 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-SEPTEMBER-MKI-Details-25-26-1-068f89948d11be9-84310521.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-SEPTEMBER-MKI-Details-25-26-1-068f89948d11be9-84310521.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232b525e10>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 08:06:02,272 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-SEPTEMBER-MKI-Details-25-26-1-068f89948d11be9-84310521.pdf
+2026-08-25 08:06:36,630 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-account-report-MKI-for-the-month-of-January-2026-0699822731819f3-55111354-069c12171710a25-96118826.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-account-report-MKI-for-the-month-of-January-2026-0699822731819f3-55111354-069c12171710a25-96118826.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c4efc10>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 08:06:38,130 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-account-report-MKI-for-the-month-of-January-2026-0699822731819f3-55111354-069c12171710a25-96118826.pdf
+2026-08-25 08:07:12,732 [ERROR] Download failed [https://cag.gov.in/uploads/state_accounts_report/account-report-account-report-MKI-FEB-2026-069bcff238298f2-08188748-069c12148b748c3-12464223.pdf]: HTTPSConnectionPool(host='cag.gov.in', port=443): Max retries exceeded with url: /uploads/state_accounts_report/account-report-account-report-MKI-FEB-2026-069bcff238298f2-08188748-069c12148b748c3-12464223.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cag.gov.in', port=443) at 0x7f232c47ce10>, 'Connection to cag.gov.in timed out. (connect timeout=30)'))
+2026-08-25 08:07:14,232 [WARNING]     PDF error: https://cag.gov.in/uploads/state_accounts_report/account-report-account-report-MKI-FEB-2026-069bcff238298f2-08188748-069c12148b748c3-12464223.pdf
+2026-08-25 08:07:41,596 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-approved-MKI-06a4e3fabe74598-09516166.pdf
+2026-08-25 08:08:04,538 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-March-P-2026-06a06fa27eee2e2-48617856.pdf
+2026-08-25 08:09:00,223 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-FOR-MARCH-SY-2025-0686d3f37180546-68931347.pdf
+2026-08-25 08:09:50,497 [WARNING]     Date parse failed: https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-MARCH-Sy-22-062cd4a32c90349-02728204.pdf
+2026-08-25 08:09:50,497 [INFO]   [West Bengal] Done. 1 months parsed, 55 skipped
+2026-08-25 08:09:51,900 [INFO] Saved 17654 rows to master CSV
+2026-08-25 08:09:51,930 [INFO] 
+Completeness Scores:
+2026-08-25 08:09:51,930 [INFO]   Bihar                       97.2%
+2026-08-25 08:09:51,931 [INFO]   Chhattisgarh                97.1%
+2026-08-25 08:09:51,931 [INFO]   Odisha                      96.2%
+2026-08-25 08:09:51,931 [INFO]   Meghalaya                   92.7%
+2026-08-25 08:09:51,931 [INFO]   Jharkhand                   88.2%
+2026-08-25 08:09:51,931 [INFO]   Uttar Pradesh               86.8%
+2026-08-25 08:09:51,931 [INFO]   Rajasthan                   86.4%
+2026-08-25 08:09:51,931 [INFO]   Arunachal Pradesh           83.7%
+2026-08-25 08:09:51,931 [INFO]   Maharashtra                 81.4%
+2026-08-25 08:09:51,931 [INFO]   Assam                       81.2%
+2026-08-25 08:09:51,931 [INFO]   Himachal Pradesh            78.9%
+2026-08-25 08:09:51,931 [INFO]   Tamil Nadu                  78.4%
+2026-08-25 08:09:51,931 [INFO]   Gujarat                     75.5%
+2026-08-25 08:09:51,931 [INFO]   Nagaland                    73.7%
+2026-08-25 08:09:51,931 [INFO]   Manipur                     70.7%
+2026-08-25 08:09:51,931 [INFO]   Tripura                     70.6%
+2026-08-25 08:09:51,931 [INFO]   Haryana                     70.1%
+2026-08-25 08:09:51,931 [INFO]   West Bengal                 66.8%
+2026-08-25 08:09:51,931 [INFO]   Uttarakhand                 65.4%
+2026-08-25 08:09:51,931 [INFO]   Andhra Pradesh              60.9%
+2026-08-25 08:09:51,931 [INFO]   Telangana                   60.2%
+2026-08-25 08:09:51,931 [INFO]   Karnataka                   56.2%
+2026-08-25 08:09:51,931 [INFO]   Kerala                      50.2%
+2026-08-25 08:09:51,931 [INFO]   Sikkim                      38.2%
+2026-08-25 08:09:51,931 [INFO]   Mizoram                     12.7%
+2026-08-25 08:10:05,416 [INFO] Office Excel saved: outputs/CAG_Monthly_Key_Indicators_Office.xlsx
+2026-08-25 08:10:05,416 [INFO] 
+✅ Pipeline complete. Processed 25 states.

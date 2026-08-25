@@ -887,22 +887,22 @@
   "Mizoram|2025-26|8": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-August-25-068d5195caddbb1-84041210.pdf",
-    "updated": "2026-07-25T08:23:47.190178"
+    "updated": "2026-08-25T07:26:10.869505"
   },
   "Mizoram|2025-26|10": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-October2025-0692d7e4faa8949-58262888.pdf",
-    "updated": "2026-07-25T08:23:51.001681"
+    "updated": "2026-08-25T07:26:14.062188"
   },
   "Mizoram|2025-26|11": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-November-2025-0694a652b1c8e96-23147183.pdf",
-    "updated": "2026-07-25T08:23:57.848725"
+    "updated": "2026-08-25T07:26:40.537680"
   },
   "Mizoram|2025-26|12": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-Monthly-Trends-MKI-December-2025-06979d15c086e54-79617671.pdf",
-    "updated": "2026-07-25T08:24:20.295856"
+    "updated": "2026-08-25T07:26:55.109009"
   },
   "Mizoram|2024-25|8": {
     "status": "OK",
@@ -1167,7 +1167,7 @@
   "Telangana|2025-26|4": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-2025-1-1-06841891bec9cb1-13676530.pdf",
-    "updated": "2026-07-25T08:32:23.955696"
+    "updated": "2026-08-25T07:45:39.130831"
   },
   "Telangana|2025-26|5": {
     "status": "OK",
@@ -1707,7 +1707,7 @@
   "Mizoram|2026-27|4": {
     "status": "PARSE_ERROR",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-April-26-Provisional-06a16dc05b972d9-74560364.pdf",
-    "updated": "2026-07-25T08:23:27.494221"
+    "updated": "2026-08-25T07:24:54.826281"
   },
   "Odisha|2026-27|5": {
     "status": "OK",
@@ -1833,5 +1833,50 @@
     "status": "OK",
     "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-Details-JUNE-26-27-approved-06a636e23540db2-93143939.pdf",
     "updated": "2026-07-25T08:38:37.803943"
+  },
+  "Andhra Pradesh|2026-27|7": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-july-2026-06a7f085c30bf81-94851004.pdf",
+    "updated": "2026-08-25T06:36:50.050597"
+  },
+  "Arunachal Pradesh|2026-27|5": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-May-2026-06a7af695917409-98256230.pdf",
+    "updated": "2026-08-25T06:41:51.435096"
+  },
+  "Assam|2026-27|7": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July2026-06a86f15ab58307-84259527.pdf",
+    "updated": "2026-08-25T06:47:02.477890"
+  },
+  "Gujarat|2026-27|7": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July-2026-06a859847234929-97700748.pdf",
+    "updated": "2026-08-25T07:00:37.869843"
+  },
+  "Jharkhand|2026-27|7": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July-2026-06a85574d895ca4-46039039.pdf",
+    "updated": "2026-08-25T07:05:47.157071"
+  },
+  "Mizoram|2026-27|6": {
+    "status": "PARSE_ERROR",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-June-2026-Provisioanl-26-06a69e1304337a0-28186971.pdf",
+    "updated": "2026-08-25T07:24:58.217206"
+  },
+  "Telangana|2026-27|7": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JULY-2026-1-3-06a85820bc7d764-86000268.pdf",
+    "updated": "2026-08-25T07:45:32.572547"
+  },
+  "Uttar Pradesh|2026-27|7": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-July-2026-06a7f0363938958-78735651.pdf",
+    "updated": "2026-08-25T07:59:20.646776"
+  },
+  "West Bengal|2026-27|7": {
+    "status": "OK",
+    "url": "https://cag.gov.in/uploads/state_accounts_report/account-report-MKI-JULY-2026-signed-06a87ff4eda5344-98650878.pdf",
+    "updated": "2026-08-25T08:04:41.110875"
   }
 }
